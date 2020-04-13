@@ -50,12 +50,11 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Example
-    url:               /example/
-  - title:             Documentation
-    url:               https://hydejack.com/docs/
-  - title:             About
-    url:               /about/
+  - title:             COVID-19
+    url:               /COVID-19/
+  - title:             Group EDA
+    url:               /tx-accidents/
+
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
