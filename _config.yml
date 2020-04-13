@@ -51,6 +51,8 @@ menu:
     url:               /COVID-19/
   - title:             Group EDA
     url:               /tx-accidents/
+  - title:             Resume
+    url:               /RESUME/
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
 # legal:
