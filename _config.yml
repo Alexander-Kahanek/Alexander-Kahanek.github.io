@@ -51,7 +51,7 @@ menu:
     url:               /COVID-19/
   - title:             Group EDA
     url:               /tx-accidents/
-  - title:             About
+  - title:             Resume
     url:               /about/
 
 # Add links to the footer.
