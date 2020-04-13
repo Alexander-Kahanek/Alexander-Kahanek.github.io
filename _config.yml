@@ -29,7 +29,8 @@ description:           >
 
 # A shorter description for the sidebar.
 tagline:               >
-  Currently seeking an internship in a Data Science related field.
+  "testing sidebar".
+  Open `_config.yml` to edit this text.
 
 # A list of keywords for your blog
 keywords:              [Data Science, Machine Learning, Exploratory Data Analysis]
@@ -48,8 +49,12 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Projects
-    url:               /projects/
+  - title:             Hydejack
+    url:               /hydejack/
+  - title:             Hyde
+    url:               /hyde/
+  - title:             Documentation
+    url:               /docs/
   - title:             About
     url:               /about/
 
@@ -287,22 +292,11 @@ plugins:
 #   alexa:               <verification-id>
 #   yandex:              <verification-id>
 
-# Used for Twitter cards
-# twitter:
-#   username:            <shortname>
-
-# Used for Facebook open graph
-# facebook:
-#   app_id:              <id>
-#   publisher:           <id>
-#   admins:              <id>
-
 # Used on index and about sites
 # social:
-#   name:                <firstname> <lastname>
+#   name:                <Alexander> <Kahanek>
 #   links:
-#     - https://twitter.com/<username>
-#     - https://github.com/<username>
+#     - https://github.com/<alexander-kahanek>
 
 
 # Other Plugins
