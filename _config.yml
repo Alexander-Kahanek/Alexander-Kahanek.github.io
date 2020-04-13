@@ -29,8 +29,7 @@ description:           >
 
 # A shorter description for the sidebar.
 tagline:               >
-  "testing sidebar".
-  Open `_config.yml` to edit this text.
+  Currently seeking an internship in a Data Science related field.
 
 # A list of keywords for your blog
 keywords:              [Data Science, Machine Learning, Exploratory Data Analysis]
@@ -49,12 +48,8 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Hydejack
-    url:               /hydejack/
-  - title:             Hyde
-    url:               /hyde/
-  - title:             Documentation
-    url:               /docs/
+  - title:             Projects
+    url:               /projects/
   - title:             About
     url:               /about/
 
