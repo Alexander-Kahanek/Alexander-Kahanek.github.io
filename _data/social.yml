@@ -2,7 +2,6 @@
 email:
   name: Email
   icon: icon-mail
-  prepend: 'mailto:'
 amazon:
   name: Amazon
   icon: icon-amazon
@@ -94,7 +93,7 @@ deviantart:
 steam:
   name: Steam
   icon: icon-steam
-  prepend: "http://steamcommunity.com/profiles/"
+  pretend: "http://steamcommunity.com/profiles/"
 dropbox:
   name: Dropbox
   icon: icon-dropbox
@@ -199,10 +198,6 @@ paypal:
   name: PayPal
   icon: icon-paypal
   prepend: "https://www.paypal.me/"
-keybase:
-  name: Keybase
-  icon: icon-key
-  prepend: "https://keybase.io/"
 download:
   name: Download
   icon: icon-box-add

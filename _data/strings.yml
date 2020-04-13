@@ -24,12 +24,10 @@ links:                 Links
 pagination:            Pagination
 newer:                 Newer
 older:                 Older
-forward:               Forward
 back:                  Back
 permalink:             Permalink
 permalink_icon:        icon-link
 templates:             Templates (for web app)
-present:               present
 
 loading:               Loading…
 redirecting:           Redirecting…
@@ -39,7 +37,7 @@ continue_reading:      >
 
 cookies_banner:
   text:                >
-    This site uses cookies.
+    This site uses cookies. [Cookies Policy](/hydejack/cookies-policy/).
   okay:                Okay
 
 not_found:
@@ -62,7 +60,6 @@ category_start:        'in '
 category_spearator:    ' / '
 tag_start:             'on '
 tag_separator:         ', '
-from_to_separator:     '–'
 
 
 # Date formats
@@ -95,12 +92,18 @@ tinyletter:
     {:.faded}
 
 welcome:
+  selected_projects:   Selected Projects
+  selected_posts:      Selected Posts
+  recent_projects:     Recent Projects
+  recent_posts:        Recent Posts
   more_projects:       See <!--projects_title--> for more
   more_posts:          See <!--posts_title--> for more
 
 resume:
   location:            Location
   location_separator:  ', '
+  from_to_separator:   '–'
+  present:             present
   email:               Email
   phone:               Phone
   website:             Website

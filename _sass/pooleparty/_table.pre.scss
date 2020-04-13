@@ -1,17 +1,22 @@
 // Copyright (c) 2017 Florian Klampfer <https://qwtel.com/>
 //
-// This program is free software: you can redistribute it and/or modify
-// it under the terms of the GNU General Public License as published by
-// the Free Software Foundation, either version 3 of the License, or
-// (at your option) any later version.
+// Permission is hereby granted, free of charge, to any person obtaining a copy
+// of this software and associated documentation files (the "Software"), to deal
+// in the Software without restriction, including without limitation the rights
+// to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+// copies of the Software, and to permit persons to whom the Software is
+// furnished to do so, subject to the following conditions:
 //
-// This program is distributed in the hope that it will be useful,
-// but WITHOUT ANY WARRANTY; without even the implied warranty of
-// MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-// GNU General Public License for more details.
+// The above copyright notice and this permission notice shall be included in all
+// copies or substantial portions of the Software.
 //
-// You should have received a copy of the GNU General Public License
-// along with this program.  If not, see <http://www.gnu.org/licenses/>.
+// THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+// IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+// FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+// AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+// LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+// OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+// SOFTWARE.
 
 table:not(.highlight) {
   // <<< inline
@@ -22,15 +27,15 @@ table:not(.highlight) {
 
   // <<< link
   display: block;
+  vertical-align: top;
   overflow-x: auto;
   -webkit-overflow-scrolling: touch;
   // >>>
 
   // <<< inline
   td, th {
-    @extend .color-transition;
     padding: .25rem .5rem;
-    border: 1px solid var(--border-color);
+    border: 1px solid $border-color;
 
     &:first-child {
       padding-left: 1rem;
@@ -44,27 +49,23 @@ table:not(.highlight) {
 
   // <<< link
   thead {
-    @extend .color-transition;
-    background-color: var(--body-bg);
+    background-color: $body-bg;
   }
 
   thead + tbody,
   tbody + tbody,
   tfoot {
-    @extend .color-transition;
-    border-top: 3px double var(--border-color);
+    border-top: 3px double $border-color;
   }
 
   tbody tr:nth-child(even) td,
   tbody tr:nth-child(even) th {
-    @extend .color-transition;
-    background-color: var(--body-bg);
+    background-color: $body-bg;
   }
 
   tbody tr:nth-child(odd) td,
   tbody tr:nth-child(odd) th {
-    @extend .color-transition;
-    background-color: var(--gray-bg);
+    background-color: $gray-bg;
   }
   // >>>
 }
@@ -90,8 +91,8 @@ table:not(.highlight) {
   thead,
   thead + tbody,
   tbody + tbody {
-    border-top: 1px solid var(--border-color);
-    border-bottom: 1px solid var(--border-color);
+    border-top: 1px solid $border-color;
+    border-bottom: 1px solid $border-color;
   }
 
   thead, tbody {
@@ -127,14 +128,14 @@ table:not(.highlight) {
 
     &:first-child {
       td {
-        border-left: 1px solid var(--border-color);
+        border-left: 1px solid $border-color;
       }
     }
 
     &:last-child {
       td {
         padding-right: 1rem;
-        border-right: 1px solid var(--border-color);
+        border-right: 1px solid $border-color;
       }
     }
   }
