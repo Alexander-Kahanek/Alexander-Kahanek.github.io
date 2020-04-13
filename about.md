@@ -1,23 +1,8 @@
 ---
-# This page uses Hydejack's `about` layout, which shows the primary author's picture and about text at the top.
-# You can change it to the regular `page` layout if you want.
-layout: about
-
-# The title of the page.
-title: About
-
-# Write a short (~150 characters) description of each blog post.
-# This description is used to preview the page on search engines, social media, etc.
-description: >
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-# You can show the description on the page by deleting this line:
-hide_description: true
-
-# TODO
 image: /assets/img/blog/hydejack-8.png
 ---
+
+# About
 
 The "Best Jekyll Theme by a Mile".
 {:.lead}
@@ -42,15 +27,15 @@ There are two versions of **Hydejack**: The base version is free, while features
 | [Welcome]              |                | &#x2714; |
 | [Newsletter Box][news] |                | &#x2714; |
 | [Custom Forms][forms]  |                | &#x2714; |
-| Dark Mode              |                | &#x2714; |
+| [Dark Mode][darkm]     |                | &#x2714; |
+| [Offline Support][ofln]|                | &#x2714; |
 | Cookie Banner          |                | &#x2714; |
-| Offline Support        |                | &#x2714; |
 | No Hydejack Branding   |                | &#x2714; |
 | License                | [GPL-3.0][lic] | [PRO]    |
 | Source                 | [GitHub][src]  | Included |
 | Support[^1]            | No             | No       |
 | Price                  | Free           | $59      |
-| | [**Download**][kit] <br/>-- or --<br/> [![Deploy to Netlify][dtn]{:data-ignore=""}][nfy]{:.no-hover.no-mark} | [**Buy PRO**][buy] |
+| | [**Download**][kit] <br/>-- or --<br/> [![Deploy to Netlify][dtn]{:data-ignore=""}][nfy]{:.no-hover.no-mark} | [**Buy PRO** --- $59][buy]{:.btn.btn-primary.btn-lg.heading} |
 {:.stretch-table.dl-table}
 
 
@@ -145,15 +130,15 @@ This table below shows what's included in each version:
 | [Welcome]              |                | &#x2714; |
 | [Newsletter Box][news] |                | &#x2714; |
 | [Custom Forms][forms]  |                | &#x2714; |
-| Dark Mode              |                | &#x2714; |
+| [Dark Mode][darkm]     |                | &#x2714; |
+| [Offline Support][ofln]|                | &#x2714; |
 | Cookie Banner          |                | &#x2714; |
-| Offline Support        |                | &#x2714; |
 | No Hydejack Branding   |                | &#x2714; |
 | License                | [GPL-3.0][lic] | [PRO]    |
 | Source                 | [GitHub][src]  | Included |
 | Support[^1]            | No             | No       |
 | Price                  | Free           | $59      |
-| | [**Download**][kit] <br/>-- or --<br/> [![Deploy to Netlify][dtn]{:data-ignore=""}][nfy]{:.no-hover.no-mark} | [**Buy PRO**][buy] |
+| | [**Download**][kit] <br/>-- or --<br/> [![Deploy to Netlify][dtn]{:data-ignore=""}][nfy]{:.no-hover.no-mark} | [**Buy PRO** --- $59][buy]{:.btn.btn-primary.btn-lg.heading} |
 {:.stretch-table.dl-table}
 
 
@@ -173,13 +158,15 @@ This table below shows what's included in each version:
 [features]: #features
 [news]: #build-an-audience
 [syntax]: #syntax-highlighting
-[latex]: example/_posts/2018-06-01-example-content-iii.md#math
+[latex]: hydejack/_posts/2018-06-01-example-content-iii.md#math
+[darkm]: hydejack/_posts/2018-09-01-introducing-dark-mode.md
 
-[lic]: https://hydejack.com/LICENSE/
-[pro]: https://hydejack.com/licenses/PRO/
-[docs]: https://hydejack.com/docs/
+[lic]: LICENSE.md
+[pro]: licenses/PRO.md
+[docs]: docs/README.md
+[ofln]: docs/advanced.md#enabling-offline-support
 
-[kit]: https://github.com/qwtel/hydejack-starter-kit/archive/master.zip
+[kit]: https://github.com/qwtel/hydejack-starter-kit/archive/v8.5.0.zip
 [src]: https://github.com/qwtel/hydejack
 [gem]: https://rubygems.org/gems/jekyll-theme-hydejack
 [buy]: https://app.simplegoods.co/i/NATYVLYT
