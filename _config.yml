@@ -50,6 +50,11 @@ author:
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
+# Add links to the sidebar.
+menu:
+  - title:             COVID-19
+    url:               /COVID-19/
+
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             © 2017. All rights reserved.
 
