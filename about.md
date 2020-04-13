@@ -1,4 +1,4 @@
-# Benjamin L. Moore
+# Alexander R. Kahanek
 Bioinformatics PhD and data scientist
 
 <div id="webaddress">
