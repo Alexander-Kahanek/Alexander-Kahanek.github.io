@@ -8,7 +8,8 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    I am currently an Undergraduate at University of North Texas, pursuing a B.S. in Data Science, with a minor in Mathematics.
+	I am currently an Undergraduate at University of North Texas,
+	pursuing a B.S. in Data Science, with a minor in Mathematics.
 
 
   # This photo will be used in the about section
