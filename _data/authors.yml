@@ -1,7 +1,8 @@
 # The primary author of this blog.
 # Must be the same as `author` in `_config.yml`.
-# Change `author1` to your shortname.
+# You can change `author1` to your shortname.
 author1:
+  # Replace <...> with your own (remove the < >)
   name:              <firstname> <lastname>
   email:             <mail@domain.tld>
 
@@ -14,7 +15,7 @@ author1:
 
     Open `_data/authors.yml` to edit this text.
 
-  # This photo will be used in the about section
+  # This photo will be used in the about section.
   picture:
     path:            https://placehold.it/128x128
     # srcset is optional, but can be used to provide higher res versions for retina displays
@@ -22,13 +23,13 @@ author1:
       1x:            https://placehold.it/128x128
       2x:            https://placehold.it/256x256
 
-  # Social media icons in sidebar
-  # Comment/uncommet to show/hide
-  # Rearrange to change the order in which they appear
+  # Social media icons in sidebar.
+  # Comment/uncommet to show/hide. Rearrange to change the order in which they appear.
   social:
-    twitter:         <username>
-    github:          <username>
-    # email:           mailto:<mail@domain.tld>
+    twitter:         jekyllrb
+    github:          qwtel/hydejack
+    # download:        <url>
+    # email:           <mail@domain.tld>
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
@@ -63,9 +64,8 @@ author1:
     # delicious:       <username>
     # stumbleupon:     <username>
     # paypal:          <username>
-    # download:        https://github.com/qwtel/hydejack-starter-kit/archive/v7.5.0.zip
 
-# Another author (optional)
+# Another author
 author2:
   name:              <firtname> <lastname>
   email:             <mail@domain.tld>
@@ -78,6 +78,9 @@ author2:
   picture:           https://placehold.it/128x128
   twitter:           <username>
   github:            <username>
+
+  # Every author can have his/her own accent color and image.
+  # This will change the appearance of all pages of this author.
   accent_color:      '#268bd2'
   accent_image:
     background:      '#202020'
