@@ -43,7 +43,7 @@ author:
   name:                Alexander Kahanek
   email:               alexanderkahanek@gmail.com
   # Used by `jekyll-seo-tag`:
-  # twitter:             <username>
+  # twitter:             alex-kah
 
 # Add links to the sidebar.
 menu:
@@ -299,7 +299,7 @@ plugins:
 
 # Used on index and about sites
 # social:
-#   name:                <firstname> <lastname>
+#   name:                Alexander Kahanek
 #   links:
 #     - https://linkedin.com/alex-kah
 #     - https://github.com/alexander-kahanek
