@@ -51,7 +51,7 @@ menu:
   - title:             COVID-19
     url:               /COVID-19/
   - title:             Group EDA
-    url:               /EDA/
+    url:               /tx-accidents/
   - title:             About
     url:               /about/
 
