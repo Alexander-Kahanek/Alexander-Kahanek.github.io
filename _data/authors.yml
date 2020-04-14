@@ -8,8 +8,11 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    After spending 7 years in the Health Care workforce, I decided to change up my life by pursuing a career in Data Science.
-    I Absolutely love problem solving, especially when I can apply math to the situation, and I am driven by success.
+    After spending 7 years in the medical field, I have recently started a new path towards Data Science. I aspire to be
+    developing algorithms for Machine Learning and Arificial Intelligence.
+                     |
+    There are a few things I am passionate about in life, and Data Science is just one aspect. My fur-partner in life is a 
+    little Corgi named Link. When he was only 12 weeks old, I had taught him how to skateboard.
 
   # This photo will be used in the about section
   picture:
