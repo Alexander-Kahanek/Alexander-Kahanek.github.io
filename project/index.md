@@ -13,16 +13,16 @@ Here is where I will host my completed projects, as well as a small description 
 ### Group - Texas Accidents EDA
 **CURRENTLY IN PROGRESS**
 
-   This project is a group Exploratory Data Analysis, that is currrently being worked on for one of my classes.
+  * This project is a group Exploratory Data Analysis, that is currrently being worked on for one of my classes.
 
-   [![button](button2.png)](accidents.html) 
+&nbsp; &nbsp; [![button](button2.png)](accidents.html) 
 
 ## Python Code Projects
 
 ### World Happiness Correlations
 
-   This project was a small project centered around the use of Pearsons r, and r squared, to find correlations in Happniness scores.
+  * This project was a small project centered around the use of Pearsons r, and r squared, to find correlations in Happniness scores.
 
-   [![button](button2.png)](happiness.ipynd)
+&nbsp; &nbsp; [![button](button2.png)](happiness.ipynd)
 
 
