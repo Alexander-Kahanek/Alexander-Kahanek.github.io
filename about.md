@@ -1,5 +1,5 @@
 # Alexander R. Kahanek
-A dedicated, detail-oriented and success driven individual with a quantitative and problem-solving mind that is capable of being an effective employee in the Data Science industry. Currently seeking an internship opportunity at a fast-paced, challenging work environment in the Data Science and Engineering Field.
+A dedicated, detail-oriented and success driven individual with a quantitative and problem-solving mind that is capable of being an effective employee in the Data Science industry. Currently seeking an opportunity at a fast-paced, challenging work environment in the Data Science and Engineering Field.
 
 <div id="webaddress">
 <a href="mailto:alexanderkahanek@gmail.com">alexanderkahanek@gmail.com</a>
