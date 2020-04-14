@@ -21,7 +21,7 @@ author1:
     path:            /dog.png/
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
-      1x:            https://placehold.it/128x128
+      1x:            /dog.png/
       2x:            https://placehold.it/256x256
 
   # Social media icons in sidebar
