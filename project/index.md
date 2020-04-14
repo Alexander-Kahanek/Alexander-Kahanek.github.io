@@ -15,6 +15,7 @@ This project was a small project centered around the use of Pearsons r, and r sq
 [![button](button2.png)](happiness.ipynd)
 
 # Current Projects
+Here is where I will host any, meaningful, active project.
 --------------------------------
 ### Group - Texas Accidents EDA
 **CURRENTLY IN PROGRESS**
