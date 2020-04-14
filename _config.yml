@@ -47,9 +47,6 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Group 1
-    subfolderitems:
-      url:             /COVID-19/
   - title:             COVID-19
     url:               /COVID-19/
   - title:             Group EDA
