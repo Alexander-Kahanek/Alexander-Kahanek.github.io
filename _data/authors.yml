@@ -8,7 +8,8 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    TEST
+    After spending 7 years in the Health Care workforce, I decided to change up my life by pursuing a career in Data Science.
+    I Absolutely love problem solving, especially when I can apply math to the situation, and I am driven by success.
 
   # This photo will be used in the about section
   picture:
