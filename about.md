@@ -2,11 +2,11 @@
 A dedicated, detail-oriented and success driven individual with a quantitative and problem-solving mind that is capable of being an effective employee in the Data Science industry. Currently seeking an internship opportunity at a fast-paced, challenging work environment in the Data Science and Engineering Field.
 
 <div id="webaddress">
-<a href="mailto:ben@blm.io">ben@blm.io</a>
+<a href="mailto:alexanderkahanek@gmail.com">alexanderkahanek@gmail.com</a>
 |
-<i class="fa fa-github"></i> <a href="http://github.com/blmoore">blmoore</a>
+<i class="fa fa-github"></i> <a href="http://github.com/alexander-kahanek">github</a>
 |
-<i class="fa fa-twitter"></i> <a href="http://twitter.com/benjaminlmoore">benjaminlmoore</a>
+<i class="fa fa-twitter"></i> <a href="http://alexander-kahanek.github.io">personal website</a>
 </div>
 
 
