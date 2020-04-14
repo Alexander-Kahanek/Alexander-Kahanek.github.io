@@ -1,6 +1,7 @@
 # Projects
-Here is where I will host my completed projects, as well as a small description of any current projects.
 --------------------------------
+Here is where I will host my completed projects, as well as a small description of any current projects.
+
 ## R Code Projects
 
 ### COVID-19 Monte Carlo Build
@@ -12,11 +13,13 @@ This project uses the COVID-19 data to take an in-depth analysis of Italys' Dece
 
 ### World Happiness Correlations
 This project was a small project centered around the use of Pearsons r, and r squared, to find correlations in Happniness scores.
+
 [![button](button2.png)](happiness.ipynd)
 
 # Current Projects
-Here is where I will host any, meaningful, active project.
 --------------------------------
+Here is where I will host any, meaningful, active project.
+
 ### Group - Texas Accidents EDA
 **CURRENTLY IN PROGRESS**
 
