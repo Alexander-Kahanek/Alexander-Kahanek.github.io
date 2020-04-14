@@ -11,7 +11,7 @@ This project uses the COVID-19 data to take an in-depth analysis of Italys' Dece
 ### Group - Texas Accidents EDA
 **CURRENTLY IN PROGRESS**
 
-This project is a group Exploratory Data Analysis, that was completed for one of my classes.
+This project is a group Exploratory Data Analysis, that is currrently being worked on for one of my classes.
 [![button](button2.png)](accidents.html) 
 
 ## Python Code Projects
