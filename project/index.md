@@ -10,6 +10,9 @@ This project uses the COVID-19 data to take an in-depth analysis of Italys' Dece
 
 ## Python Code Projects
 
+### World Happiness Correlations
+This project was a small project centered around the use of Pearsons r, and r squared, to find correlations in Happniness scores.
+[![button](button2.png)](happiness.ipynd)
 
 # Current Projects
 --------------------------------
