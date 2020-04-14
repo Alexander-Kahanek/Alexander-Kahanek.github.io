@@ -5,9 +5,11 @@ Here is where I will host my completed projects, as well as a small description 
 
 ### COVID-19 Monte Carlo Build
 
-&nbsp; This project uses the COVID-19 data to take an in-depth analysis of Italys' Deceased Cases. I also created and implemented a hand built Markov Chain type Monte Carlo Algorithm to predict the future number of Cumulative Deceased Cases.
+&nbsp; &nbsp; This project uses the COVID-19 data to take an in-depth analysis of Italys' Deceased Cases. I also
+&nbsp; &nbsp; created and implemented a hand built Markov Chain type Monte Carlo Algorithm to predict the future
+&nbsp; &nbsp; number of Cumulative Deceased Cases.
 
-&nbsp; [![button](button2.png)](covid.html)
+&nbsp; &nbsp; [![button](button2.png)](covid.html)
 
 ### Group - Texas Accidents EDA
 **CURRENTLY IN PROGRESS**
