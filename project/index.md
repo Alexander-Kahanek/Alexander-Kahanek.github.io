@@ -1,7 +1,7 @@
 # Projects
 
-[COVID-19 PROJECT](covid.html){: .btn}
+[COVID-19 PROJECT](covid.html){: .btn .btn-blue }
 
-[![button](/assests/icons/button.png)](covid.html)
+[![button](button.png)](covid.html)
 
 [TX ACCIDENTS PROJECT](accidents.html){: .btn}
