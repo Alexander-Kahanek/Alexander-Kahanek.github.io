@@ -27,7 +27,7 @@ author1:
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
       1x:            /assets/icons/me.png
-      2x:            https://placehold.it/256x256
+      2x:            /assets/icons/me.png
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
