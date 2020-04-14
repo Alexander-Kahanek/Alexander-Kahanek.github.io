@@ -1,3 +1,3 @@
 # Projects
 
-[Click me](Covid.html){: .btn}
+[Click me](covid.html){: .btn}
