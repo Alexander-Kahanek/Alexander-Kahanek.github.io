@@ -1,10 +1,17 @@
 # Projects
 
-[COVID-19 PROJECT](covid.html){: .btn .btn-blue }
+
+# R Code Projects
+======
 
 ## COVID-19
-This project uses the COVID-19 data to take an in-depth analysis of Italys' Deceased Cases. I also create and implement a hand built Monte Carlo, Markov Chain, Algorith to predict the future number of CUmulative Deceased Cases.
+This project uses the COVID-19 data to take an in-depth analysis of Italys' Deceased Cases. I also create and implement a hand built Markov Chain type Monte Carlo Algorithm to predict the future number of Cumulative Deceased Cases. [![button](button.png)](covid.html)
 
-[![button](button.png)](covid.html)
+## Group - Texas Accidents EDA
+**CURRENTLY IN PROGRESS**
+This project is a group Exploratory Data Analysis, that was completed for one of my classes. [![button](button2.png)](accidents.html) 
 
-[TX ACCIDENTS PROJECT](accidents.html){: .btn}
+# Python Code Projects
+======
+
+
