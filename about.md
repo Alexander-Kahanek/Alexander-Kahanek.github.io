@@ -53,14 +53,6 @@ __Current GPA__: 3.9
 
 My [personal github webpage](https://alexander-kahanek.github.io) hosts most of my more interesting projects, while my [general github acocunt](https://github.com/alexander-kahanek) hosts all of my projects, include most of my school work.
 
-## Links
-
-<!-- fa are fontawesome, ai are academicons -->
-* <i class="fa fa-envelope"></i> <a href="mailto:ben@blm.io">ben@blm.io</a><br />
-* <i class="fa fa-github"></i> <a href="http://github.com/blmoore">blmoore</a><br />
-* <i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/blmoore/">LinkedIn</a>
-
-
 ## References
 
 Available on request.
