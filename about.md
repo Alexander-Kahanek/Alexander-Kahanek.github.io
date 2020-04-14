@@ -12,17 +12,18 @@ A dedicated, detail-oriented and success driven individual with a quantitative a
 
 ## Currently
 
-I'm a Bioinformatics Scientist at [Illumina](http://www.illumina.com/), based at their R&D site near Cambridge, UK. Here I develop software and use data science, machine learning and statistical programming to analyse large volumes of high-throughput sequencing data.
+I'm a Undergraduate student at the University of North Texas, pursuing a Bachelors of Science in Data Science with a minor in Mathematics, focused in statistics and probability.
 
 ## Employment
 
-`2015-` 
-__MathLab Tutor, University of North Texas__ Bioinformatics scientist (data scientist and statistical programmer)
+`2020-` 
+__MathLab Tutor, University of North Texas__ Tutors fellow students in a multitude of math courses, learning how to Illustrate and convey complex concepts to others effectively. 
 
 ## Education
 
-`2012-15`
-__University of Edinburgh__ Bioinformatics PhD (supervisors: Colin Semple and Stuart Aitken). My thesis was titled _Unravelling higher order chromatin organisation through statistical analysis_ and is available through the [Edinburgh Research Archive](https://www.era.lib.ed.ac.uk/handle/1842/22906).
+`18-21`
+__University of North Texas__ B.S. Data Science, Minor in Mathematics, Statistics Certification.
+__Current GPA__: 3.9
 
 `2011-12`
 __Imperial College London__ MSc Bioinformatics and Theoretical Systems Biology (_Distinction_)
