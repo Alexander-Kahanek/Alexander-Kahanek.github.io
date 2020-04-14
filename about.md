@@ -39,7 +39,7 @@ __Current GPA__: 3.9
 ## Soft Skills
 
 * Analytical Problem Solving
-* Detailed Oriented
+* Detail Oriented
 * Stategic Planning and Leadership
 * Effective Communication
 
