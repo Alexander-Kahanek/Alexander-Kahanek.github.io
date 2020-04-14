@@ -33,6 +33,7 @@ __Current GPA__: 3.9
 
 * R
 * Python
+* SQL
 * C++
 * LaTeX
 
@@ -60,6 +61,3 @@ My [personal github webpage](https://alexander-kahanek.github.io) hosts most of 
 
 Available on request.
 
-<!-- ### Footer
-
-Last updated: May 2013 -->
