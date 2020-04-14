@@ -4,6 +4,8 @@ f1() {
    window.open('/COVID-19/index.html', '_blank');
 }
 
+<button (click)="f1()">OPEN</button>
+
 <button name="button" onclick="COVID-19/index.html">Click me 0</button>
 
 <button name="button" onclick="COVID-19">Click me 1</button>
