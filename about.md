@@ -21,7 +21,7 @@ __MathLab Tutor, University of North Texas__ Tutors fellow students in a multitu
 
 ## Education
 
-`18-21`
+`2018-21`
 __University of North Texas__ B.S. Data Science, Minor in Mathematics, Statistics Certification.
 
 __Current GPA__: 3.9
@@ -33,6 +33,12 @@ __Current GPA__: 3.9
 * C++
 * LaTeX
 
+## Soft Skills
+
+* Analytical Problem Solving
+* Detailed Oriented
+* Stategic Planning and Leadership
+* Effective Communication
 
 ## Areas of expertise
 
@@ -45,7 +51,7 @@ __Current GPA__: 3.9
 
 ### github
 
-My [personal github account](https://github.com/alexander-kahanek) hosts most of my projects.
+My [personal github webpage](https://alexander-kahanek.github.io) hosts most of my more interesting projects, while my [general github acocunt](https://github.com/alexander-kahanek) hosts all of my projects, include most of my school work.
 
 ## Links
 
