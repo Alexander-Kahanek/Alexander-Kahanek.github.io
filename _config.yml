@@ -48,7 +48,7 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             Projects
-    url:               /hydejack/
+    url:               /projects/
   - title:             COVID-19
     url:               /COVID-19/
   - title:             Group EDA
@@ -199,7 +199,7 @@ hydejack:
   # Note that dark mode only works in the PRO version of Hydejack.
   dark_mode:
     # Set to `true` to always use the dark theme.
-    always:            false
+    always:            true
 
     # Set to `true` to use the dark theme based on visitors' local time.
     dynamic:           true
