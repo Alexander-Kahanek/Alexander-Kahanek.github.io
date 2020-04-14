@@ -48,7 +48,7 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             Projects
-    url:               /projects/
+    url:               /menu-p/
   - title:             COVID-19
     url:               /COVID-19/
   - title:             Group EDA
