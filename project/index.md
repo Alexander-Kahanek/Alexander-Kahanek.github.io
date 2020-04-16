@@ -31,8 +31,8 @@ test in local md
 
 &nbsp; &nbsp; [![button](button2.png)](/test.md)
 
-index in local folder
+index in local folder - html
 
-&nbsp; &nbsp; [![button](button2.png)](/happiness/index.md)
+&nbsp; &nbsp; [![button](button2.png)](/happiness/index.html)
 
 
