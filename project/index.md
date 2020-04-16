@@ -33,6 +33,6 @@ test in local md
 
 index in local folder
 
-&nbsp; &nbsp; [![button](button2.png)](/happiness/)
+&nbsp; &nbsp; [![button](button2.png)](/happiness/index.md)
 
 
