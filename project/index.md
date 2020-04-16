@@ -8,14 +8,14 @@ Here is where I will host my completed projects, as well as a small description 
  * This project uses the COVID-19 data to take an in-depth analysis of Italys' Deceased Cases.
  * I also created and implemented a hand built Markov Chain type Monte Carlo Algorithm to predict the future number of Cumulative Deceased Cases.
 
-&nbsp; &nbsp; [![button](button2.png)](covid.html)
+&nbsp; &nbsp; [![button](button.png)](covid.html)
 
 ### Group - Texas Accidents EDA
 **CURRENTLY IN PROGRESS**
 
   * This project is a group Exploratory Data Analysis, that is currrently being worked on for one of my classes.
 
-&nbsp; &nbsp; [![button](button2.png)](/accidents.html) 
+&nbsp; &nbsp; [![button](button.png)](/accidents.html) 
 
 ## Python Code Projects
 
@@ -23,16 +23,7 @@ Here is where I will host my completed projects, as well as a small description 
 
   * This project was a small project centered around the use of Pearsons r, and r squared, to find correlations in Happniness scores.
 
-happiness local html
+&nbsp; &nbsp; [![button](button.png)](happiness.html)
 
-&nbsp; &nbsp; [![button](button2.png)](happiness.html)
-
-test in local md
-
-&nbsp; &nbsp; [![button](button2.png)](/test.md)
-
-index in local folder - html
-
-&nbsp; &nbsp; [![button](button2.png)](/happiness/index.html)
 
 
