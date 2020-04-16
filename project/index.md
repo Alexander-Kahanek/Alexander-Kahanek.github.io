@@ -15,7 +15,7 @@ Here is where I will host my completed projects, as well as a small description 
 
   * This project is a group Exploratory Data Analysis, that is currrently being worked on for one of my classes.
 
-&nbsp; &nbsp; [![button](button.png)](/accidents.html) 
+&nbsp; &nbsp; [![button](button.png)](accidents.html) 
 
 ## Python Code Projects
 
@@ -25,7 +25,7 @@ Here is where I will host my completed projects, as well as a small description 
 
 &nbsp; &nbsp; [![button](button.png)](happiness.html)
 
-&nbsp; &nbsp; [![button](button.png)](/storage/happiness.md)
+&nbsp; &nbsp; [![button](button.png)](storage/happiness.md)
 
 
 
