@@ -1,3 +1,7 @@
+---
+permalink: happiness.html
+---
+
 # Welcome
 I will be going through [this dataset](https://www.kaggle.com/unsdsn/world-happiness) found on kaggle, that will be modified for only the years 2015 to 2017.
 
