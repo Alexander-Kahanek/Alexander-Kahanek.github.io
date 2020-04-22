@@ -55,8 +55,8 @@ __Current GPA__: 3.9
 
 ### GitHub
 
-* My [personal github webpage](https://alexander-kahanek.github.io) hosts most of my more interesting projects
-* My [general github acocunt](https://github.com/alexander-kahanek) hosts all of my projects, which includes most of my school work.
+* My [personal github webpage](https://alexander-kahanek.github.io) hosts most of my more interesting projects.
+* My [general github account](https://github.com/alexander-kahanek) hosts all of my work, which includes most of my school work, as well as any projects.
 
 ### Research
 
