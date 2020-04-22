@@ -5,15 +5,13 @@ Here is where I will host my completed projects, as well as a small description 
 
 ### COVID-19 Monte Carlo Build
 
- * This project uses the COVID-19 data to take an in-depth analysis of Italys' Deceased Cases.
- * I also created and implemented a hand built Markov Chain type Monte Carlo Algorithm to predict the future number of Cumulative Deceased Cases.
+ * This project uses the COVID-19 data to take an in-depth analysis of Italys' Deceased Cases, I also created and implemented a hand built Markov Chain type Monte Carlo Algorithm to predict the future number of Cumulative Deceased Cases.
 
 &nbsp; &nbsp; [![button](button.png)](covid.html)
 
 ### Group - Texas Accidents EDA
 
-  * This project is a team based Exploratory Data Analysis.
-  * It focused on attempting to find patterns in accidents across texas, focusing on weekend traffic vs. weekday traffic, as well as creating an interactive map to help visualize traffic accident patterns.
+  * This project is a team based Exploratory Data Analysis, it is focused on attempting to find patterns in accidents across texas, focusing on weekend traffic vs. weekday traffic, as well as creating an interactive map to help visualize traffic accident patterns.
 
 &nbsp; &nbsp; [![button](button.png)](accidents.html) 
 
@@ -21,7 +19,7 @@ Here is where I will host my completed projects, as well as a small description 
 
 ### World Happiness Correlations
 
-  * This project was a small project centered around the use of Pearsons r, and r squared, to find correlations in Happniness scores.
+  * This project my first analysis, which is centered around the use of Pearsons r, and r squared, to find correlations in Happniness scores accross many Countries.
 
 &nbsp; &nbsp; [![button](button.png)](happiness.html)
 
