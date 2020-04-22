@@ -13,7 +13,9 @@ Here is where I will host my completed projects, as well as a small description 
 ### Group - Texas Accidents EDA
 **CURRENTLY IN PROGRESS**
 
-  * This project is a group Exploratory Data Analysis, that is currrently being worked on for one of my classes.
+  * This project is a team based Exploratory Data Analysis.
+   + Focused on attempting to find patterns in accidents across texas, focusing on weekend traffic vs. weekday traffic
+   + Also focused on creating an interactive map to help visualize traffic accident patterns.
 
 &nbsp; &nbsp; [![button](button.png)](accidents.html) 
 
