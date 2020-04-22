@@ -3,9 +3,9 @@ Here is where I will host my completed projects, as well as a small description 
 
 ## R Code Projects
 
-&nbsp; &nbsp; ### COVID-19 Monte Carlo Build
+### COVID-19 Monte Carlo Build
 
-&nbsp; &nbsp;  * This project uses the COVID-19 data to take an in-depth analysis of Italys' Deceased Cases, I also created and implemented a hand built Markov Chain type Monte Carlo Algorithm to predict the future number of Cumulative Deceased Cases.
+  * This project uses the COVID-19 data to take an in-depth analysis of Italys' Deceased Cases, I also created and implemented a hand built Markov Chain type Monte Carlo Algorithm to predict the future number of Cumulative Deceased Cases.
 
 &nbsp; &nbsp; &nbsp; &nbsp; [![button](button.png)](covid.html)
 
@@ -13,7 +13,7 @@ Here is where I will host my completed projects, as well as a small description 
 
   * This project is a team based Exploratory Data Analysis, it is focused on attempting to find patterns in accidents across texas, focusing on weekend traffic vs. weekday traffic, as well as creating an interactive map to help visualize traffic accident patterns.
 
-&nbsp; &nbsp; [![button](button.png)](accidents.html) 
+&nbsp; &nbsp; &nbsp; &nbsp; [![button](button.png)](accidents.html) 
 
 ## Python Code Projects
 
@@ -21,7 +21,7 @@ Here is where I will host my completed projects, as well as a small description 
 
   * This project my first analysis, which is centered around the use of Pearsons r, and r squared, to find correlations in Happniness scores accross many Countries.
 
-&nbsp; &nbsp; [![button](button.png)](happiness.html)
+&nbsp; &nbsp; &nbsp; &nbsp; [![button](button.png)](happiness.html)
 
 
 
