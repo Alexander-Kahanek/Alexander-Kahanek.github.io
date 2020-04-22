@@ -53,9 +53,16 @@ __Current GPA__: 3.9
 
 ## Projects
 
-### github
+### GitHub
 
-My [personal github webpage](https://alexander-kahanek.github.io) hosts most of my more interesting projects, while my [general github acocunt](https://github.com/alexander-kahanek) hosts all of my projects, include most of my school work.
+* My [personal github webpage](https://alexander-kahanek.github.io) hosts most of my more interesting projects
+* My [general github acocunt](https://github.com/alexander-kahanek) hosts all of my projects, which includes most of my school work.
+
+### Research
+
+* I am currently in the process of starting a Summer Research Program for Undergraduate students at University of North Texas. This program is held by the Data Science and Information Technology department, which will be the focus of the research.
+
+* I am currently volunteering my time to help participate in a research project focused on using the FLAIR algorithm coupled with GloVe techniques to categorize tweet data centered around COVID-19.
 
 ## References
 
