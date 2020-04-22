@@ -12,7 +12,7 @@ A dedicated, detail-oriented and success driven individual with a quantitative a
 
 ## Currently
 
-I'm a Undergraduate student at the University of North Texas, pursuing a Bachelors of Science in Data Science with a minor in Mathematics, focused in statistics and probability.
+I'm a Undergraduate student at the University of North Texas, pursuing a Bachelors of Science in Data Science with a minor in Mathematics, focused in statistics and probability. I plan to gradute by December of 2021. I am also spending my summer participating in several Research Projects that the University of North Texas is involved in.
 
 ## Employment
 
