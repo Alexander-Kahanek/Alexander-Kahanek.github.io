@@ -19,20 +19,21 @@ I'm a Undergraduate student at the University of North Texas, pursuing a Bachelo
 `2019-` 
 __Mathematics Tutor, University of North Texas__ 
 
-- Tutors fellow students in a multitude of math courses, learning how to Illustrate and convey complex concepts to others effectively. 
+* Tutors fellow students in a multitude of math courses, learning how to Illustrate and convey complex concepts to others effectively. 
 
 `2012-18`
 __United States Army, National Guard__ 
 
-- Worked in the medical sector learning how to solve problems efficiently and quickly. 
-- Spearheaded a team, of 15 people, that reduced response time by 50%, for the East African Response Force.
+* Worked in the medical sector learning how to solve problems efficiently and quickly. 
+* Spearheaded a team, of 15 people, that reduced response time by 50%, for the East African Response Force.
 
 ## Education
 
 `2018-21`
-__University of North Texas__ B.S. Data Science, Minor in Mathematics, Statistics Certification.
+__University of North Texas__
 
-__Current GPA__: 3.9
+* B.S. Data Science, Minor in Mathematics, Statistics Certification
+	- __Current GPA__: 3.9
 
 ## Technical skills
 
@@ -65,9 +66,9 @@ __Current GPA__: 3.9
 
 ### Research
 
-* I am currently in the process of starting a Summer Research Program for Undergraduate students at University of North Texas. This program is held by the Data Science and Information Technology department, which will be the focus of the research.
+* I am currently in the process of starting a Summer Research Program for Undergraduate students at the University of North Texas. This program is held by the Data Science and Information Technology department, which will be the focus of the research.
 
-* I am currently volunteering my time to help participate in a research project focused on using the FLAIR algorithm coupled with GloVe techniques to categorize tweet data centered around COVID-19.
+* I am currently volunteering my time to help participate in a different research project focused on using the FLAIR algorithm coupled with GloVe techniques to categorize tweet data centered around COVID-19.
 
 ## References
 
