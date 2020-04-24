@@ -17,10 +17,15 @@ I'm a Undergraduate student at the University of North Texas, pursuing a Bachelo
 ## Employment
 
 `2019-` 
-__Mathematics Tutor, University of North Texas__ Tutors fellow students in a multitude of math courses, learning how to Illustrate and convey complex concepts to others effectively. 
+__Mathematics Tutor, University of North Texas__ 
+
+* Tutors fellow students in a multitude of math courses, learning how to Illustrate and convey complex concepts to others effectively. 
 
 `2012-18`
-__United States Army, National Guard__ Worked in the medical sector learning how to solve problems efficiently and quickly. Also, spearheaded a team, of 15 people, that reduced response time by 50%, for the East African Response Force.
+__United States Army, National Guard__ 
+
+* Worked in the medical sector learning how to solve problems efficiently and quickly. 
+* Spearheaded a team, of 15 people, that reduced response time by 50%, for the East African Response Force.
 
 ## Education
 
