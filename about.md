@@ -1,13 +1,13 @@
 # Alexander R. Kahanek
 A dedicated, detail-oriented and success driven individual with a quantitative and problem-solving mind that is capable of being an effective employee in the Data Science industry. Currently seeking an opportunity at a fast-paced, challenging work environment in the Data Science and Engineering Field.
 
-	<div id="webaddress">
-	<a href="mailto:alexanderkahanek@gmail.com">alexanderkahanek@gmail.com</a>
-	|
-	<i class="fa fa-github"></i> <a href="https://github.com/alexander-kahanek">github</a>
-	|
-	<i class="fa fa-twitter"></i> <a href="https://alexander-kahanek.github.io">personal website</a>
-	</div>
+<div id="webaddress">
+<a href="mailto:alexanderkahanek@gmail.com">alexanderkahanek@gmail.com</a>
+|
+<i class="fa fa-github"></i> <a href="https://github.com/alexander-kahanek">github</a>
+|
+<i class="fa fa-twitter"></i> <a href="https://alexander-kahanek.github.io">personal website</a>
+</div>
 
 
 ## Currently
