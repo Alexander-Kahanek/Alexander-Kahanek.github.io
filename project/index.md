@@ -1,15 +1,14 @@
 # Projects
-Here is where I will host my completed projects, as well as a small description of any current projects.
 
 ## R Code Projects
 
-### COVID-19 Monte Carlo Build
+### COVID-19 Monte Carlo Prediction Build
 
   * This project uses the COVID-19 data to take an in-depth analysis of Italys' Deceased Cases, I also created and implemented a hand built Markov Chain type Monte Carlo Algorithm to predict the future number of Cumulative Deceased Cases.
 
 &nbsp; &nbsp; &nbsp; &nbsp; [![button](button.png)](covid.html)
 
-### Group - Texas Accidents EDA
+### Team - Texas Accidents Exploratory Data Analysis
 
   * This project is a team based Exploratory Data Analysis, it is focused on attempting to find patterns in accidents across texas, focusing on weekend traffic vs. weekday traffic, as well as creating an interactive map to help visualize traffic accident patterns.
 
