@@ -25,7 +25,7 @@ __Mathematics Tutor, University of North Texas__
 __United States Army, National Guard__ 
 
 > Worked in the medical sector learning how to solve problems efficiently and quickly. 
-> Spearheaded a team, of 15 people, that reduced response time by 50%, for the East African Response Force.
+> I also spearheaded a team of 15 people, that reduced response time by 50%, for the East African Response Force.
 
 ## Education
 
