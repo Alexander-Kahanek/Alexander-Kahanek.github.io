@@ -19,7 +19,8 @@ I'm a Undergraduate student at the University of North Texas, pursuing a Bachelo
 `2019-` 
 __Mathematics Tutor, University of North Texas__ 
 
-* Tutors fellow students in a multitude of math courses, learning how to Illustrate and convey complex concepts to others effectively. 
+&nbsp; &nbsp; Tutors fellow students in a multitude of math courses, learning how to
+&nbsp; &nbsp; Illustrate and convey complex concepts to others effectively. 
 
 `2012-18`
 __United States Army, National Guard__ 
