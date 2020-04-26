@@ -60,6 +60,8 @@ __Current GPA__: 3.9
 * Machine learning
 * Object Oriented Programming
 
+-----------------
+
 ## Projects
 
 ### GitHub
