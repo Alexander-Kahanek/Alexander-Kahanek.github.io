@@ -35,6 +35,8 @@ __University of North Texas__
 * B.S. Data Science, Minor in Mathematics, Statistics Certification
 	- __Current GPA__: 3.9
 
+-------------------
+
 ## Technical skills
 
 * R
