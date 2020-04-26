@@ -32,7 +32,7 @@ __United States Army, National Guard__
 `2018-21`
 __University of North Texas__
 
-__Current GPA__: 3.9
+_Current GPA_: 3.9
 
 > B.S. Data Science, Minor in Mathematics, Statistics Certification
 
