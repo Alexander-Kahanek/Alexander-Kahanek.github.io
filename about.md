@@ -59,7 +59,7 @@ __Mathematics Tutor__
 
 &nbsp; &nbsp; &nbsp; __*University of North Texas*__
 
-: > Tutors fellow students in a multitude of math courses, learning how to Illustrate and convey complex concepts to others effectively. 
+: > Tutors fellow students in a multitude of math courses, learning how to __Illustrate and convey complex concepts__ to others effectively. 
 
 
 `2012-18` 
@@ -67,7 +67,7 @@ __United States Army, National Guard__
 
 &nbsp; &nbsp; &nbsp; __*Health Care Specialist (68W) (MA, TX)*__
 
-: > Worked in the medical sector learning how to solve problems efficiently and quickly. I also spearheaded a team of 15 people, that reduced response time by 50%, for the East African Response Force.
+: > Worked in the medical sector learning how to __solve problems efficiently and quickly__. I also __spearheaded a team of 15 people__, that __reduced response time by 50%__, for the East African Response Force.
 
 
 `2015-17`
@@ -75,7 +75,7 @@ __Emergency Medical Technician__
 
 &nbsp; &nbsp; &nbsp; __*American Medical Respoonse (MA, TX)*__
 
-: > Responded to over 400 911 emergent calls.
+: > Worked in Private EMS learned throughough documentation. I also __responded to over *400* 911 emergent calls__.
 
 
 ## Soft Skills
