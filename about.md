@@ -6,7 +6,7 @@
 <a href="https://github.com/alexander-kahanek">GitHub</a>
 
 
-## Technical skills
+## __Technical skills__
 ```
 1. R
 2. Python
@@ -15,17 +15,20 @@
 5. LaTeX
 ```
 
-## Currently
 
-I'm a Undergraduate student at the University of North Texas, pursuing a Bachelors of Science in Data Science with a minor in Mathematics, focused in statistics and probability. I plan to gradute by December of 2021. I am also spending my summer participating in several Data Science Research Projects that the University of North Texas is involved in.
-
-## Areas of expertise
+## __Areas of expertise__
 ```
 1. Machine Learning
 2. Data Visualisation
 3. Statistics and Probability
 4. Object Oriented Programming
 ```
+
+__Currently__
+
+: > I'm a Undergraduate student at the University of North Texas, pursuing a Bachelors of Science in Data Science with a minor in Mathematics, focused in statistics and probability. I plan to gradute by December of 2021. I am also spending my summer participating in several Data Science Research Projects that the University of North Texas is involved in.
+
+
 -----------------
 ## Projects
 

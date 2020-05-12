@@ -1,6 +1,6 @@
 # Projects
 
-## R Code Projects
+## __R Code Projects__
 
 ### <a href="hotel.html">Hotel Booking Classification - Random Forest</a>
 
@@ -27,7 +27,7 @@
 -----------------
 
 
-## Python Code Projects
+## __Python Code Projects__
 
 ### <a href="covid.html">World Happiness Correlations</a>
 
