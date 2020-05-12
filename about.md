@@ -42,7 +42,7 @@ __Currently__
 
 : > 1. I am in the process of starting a __Summer *Research* Program for the *Data Science and Information Technology department*__ at the University of North Texas.
 > 
-> 2. I am __participating in a different *research project*__ focused on using __COVID-19 tweet data with *Machine Learning*__.
+> 2. I am __participating in another *research project*__ focused on using __COVID-19 tweet data with *Machine Learning*__.
 
 
 ----------------
