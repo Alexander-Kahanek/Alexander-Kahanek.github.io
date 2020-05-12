@@ -21,8 +21,8 @@ I'm a Undergraduate student at the University of North Texas, pursuing a Bachelo
 
 ## Areas of expertise
 ```
-1. Machine learning
-2. Data visualisation
+1. Machine Learning
+2. Data Visualisation
 3. Statistics and Probability
 4. Object Oriented Programming
 ```
