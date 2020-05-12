@@ -50,7 +50,7 @@ __Currently__
 
 `2018-21` __University of North Texas__
 
-: > B.S. __*Data Science*__, Minor in _*_Mathematics*__, _*_Statistics*__ Certification
+: > B.S. __*Data Science*__, Minor in __*Mathematics*__, __*Statistics*__ Certification
 > 
 > Current __*GPA*__: __3.9__
 
