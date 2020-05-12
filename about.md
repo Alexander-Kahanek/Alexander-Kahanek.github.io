@@ -80,10 +80,10 @@ __Emergency Medical Technician__
 
 ## Soft Skills
 
-* Analytical Problem Solving
-* Detail Oriented
-* Stategic Planning and Leadership
-* Effective Communication
+> * Analytical Problem Solving
+> * Detail Oriented
+> * Stategic Planning and Leadership
+> * Effective Communication
 
 
 -----------------
