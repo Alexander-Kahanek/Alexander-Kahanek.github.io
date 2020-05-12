@@ -57,7 +57,7 @@ __University of North Texas__
 `2019-` 
 __Mathematics Tutor__ 
 
- &nbsp; &nbsp; &nbsp; _University of North Texas_
+ &nbsp; &nbsp; &nbsp; __*University of North Texas*__
 
 : > Tutors fellow students in a multitude of math courses, learning how to Illustrate and convey complex concepts to others effectively. 
 
@@ -65,7 +65,7 @@ __Mathematics Tutor__
 `2012-18`
 __United States Army, National Guard__
 
- &nbsp; &nbsp; &nbsp; _Health Care Specialist (68W) (MA, TX)_
+ &nbsp; &nbsp; &nbsp; __*Health Care Specialist (68W) (MA, TX)*__
 
 : > Worked in the medical sector learning how to solve problems efficiently and quickly. 
 > I also spearheaded a team of 15 people, that reduced response time by 50%, for the East African Response Force.
@@ -74,7 +74,7 @@ __United States Army, National Guard__
 `2015-17`
 __Emergency Medical Technician__
 
- &nbsp; &nbsp; &nbsp; _American Medical Respoonse (MA, TX)_
+ &nbsp; &nbsp; &nbsp; __*American Medical Respoonse (MA, TX)*__
  
 : > Responded to over 400 911 emergent calls.
 
