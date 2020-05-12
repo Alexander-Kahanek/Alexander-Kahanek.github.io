@@ -35,11 +35,13 @@ __Currently__
 &nbsp; &nbsp; __GitHub__
 
 : > 1. My [personal github webpage](https://alexander-kahanek.github.io) hosts most of my more interesting projects.
+> 
 > 2. My [general github account](https://github.com/alexander-kahanek) hosts all of my work, which includes most of my school work, as well as any projects.
 
 &nbsp; &nbsp; __Research__
 
 : > 1. I am currently in the process of starting a Summer Research Program for the Data Science and Information Technology department at the University of North Texas.
+> 
 > 2. I am currently helping with a different research project focused on using tweet data centered around COVID-19.
 
 
@@ -50,6 +52,7 @@ __Currently__
 __University of North Texas__
 
 : > B.S. _Data Science_, Minor in _Mathematics_, _Statistics_ Certification\
+> 
 > Current GPA: 3.9
 
 ## __Employment__
@@ -67,7 +70,7 @@ __United States Army, National Guard__
 
 &nbsp; &nbsp; &nbsp; __*Health Care Specialist (68W) (MA, TX)*__
 
-: > Worked in the medical sector learning how to __solve problems efficiently and quickly__. I also __spearheaded a team of 15 people__, that __reduced response time by 50%__, for the East African Response Force.
+: > Worked in the medical sector learning how to __solve problems efficiently and quickly__. I also __spearheaded a team of *15 people*__, that __reduced response time by *50%*__, for the East African Response Force.
 
 
 `2015-17`
@@ -75,7 +78,7 @@ __Emergency Medical Technician__
 
 &nbsp; &nbsp; &nbsp; __*American Medical Respoonse (MA, TX)*__
 
-: > Worked in Private EMS learned throughough documentation. I also __responded to over *400* 911 emergent calls__.
+: > Worked in Private EMS learned throughough documentation. I also __responded to over *400* 9-1-1 emergent calls__.
 
 
 ## Soft Skills
