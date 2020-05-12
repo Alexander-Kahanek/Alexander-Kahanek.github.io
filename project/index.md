@@ -8,13 +8,13 @@
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![button](button.png)](hotel.html)
 
-### COVID-19 Monte Carlo Prediction Build
+### <a href="covid.html">COVID-19 Monte Carlo Prediction Build</a> 
 
 > This project uses the COVID-19 data to take an in-depth analysis of Italys' Deceased Cases, I also created and implemented a hand built Markov Chain type Monte Carlo Algorithm to predict the future number of Cumulative Deceased Cases.
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![button](button.png)](covid.html)
 
-### Team - Texas Accidents Exploratory Data Analysis
+### <a href="covid.html">Team - Texas Accidents Exploratory Data Analysis</a>
 
 > This project is a team based Exploratory Data Analysis, it is focused on attempting to find patterns in accidents across texas, focusing on weekend traffic vs. weekday traffic, as well as creating an interactive map to help visualize traffic accident patterns.
 
@@ -22,7 +22,7 @@
 
 ## Python Code Projects
 
-### World Happiness Correlations
+### <a href="covid.html">World Happiness Correlations</a>
 
 > This project my first analysis, which is centered around the use of Pearsons r, and r squared, to find correlations in Happniness scores accross many Countries.
 
