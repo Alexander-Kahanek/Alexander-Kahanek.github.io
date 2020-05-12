@@ -3,8 +3,9 @@ __<a href="https://alexander-kahanek.github.io">Personal Website</a>
 |
 <a href="mailto:alexanderkahanek@gmail.com">alexanderkahanek@gmail.com</a>
 |
-<a href="https://github.com/alexander-kahanek">GitHub</a>__
-
+<a href="https://github.com/alexander-kahanek">GitHub</a>
+|
+<a href="https://linkedin.com/in/alex-kah">LinkedIn</a>__
 
 ## __Technical skills__
 ```
