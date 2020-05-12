@@ -68,7 +68,7 @@ __United States Army, National Guard__
  &nbsp; &nbsp; &nbsp; _Health Care Specialist (68W) (MA, TX)_
 
 : > Worked in the medical sector learning how to solve problems efficiently and quickly. 
-: > I also spearheaded a team of 15 people, that reduced response time by 50%, for the East African Response Force.
+> I also spearheaded a team of 15 people, that reduced response time by 50%, for the East African Response Force.
 
 
 `2015-17`
