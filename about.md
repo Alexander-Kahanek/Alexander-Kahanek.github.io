@@ -5,11 +5,6 @@
 |
 <a href="https://github.com/alexander-kahanek">GitHub</a>
 
-# test
-term
-: definition nnnnn nnnnnnnnnnnn nnnnnnn nnnnnnnnnnn nnnnnnnnnn nnnnnnnnnnn n n n n n n n n n n n n n n n 
-: def2
-: def3
 
 ## Technical skills
 
