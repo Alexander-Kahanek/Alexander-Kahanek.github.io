@@ -74,7 +74,7 @@ __United States Army, National Guard__
 __Emergency Medical Technician__
 
 &nbsp; &nbsp; &nbsp; __*American Medical Respoonse (MA, TX)*__
- 
+
 : > Responded to over 400 911 emergent calls.
 
 
