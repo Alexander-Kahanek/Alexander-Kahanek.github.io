@@ -7,12 +7,13 @@
 
 
 ## Technical skills
-
+~~~
 1. R
 2. Python
 3. SQL
 4. C++
 5. LaTeX
+~~~
 
 ## Currently
 
