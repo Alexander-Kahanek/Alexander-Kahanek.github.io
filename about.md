@@ -1,11 +1,11 @@
 # Alexander R. Kahanek
 <div id="webaddress">
-> <i class="fa fa-twitter"></i> <a href="https://alexander-kahanek.github.io">personal website</a>
+> <a href="https://alexander-kahanek.github.io">Personal Website</a>
 </div>
 |
 <a href="mailto:alexanderkahanek@gmail.com">alexanderkahanek@gmail.com</a>
 |
-<i class="fa fa-github"></i> <a href="https://github.com/alexander-kahanek">github</a>
+</i> <a href="https://github.com/alexander-kahanek">GitHub</a>
 
 
 ## Technical skills
@@ -28,8 +28,6 @@ I'm a Undergraduate student at the University of North Texas, pursuing a Bachelo
 * Object Oriented Programming
 
 -----------------
-
-
 ## Projects
 
 ### GitHub
@@ -45,8 +43,6 @@ I'm a Undergraduate student at the University of North Texas, pursuing a Bachelo
 
 
 ----------------
-
-
 ## Education
 
 `2018-21`
@@ -89,8 +85,6 @@ __Emergency Medical Technician__
 
 
 -----------------
-
-
 ## References
 
 Available on request.
