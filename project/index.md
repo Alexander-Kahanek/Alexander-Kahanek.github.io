@@ -23,6 +23,10 @@ _Data Analysis_
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![button](button.png)](accidents.html) 
 
+
+-----------------
+
+
 ## Python Code Projects
 
 ### <a href="covid.html">World Happiness Correlations</a>
