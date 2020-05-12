@@ -32,7 +32,7 @@
 ### <a href="covid.html">World Happiness Correlations</a>
 
 &nbsp; &nbsp; _Data Analysis_
-: > This project is __my first data analysis__, which is centered around the __use of *Pearsons r*__, __and *r squared*__, to find correlations in Happniness scores accross many Countries.
+: > This project is __my first data analysis__, which is __centered around the use of *Pearsons r*__, __and *r squared*__, to __find *correlations* in Happniness scores__ accross many Countries.
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![button](button.png)](happiness.html)
 
