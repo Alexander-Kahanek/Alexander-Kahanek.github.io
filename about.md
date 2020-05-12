@@ -48,9 +48,9 @@ I'm a Undergraduate student at the University of North Texas, pursuing a Bachelo
 `2018-21`
 __University of North Texas__
 
-&nbsp; &nbsp; &nbsp; B.S. Data Science, Minor in Mathematics, Statistics Certification
+&nbsp; &nbsp; &nbsp; _B.S. Data Science, Minor in Mathematics, Statistics Certification_
 
-&nbsp; &nbsp; &nbsp; _Current GPA_: 3.9
+&nbsp; &nbsp; &nbsp; Current GPA: 3.9
 
 ## Employment
 
@@ -59,7 +59,7 @@ __Mathematics Tutor__
 
  &nbsp; &nbsp; &nbsp; _University of North Texas_
 
-> Tutors fellow students in a multitude of math courses, learning how to Illustrate and convey complex concepts to others effectively. 
+: > Tutors fellow students in a multitude of math courses, learning how to Illustrate and convey complex concepts to others effectively. 
 
 
 `2012-18`
