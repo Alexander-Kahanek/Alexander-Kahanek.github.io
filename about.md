@@ -20,12 +20,12 @@
 I'm a Undergraduate student at the University of North Texas, pursuing a Bachelors of Science in Data Science with a minor in Mathematics, focused in statistics and probability. I plan to gradute by December of 2021. I am also spending my summer participating in several Data Science Research Projects that the University of North Texas is involved in.
 
 ## Areas of expertise
-
-* Machine learning
-* Data visualisation
-* Statistics and Probability
-* Object Oriented Programming
-
+```
+1. Machine learning
+2. Data visualisation
+3. Statistics and Probability
+4. Object Oriented Programming
+```
 -----------------
 ## Projects
 
@@ -80,12 +80,12 @@ __Emergency Medical Technician__
 
 
 ## Soft Skills
-
-> * Analytical Problem Solving
-> * Detail Oriented
-> * Stategic Planning and Leadership
-> * Effective Communication
-
+```
+1. Analytical Problem Solving
+2. Detail Oriented
+3. Stategic Planning and Leadership
+4. Effective Communication
+```
 
 -----------------
 ## References
