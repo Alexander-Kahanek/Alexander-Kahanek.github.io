@@ -26,18 +26,18 @@
 
 __Currently__
 
-: I'm a Undergraduate student at the University of North Texas, pursuing a Bachelors of Science in Data Science with a minor in Mathematics, focused in statistics and probability. I plan to gradute by December of 2021. I am also spending my summer participating in several Data Science Research Projects that the University of North Texas is involved in.
+: > I'm a Undergraduate student at the University of North Texas, pursuing a Bachelors of Science in Data Science with a minor in Mathematics, focused in statistics and probability. I plan to gradute by December of 2021. I am also spending my summer participating in several Data Science Research Projects that the University of North Texas is involved in.
 
 
 -----------------
 ## __Projects__
 
-__GitHub__
+&nbsp; &nbsp; __GitHub__
 
 : > * My [personal github webpage](https://alexander-kahanek.github.io) hosts most of my more interesting projects.
 > * My [general github account](https://github.com/alexander-kahanek) hosts all of my work, which includes most of my school work, as well as any projects.
 
-### Research
+&nbsp; &nbsp; __Research__
 
 : > * I am currently in the process of starting a Summer Research Program for the Data Science and Information Technology department at the University of North Texas.
 > * I am currently helping with a different research project focused on using tweet data centered around COVID-19.
