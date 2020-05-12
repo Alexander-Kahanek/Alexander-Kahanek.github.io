@@ -34,9 +34,9 @@ __Currently__
 
 &nbsp; &nbsp; __GitHub__
 
-: > 1. My [personal github webpage](https://alexander-kahanek.github.io) hosts most of my more interesting projects.
+: > 1. My __*[personal github webpage](https://alexander-kahanek.github.io)*__ hosts most of my more interesting projects.
 > 
-> 2. My [general github account](https://github.com/alexander-kahanek) hosts all of my work, which includes most of my school work, as well as any projects.
+> 2. My __*[general github account](https://github.com/alexander-kahanek)*__ hosts all of my work, which includes most of my school work, as well as any projects.
 
 &nbsp; &nbsp; __Research__
 
