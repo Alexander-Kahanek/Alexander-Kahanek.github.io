@@ -1,9 +1,9 @@
 # Alexander R. Kahanek
-<a href="https://alexander-kahanek.github.io">Personal Website</a>
+__<a href="https://alexander-kahanek.github.io">Personal Website</a>
 |
 <a href="mailto:alexanderkahanek@gmail.com">alexanderkahanek@gmail.com</a>
 |
-<a href="https://github.com/alexander-kahanek">GitHub</a>
+<a href="https://github.com/alexander-kahanek">GitHub</a>__
 
 
 ## __Technical skills__
@@ -77,7 +77,7 @@ __Currently__
 : > Worked in __Private EMS where I learned *thorough documentation*__. I also __responded to over *400* 9-1-1 emergent calls__.
 
 
-## Soft Skills
+## __Soft Skills__
 ```
 1. Analytical Problem Solving
 2. Detail Oriented
@@ -86,12 +86,12 @@ __Currently__
 ```
 
 -----------------
-## References
+## __References__
 
 Available on request.
 
-<a href="https://alexander-kahanek.github.io">Personal Website</a>
+__<a href="https://alexander-kahanek.github.io">Personal Website</a>
 |
 <a href="mailto:alexanderkahanek@gmail.com">alexanderkahanek@gmail.com</a>
 |
-<a href="https://github.com/alexander-kahanek">GitHub</a>
+<a href="https://github.com/alexander-kahanek">GitHub</a>__
