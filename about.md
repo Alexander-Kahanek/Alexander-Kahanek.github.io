@@ -1,11 +1,12 @@
 # Alexander R. Kahanek
 <div id="webaddress">
+> <i class="fa fa-twitter"></i> <a href="https://alexander-kahanek.github.io">personal website</a>
+</div>
+|
 <a href="mailto:alexanderkahanek@gmail.com">alexanderkahanek@gmail.com</a>
 |
 <i class="fa fa-github"></i> <a href="https://github.com/alexander-kahanek">github</a>
-|
-<i class="fa fa-twitter"></i> <a href="https://alexander-kahanek.github.io">personal website</a>
-</div>
+
 
 ## Technical skills
 
@@ -19,6 +20,12 @@
 
 I'm a Undergraduate student at the University of North Texas, pursuing a Bachelors of Science in Data Science with a minor in Mathematics, focused in statistics and probability. I plan to gradute by December of 2021. I am also spending my summer participating in several Data Science Research Projects that the University of North Texas is involved in.
 
+## Areas of expertise
+
+* Statistics and Probability
+* Data visualisation
+* Machine learning
+* Object Oriented Programming
 
 -----------------
 
@@ -73,22 +80,12 @@ __Emergency Medical Technician__
 > Responded to over 400 911-dispatched calls.
 
 
--------------------
-
-
 ## Soft Skills
 
 * Analytical Problem Solving
 * Detail Oriented
 * Stategic Planning and Leadership
 * Effective Communication
-
-## Areas of expertise
-
-* Statistics and Probability
-* Data visualisation
-* Machine learning
-* Object Oriented Programming
 
 
 -----------------
