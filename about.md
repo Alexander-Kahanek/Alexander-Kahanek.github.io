@@ -79,7 +79,7 @@ __Emergency Medical Technician__
 
  &nbsp; &nbsp; &nbsp; _American Medical Respoonse (MA, TX)_
  
-> Responded to over 400 911-dispatched calls.
+> Responded to over 400 911 emergent calls.
 
 
 ## Soft Skills
