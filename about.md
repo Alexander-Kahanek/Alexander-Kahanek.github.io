@@ -7,7 +7,7 @@
 
 # test
 term
-: definition
+: definition nnnnn nnnnnnnnnnnn nnnnnnn nnnnnnnnnnn nnnnnnnnnn nnnnnnnnnnn n n n n n n n n n n n n n n n 
 : def2
 : def3
 
