@@ -30,19 +30,17 @@ __Currently__
 
 
 -----------------
-## Projects
+## __Projects__
 
-### GitHub
+__GitHub__
 
-* My [personal github webpage](https://alexander-kahanek.github.io) hosts most of my more interesting projects.
-
-* My [general github account](https://github.com/alexander-kahanek) hosts all of my work, which includes most of my school work, as well as any projects.
+: > * My [personal github webpage](https://alexander-kahanek.github.io) hosts most of my more interesting projects.
+> * My [general github account](https://github.com/alexander-kahanek) hosts all of my work, which includes most of my school work, as well as any projects.
 
 ### Research
 
-* I am currently in the process of starting a Summer Research Program for the Data Science and Information Technology department at the University of North Texas.
-
-* I am currently helping with a different research project focused on using tweet data centered around COVID-19.
+: > * I am currently in the process of starting a Summer Research Program for the Data Science and Information Technology department at the University of North Texas.
+> * I am currently helping with a different research project focused on using tweet data centered around COVID-19.
 
 
 ----------------
@@ -51,9 +49,9 @@ __Currently__
 `2018-21`
 __University of North Texas__
 
-&nbsp; &nbsp; &nbsp; _B.S. Data Science, Minor in Mathematics, Statistics Certification_
+: _B.S. Data Science, Minor in Mathematics, Statistics Certification_
 
-&nbsp; &nbsp; &nbsp; Current GPA: 3.9
+: Current GPA: 3.9
 
 ## Employment
 
