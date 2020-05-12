@@ -7,6 +7,9 @@
 |
 </i> <a href="https://github.com/alexander-kahanek">GitHub</a>
 
+# test
+term
+: definition
 
 ## Technical skills
 
@@ -22,9 +25,9 @@ I'm a Undergraduate student at the University of North Texas, pursuing a Bachelo
 
 ## Areas of expertise
 
-* Statistics and Probability
-* Data visualisation
 * Machine learning
+* Data visualisation
+* Statistics and Probability
 * Object Oriented Programming
 
 -----------------
