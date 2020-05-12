@@ -48,8 +48,7 @@ __Currently__
 ----------------
 ## __Education__
 
-`2018-21` 
-__University of North Texas__
+`2018-21` __University of North Texas__
 
 : > B.S. _Data Science_, Minor in _Mathematics_, _Statistics_ Certification\
 > 
@@ -57,26 +56,23 @@ __University of North Texas__
 
 ## __Employment__
 
-`2019-` 
-__Mathematics Tutor__ 
+`2019-` __Mathematics Tutor__ 
 
-&nbsp; &nbsp; &nbsp; __*University of North Texas*__
+&nbsp; &nbsp; &nbsp; *University of North Texas*
 
 : > Tutors fellow students in a multitude of math courses, learning how to __Illustrate and convey complex concepts__ to others effectively. 
 
 
-`2012-18` 
-__United States Army, National Guard__
+`2012-18` __United States Army, National Guard__
 
-&nbsp; &nbsp; &nbsp; __*Health Care Specialist (68W) (MA, TX)*__
+&nbsp; &nbsp; &nbsp; *Health Care Specialist (68W) (MA, TX)*
 
 : > Worked in the medical sector learning how to __solve problems efficiently and quickly__. I also __spearheaded a team of *15 people*__, that __reduced response time by *50%*__, for the East African Response Force.
 
 
-`2015-17`
-__Emergency Medical Technician__
+`2015-17`__Emergency Medical Technician__
 
-&nbsp; &nbsp; &nbsp; __*American Medical Respoonse (MA, TX)*__
+&nbsp; &nbsp; &nbsp; *American Medical Respoonse (MA, TX)*
 
 : > Worked in Private EMS learned throughough documentation. I also __responded to over *400* 9-1-1 emergent calls__.
 
