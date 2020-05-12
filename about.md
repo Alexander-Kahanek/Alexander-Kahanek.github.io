@@ -1,6 +1,4 @@
 # Alexander R. Kahanek
-A dedicated, detail-oriented and success driven individual with a quantitative and problem-solving mind that is capable of being an effective employee in the Data Science industry. Currently seeking an opportunity at a fast-paced, and challenging work environment in the Data Science and Engineering Industry.
-
 <div id="webaddress">
 <a href="mailto:alexanderkahanek@gmail.com">alexanderkahanek@gmail.com</a>
 |
@@ -9,23 +7,38 @@ A dedicated, detail-oriented and success driven individual with a quantitative a
 <i class="fa fa-twitter"></i> <a href="https://alexander-kahanek.github.io">personal website</a>
 </div>
 
+## Technical skills
+
+* R
+* Python
+* SQL
+* C++
+* LaTeX
 
 ## Currently
 
-I'm a Undergraduate student at the University of North Texas, pursuing a Bachelors of Science in Data Science with a minor in Mathematics, focused in statistics and probability. I plan to gradute by December of 2021. I am also spending my summer participating in several Research Projects that the University of North Texas is involved in.
+I'm a Undergraduate student at the University of North Texas, pursuing a Bachelors of Science in Data Science with a minor in Mathematics, focused in statistics and probability. I plan to gradute by December of 2021. I am also spending my summer participating in several Data Science Research Projects that the University of North Texas is involved in.
 
-## Employment
 
-`2019-` 
-__Mathematics Tutor, University of North Texas__ 
+-----------------
 
-> Tutors fellow students in a multitude of math courses, learning how to Illustrate and convey complex concepts to others effectively. 
 
-`2012-18`
-__United States Army, National Guard__ 
+## Projects
 
-> Worked in the medical sector learning how to solve problems efficiently and quickly. 
-> I also spearheaded a team of 15 people, that reduced response time by 50%, for the East African Response Force.
+### GitHub
+
+* My [personal github webpage](https://alexander-kahanek.github.io) hosts most of my more interesting projects.
+* My [general github account](https://github.com/alexander-kahanek) hosts all of my work, which includes most of my school work, as well as any projects.
+
+### Research
+
+* I am currently in the process of starting a Summer Research Program for the Data Science and Information Technology department at the University of North Texas.
+
+* I am currently helping with a different research project focused on using tweet data centered around COVID-19.
+
+
+----------------
+
 
 ## Education
 
@@ -36,15 +49,32 @@ __University of North Texas__
 
 &nbsp; &nbsp; &nbsp; _Current GPA_: 3.9
 
+## Employment
+
+`2019-` 
+__Mathematics Tutor__ 
+ &nbsp; &nbsp; &nbsp; University of North Texas
+
+> Tutors fellow students in a multitude of math courses, learning how to Illustrate and convey complex concepts to others effectively. 
+
+
+`2012-18`
+__United States Army, National Guard__
+ &nbsp; &nbsp; &nbsp; Health Care Specialist (68W) (MA, TX)
+
+> Worked in the medical sector learning how to solve problems efficiently and quickly. 
+> I also spearheaded a team of 15 people, that reduced response time by 50%, for the East African Response Force.
+
+
+`2015-2017`
+__Emergency Medical Technician__
+ &nbsp; &nbsp; &nbsp; American Medical Respoonse (MA, TX)
+ 
+> Responded to over 400 911-dispatched calls.
+
+
 -------------------
 
-## Technical skills
-
-* R
-* Python
-* SQL
-* C++
-* LaTeX
 
 ## Soft Skills
 
@@ -60,20 +90,9 @@ __University of North Texas__
 * Machine learning
 * Object Oriented Programming
 
+
 -----------------
 
-## Projects
-
-### GitHub
-
-* My [personal github webpage](https://alexander-kahanek.github.io) hosts most of my more interesting projects.
-* My [general github account](https://github.com/alexander-kahanek) hosts all of my work, which includes most of my school work, as well as any projects.
-
-### Research
-
-* I am currently in the process of starting a Summer Research Program for Undergraduate students at the University of North Texas. This program is held by the Data Science and Information Technology department, which will be the focus of the research.
-
-* I am currently volunteering my time to help participate in a different research project focused on using the FLAIR algorithm coupled with GloVe techniques to categorize tweet data centered around COVID-19.
 
 ## References
 
