@@ -2,7 +2,7 @@
 
 ## R Code Projects
 
-### Hotel Booking Classification - Random Forest
+### <a href="hotel.html">Hotel Booking Classification - Random Forest</a>
 
 > This project uses hotel booking data from Trivago, the project is focused on doing a small analysis on the data, as well as creating multiple models with Random Forest to predict whether a booking will potentially be canceled or retained. This is done to gain better insight into bookings, as well as to gain a market advantage through the potential use of targeted advertising with the help of the modeling.
 
