@@ -49,9 +49,8 @@ __Currently__
 `2018-21` 
 __University of North Texas__
 
-: B.S. _Data Science_, Minor in _Mathematics_, _Statistics_ Certification
-
-: Current GPA: 3.9
+: > B.S. _Data Science_, Minor in _Mathematics_, _Statistics_ Certification\
+> Current GPA: 3.9
 
 ## __Employment__
 
