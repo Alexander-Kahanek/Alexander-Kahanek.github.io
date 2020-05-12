@@ -8,11 +8,11 @@
 
 ## Technical skills
 
-* R
-* Python
-* SQL
-* C++
-* LaTeX
+1. R
+2. Python
+3. SQL
+4. C++
+5. LaTeX
 
 ## Currently
 
@@ -31,6 +31,7 @@ I'm a Undergraduate student at the University of North Texas, pursuing a Bachelo
 ### GitHub
 
 * My [personal github webpage](https://alexander-kahanek.github.io) hosts most of my more interesting projects.
+
 * My [general github account](https://github.com/alexander-kahanek) hosts all of my work, which includes most of my school work, as well as any projects.
 
 ### Research
