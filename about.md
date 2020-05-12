@@ -44,16 +44,16 @@ __Currently__
 
 
 ----------------
-## Education
+## __Education__
 
-`2018-21`
+`2018-21` 
 __University of North Texas__
 
-: _B.S. Data Science, Minor in Mathematics, Statistics Certification_
+: B.S. _Data Science_, Minor in _Mathematics_, _Statistics_ Certification
 
 : Current GPA: 3.9
 
-## Employment
+## __Employment__
 
 `2019-` 
 __Mathematics Tutor__ 
@@ -63,7 +63,7 @@ __Mathematics Tutor__
 : > Tutors fellow students in a multitude of math courses, learning how to Illustrate and convey complex concepts to others effectively. 
 
 
-`2012-18`
+`2012-18` 
 __United States Army, National Guard__
 
 &nbsp; &nbsp; &nbsp; __*Health Care Specialist (68W) (MA, TX)*__
