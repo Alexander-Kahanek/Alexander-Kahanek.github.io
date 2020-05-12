@@ -74,7 +74,7 @@ __Currently__
 
 &nbsp; &nbsp; &nbsp; *American Medical Respoonse (MA, TX)*
 
-: > Worked in Private EMS where I learned thorough documentation. I also __responded to over *400* 9-1-1 emergent calls__.
+: > Worked in __Private EMS where I learned *thorough documentation*__. I also __responded to over *400* 9-1-1 emergent calls__.
 
 
 ## Soft Skills
