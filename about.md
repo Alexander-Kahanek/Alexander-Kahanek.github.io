@@ -60,7 +60,7 @@ __Currently__
 
 &nbsp; &nbsp; &nbsp; *University of North Texas*
 
-: > Tutors fellow students in a multitude of math courses, learning how to __Illustrate and convey complex concepts__ to others effectively. 
+: > __Tutors fellow students in a multitude of *mathematics courses*__, learning how to __Illustrate and convey complex concepts__ to others effectively. 
 
 
 `2012-18` __United States Army, National Guard__
@@ -74,7 +74,7 @@ __Currently__
 
 &nbsp; &nbsp; &nbsp; *American Medical Respoonse (MA, TX)*
 
-: > Worked in Private EMS learned throughough documentation. I also __responded to over *400* 9-1-1 emergent calls__.
+: > Worked in Private EMS where I learned thorough documentation. I also __responded to over *400* 9-1-1 emergent calls__.
 
 
 ## Soft Skills
