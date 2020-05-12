@@ -88,7 +88,7 @@ __Currently__
 -----------------
 ## __References__
 
-Available on request.
+> Available on request.
 
 __<a href="https://alexander-kahanek.github.io">Personal Website</a>
 |
