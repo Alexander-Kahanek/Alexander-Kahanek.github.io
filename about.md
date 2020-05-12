@@ -34,13 +34,13 @@ __Currently__
 
 &nbsp; &nbsp; __GitHub__
 
-: > * My [personal github webpage](https://alexander-kahanek.github.io) hosts most of my more interesting projects.
-> * My [general github account](https://github.com/alexander-kahanek) hosts all of my work, which includes most of my school work, as well as any projects.
+: > 1. My [personal github webpage](https://alexander-kahanek.github.io) hosts most of my more interesting projects.
+> 2. My [general github account](https://github.com/alexander-kahanek) hosts all of my work, which includes most of my school work, as well as any projects.
 
 &nbsp; &nbsp; __Research__
 
-: > * I am currently in the process of starting a Summer Research Program for the Data Science and Information Technology department at the University of North Texas.
-> * I am currently helping with a different research project focused on using tweet data centered around COVID-19.
+: > 1. I am currently in the process of starting a Summer Research Program for the Data Science and Information Technology department at the University of North Texas.
+> 2. I am currently helping with a different research project focused on using tweet data centered around COVID-19.
 
 
 ----------------
