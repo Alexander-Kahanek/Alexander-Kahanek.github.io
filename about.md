@@ -67,7 +67,7 @@ __United States Army, National Guard__
 
  &nbsp; &nbsp; &nbsp; _Health Care Specialist (68W) (MA, TX)_
 
-> Worked in the medical sector learning how to solve problems efficiently and quickly. 
+: > Worked in the medical sector learning how to solve problems efficiently and quickly. 
 > I also spearheaded a team of 15 people, that reduced response time by 50%, for the East African Response Force.
 
 
@@ -76,7 +76,7 @@ __Emergency Medical Technician__
 
  &nbsp; &nbsp; &nbsp; _American Medical Respoonse (MA, TX)_
  
-> Responded to over 400 911 emergent calls.
+: > Responded to over 400 911 emergent calls.
 
 
 ## Soft Skills
