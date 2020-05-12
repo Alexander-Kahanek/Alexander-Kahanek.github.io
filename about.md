@@ -95,3 +95,8 @@ __Emergency Medical Technician__
 
 Available on request.
 
+<a href="https://alexander-kahanek.github.io">Personal Website</a>
+|
+<a href="mailto:alexanderkahanek@gmail.com">alexanderkahanek@gmail.com</a>
+|
+<a href="https://github.com/alexander-kahanek">GitHub</a>
