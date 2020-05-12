@@ -5,11 +5,13 @@
 |
 <a href="mailto:alexanderkahanek@gmail.com">alexanderkahanek@gmail.com</a>
 |
-</i> <a href="https://github.com/alexander-kahanek">GitHub</a>
+<a href="https://github.com/alexander-kahanek">GitHub</a>
 
 # test
 term
 : definition
+: def2
+: def3
 
 ## Technical skills
 
