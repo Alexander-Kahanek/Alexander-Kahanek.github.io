@@ -71,7 +71,7 @@ __United States Army, National Guard__
 > I also spearheaded a team of 15 people, that reduced response time by 50%, for the East African Response Force.
 
 
-`2015-2017`
+`2015-17`
 __Emergency Medical Technician__
 
  &nbsp; &nbsp; &nbsp; _American Medical Respoonse (MA, TX)_
