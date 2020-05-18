@@ -1,7 +1,7 @@
 # Alexander R. Kahanek
-__<a href="https://alexander-kahanek.github.io">Personal Website</a>
+__<a href="mailto:alexanderkahanek@gmail.com">alexanderkahanek@gmail.com</a>
 |
-<a href="mailto:alexanderkahanek@gmail.com">alexanderkahanek@gmail.com</a>
+<a href="https://alexander-kahanek.github.io">Personal Website</a>
 |
 <a href="https://github.com/alexander-kahanek">GitHub</a>
 |
@@ -91,9 +91,9 @@ __Currently__
 
 > Available on request.
 
-__<a href="https://alexander-kahanek.github.io">Personal Website</a>
+__<a href="mailto:alexanderkahanek@gmail.com">alexanderkahanek@gmail.com</a>
 |
-<a href="mailto:alexanderkahanek@gmail.com">alexanderkahanek@gmail.com</a>
+<a href="https://alexander-kahanek.github.io">Personal Website</a>
 |
 <a href="https://github.com/alexander-kahanek">GitHub</a>
 |
