@@ -16,7 +16,7 @@
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![button](button.png)](covid.html)
 
-### <a href="covid.html">Team - Texas Accidents Exploratory Data Analysis</a>
+### <a href="accidents.html">Team - Texas Accidents Exploratory Data Analysis</a>
 
 &nbsp; &nbsp; _Data Analysis_
 : > This project is a __team based *Exploratory Data Analysis*__, it is __focused on *finding patterns in accidents* across texas__, focusing on __*weekend* traffic vs. *weekday* traffic__, as well as creating an __*interactive map* to help visualize traffic accident patterns__.
@@ -29,7 +29,7 @@
 
 ## __Python Code Projects__
 
-### <a href="covid.html">World Happiness Correlations</a>
+### <a href="happiness.html">World Happiness Correlations</a>
 
 &nbsp; &nbsp; _Data Analysis_
 : > This project is __my first data analysis__, which is __centered around the use of *Pearsons r*__, __and *r squared*__, to __find *correlations* in Happniness scores__ accross many Countries.
