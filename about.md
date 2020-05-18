@@ -86,11 +86,6 @@ __Currently__
 4. Effective Communication
 ```
 
------------------
-## __References__
-
-> Available on request.
-
 __<a href="mailto:alexanderkahanek@gmail.com">alexanderkahanek@gmail.com</a>
 |
 <a href="https://alexander-kahanek.github.io">Personal Website</a>
