@@ -9,19 +9,20 @@
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![button](button-output.png)](hotel.html) &nbsp; &nbsp; &nbsp; [![button](button-github.png)](https://github.com/Alexander-Kahanek/Trivago_Classification)
 
-### <a href="covid.html">COVID-19 Monte Carlo Prediction Build</a> 
-
-&nbsp; &nbsp; _Predictive Analysis_ `March 24, 2020`
-: > This project uses the __*COVID-19 data* to take an *in-depth analysis* of Italys' Deceased Cases__, I also __created and implemented a hand built Markov Chain type *Monte Carlo Algorithm*__ to predict the future number of Cumulative Deceased Cases.
-
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![button](button-output.png)](covid.html) &nbsp; &nbsp; &nbsp; [![button](button-github.png)](https://github.com/Alexander-Kahanek/COVID_19_Analysis)
-
 ### <a href="accidents.html">Team - Texas Accidents Exploratory Data Analysis</a>
 
 &nbsp; &nbsp; _Data Analysis_ `April 21, 2020`
 : > This project is a __team based *Exploratory Data Analysis*__, it is __focused on *finding patterns in accidents* across texas__, focusing on __*weekend* traffic vs. *weekday* traffic__, as well as creating an __*interactive map* to help visualize traffic accident patterns__.
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![button](button-output.png)](accidents.html) &nbsp; &nbsp; &nbsp; [![button](button-github.png)](https://github.com/Alexander-Kahanek/TX_Accidents)
+
+
+### <a href="covid.html">COVID-19 Monte Carlo Prediction Build</a> 
+
+&nbsp; &nbsp; _Predictive Analysis_ `March 24, 2020`
+: > This project uses the __*COVID-19 data* to take an *in-depth analysis* of Italys' Deceased Cases__, I also __created and implemented a hand built Markov Chain type *Monte Carlo Algorithm*__ to predict the future number of Cumulative Deceased Cases.
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![button](button-output.png)](covid.html) &nbsp; &nbsp; &nbsp; [![button](button-github.png)](https://github.com/Alexander-Kahanek/COVID_19_Analysis)
 
 
 -----------------
