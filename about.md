@@ -20,7 +20,7 @@ __<a href="https://alexander-kahanek.github.io">Personal Website</a>
 ## __Areas of expertise__
 ```
 1. Machine Learning
-2. Data Visualisation
+2. Data Analysis and Visualisation
 3. Statistics and Probability
 4. Object Oriented Programming
 ```
