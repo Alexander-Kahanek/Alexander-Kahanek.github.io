@@ -5,7 +5,7 @@
 ### <a href="hotel.html">Hotel Booking Classification</a> &nbsp; &nbsp; &nbsp; ![image](/assets/icons/rsz_1rsz_1rsz_619px-r_logosvg.png)
 
 &nbsp; &nbsp; _Machine Learning_ `April 30, 2020`
-: > This project uses __*hotel booking data* from Trivago__, the project is focused on doing a __small *analysis* on the data__, as well as __creating multiple models with *Random Forest*__ to predict whether a booking will potentially be canceled or retained. This is done to __gain better *insight* into bookings__, as well as to __gain a *market advantage* through the potential use of *targeted advertising*__ with the help of the modeling.
+: > This project uses __*hotel booking data* from Trivago__, the project is focused on __creating multiple models with *Random Forest*__ to predict whether a booking will potentially be canceled or retained, as well as __an Exploratory Data Analysis__. This is done to __gain better *insight* into bookings__, as well as to __gain a *market advantage* through the potential use of *targeted advertising*__ with the help of the modeling.
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![button](button-output.png)](hotel.html) &nbsp; &nbsp; &nbsp; [![button](button-github.png)](https://github.com/Alexander-Kahanek/Trivago_Classification)
 
