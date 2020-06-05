@@ -20,7 +20,7 @@
 ### <a href="covid.html">COVID-19 Monte Carlo Prediction Build</a> 
 
 &nbsp; &nbsp; _Predictive Analysis_ `March 24, 2020`
-: > This project uses the __*COVID-19 data* to take an *in-depth analysis* of Italys' Deceased Cases__, I also __created and implemented a hand built Markov Chain type *Monte Carlo Algorithm*__ to predict the future number of Cumulative Deceased Cases.
+: > This project uses the __*COVID-19 data* to __create and implement a hand built Markov Chain type *Monte Carlo Algorithm*__ to predict the future number of Cumulative Deceased Cases in Italy, as well as take an *in-depth analysis* of Italys' Deceased Cases__.
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![button](button-output.png)](covid.html) &nbsp; &nbsp; &nbsp; [![button](button-github.png)](https://github.com/Alexander-Kahanek/COVID_19_Analysis)
 
