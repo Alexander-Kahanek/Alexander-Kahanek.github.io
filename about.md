@@ -10,10 +10,10 @@
 ## __Technical skills__
 
 ```python
-1. Python = [pandas, flair]
-2. R <- c(tidyverse, caret)
-3. SQL INSET INTO python integration
-4. C/C++ = (OOP*)malloc(sizeof(OOP));
+1. Python = ['pandas', 'flair']
+2. R <- c("tidyverse", "caret")
+3. SQL INSERT INTO "python integration"
+4. C/C++ = (Object_Oriented*)malloc(sizeof(Object_Oriented));
 ```
 
 | <span style="color:blue">__*Area*__</span> | <span style="color:blue">__*Expertise*__</span> |
