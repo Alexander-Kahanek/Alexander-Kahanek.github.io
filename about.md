@@ -55,7 +55,7 @@ __Currently__
 
 ## __Employment__
 
-`2019-Curr` __Mathematics Tutor__ 
+`2019-20` __Mathematics Tutor__ 
 
 &nbsp; &nbsp; &nbsp; *University of North Texas*
 
