@@ -34,9 +34,9 @@
 
 &nbsp; &nbsp; __My Projects__
 
-: > 1. __My <a href="https://alexander-kahanek.github.io/project" title="My Project Page" target="_blank">*personal webpage*</a>__ hosts the final product for most of __my more *interesting projects*__.
+: > 1. __<a href="https://alexander-kahanek.github.io/project" title="My Project Page" target="_blank">My *personal webpage*</a>__ hosts the final product for most of __my more *interesting projects*__.
 > 
-> 2. __My <a href="https://github.com/alexander-kahanek" title="My GitHub Page" target="_blank">*general github account*</a>__ hosts all of __my *code* and *documentation*__, which includes most of __my *school work*, as well as any projects__.
+> 2. __<a href="https://github.com/alexander-kahanek" title="My GitHub Page" target="_blank">My *github account*</a>__ hosts all of __my *code* and *documentation*__, which includes most of __my *school work*, as well as any projects__.
 
 &nbsp; &nbsp; __Research__
 
