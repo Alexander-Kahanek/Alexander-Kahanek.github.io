@@ -12,7 +12,7 @@
 ```python
 1. Python = ['pandas', 'flair']
 2. R <- c("tidyverse", "caret")
-3. SQL "INSERT INTO company (Fname) VALUES ('alexander')"
+3. SQL "INSERT INTO company (Fname) VALUES ('Alexander')"
 4. C/C++ = (Object_Oriented*)malloc(sizeof(Object_Oriented));
 ```
 
