@@ -13,7 +13,7 @@
 1. Python = ['pandas', 'flair']
 2. R <- c("tidyverse", "caret")
 3. SQL "INSERT INTO company (Fname) VALUES ('Alexander')"
-4. C/C++ = (Object_Oriented*)malloc(sizeof(Object_Oriented));
+4. C/C++ p1 = new Object_Oriented[size];
 ```
 
 | <span style="color:blue">__*Area*__</span> | <span style="color:blue">__*Expertise*__</span> |
