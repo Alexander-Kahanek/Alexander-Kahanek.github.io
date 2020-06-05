@@ -17,7 +17,7 @@
 ```
 
 | Area               | Expertise                                   |
-| ------------------ |:-------------------------------------------:|
+| ------------------ |--------------------------------------------:|
 | Machine Learning   | NLP, Trees, Regression, Clustering          |
 | Data Analysis      | EDA, Research, Predictive                   |
 | Data Visualisation | plotly, highcharters, leaflet, TBD. Tableau |
