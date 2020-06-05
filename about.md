@@ -12,8 +12,8 @@
 ```python
 1. Python  # pandas, flair
 2. R  # tidyverse, caret
-3. SQL
-4. C/C++  # OOP
+3. SQL  # python integration
+4. C/C++  # Object Oriented
 ```
 
 | __*Area*__             | __*Expertise*__                      |
