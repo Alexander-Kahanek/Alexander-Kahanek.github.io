@@ -14,11 +14,11 @@ __<a href="mailto:alexanderkahanek@gmail.com">alexanderkahanek@gmail.com</a>
 3. SQL
 4. C/C++ # OOP
 ```
-
+<span style="color:blue">some *This is Blue italic.* text</span>
 
 ## __Areas of expertise__
 ```
-1. Machine Learning # NLP, Trees, Clustering
+1. Machine Learning # NLP, Trees, Regression, Clustering
 2. Data Analysis # EDA, Research, Predictive
 3. Data Visualisation # plotly, highcharters, leaflet, TBD. Tableau
 3. Statistics and Probability # Applied and Theory
