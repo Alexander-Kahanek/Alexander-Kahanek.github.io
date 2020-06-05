@@ -16,8 +16,8 @@
 4. C/C++  # Object Oriented
 ```
 
-| __*Area*__             | __*Expertise*__                      |
-| ---------------------- |-------------------------------------:|
+| <span style="color:blue">__*Area*__</span> | <span style="color:blue">__*Expertise*__</span> |
+| ---------------------- |------------------- -----------------:|
 | __Machine Learning__   | *NLP, Trees, Regression, Clustering* |
 | __Data Analysis__      | *EDA, Research, Predictive*          |
 | __Data Visualisation__ | *plotly, highcharters, leaflet*      |
