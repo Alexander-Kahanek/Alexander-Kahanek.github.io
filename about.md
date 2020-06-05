@@ -56,16 +56,16 @@
 
 ## __Employment__
 
-`2019-20` __Mathematics Tutor__ 
+`2019-20` __Mathematics Tutor__
 
 &nbsp; &nbsp; &nbsp; *University of North Texas*
 
 : > __Tutored over 400 fellow students in a multitude of *mathematics courses*__, learning how to __*illustrate* and *convey* complex concepts__ to others effectively. 
 
 
-`2012-18` __United States Army, National Guard__
+`2012-18` __Health Care Specialist (68W)__
 
-&nbsp; &nbsp; &nbsp; *Health Care Specialist (68W) (MA, TX)*
+&nbsp; &nbsp; &nbsp; *United States Army, National Guard (MA, TX)*
 
 : > I __spearheaded a team of *15 people*__, that __reduced response time by *50%*__, for the East African Response Force, while working in the medical sector learning how to __solve problems efficiently and quickly__. 
 
