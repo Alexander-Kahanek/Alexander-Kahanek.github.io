@@ -67,14 +67,14 @@
 
 &nbsp; &nbsp; &nbsp; *Health Care Specialist (68W) (MA, TX)*
 
-: > Worked in the medical sector learning how to __solve problems efficiently and quickly__. I also __spearheaded a team of *15 people*__, that __reduced response time by *50%*__, for the East African Response Force.
+: > I __spearheaded a team of *15 people*__, that __reduced response time by *50%*__, for the East African Response Force, while working in the medical sector learning how to __solve problems efficiently and quickly__. 
 
 
 `2015-17`__Emergency Medical Technician__
 
 &nbsp; &nbsp; &nbsp; *American Medical Respoonse (MA, TX)*
 
-: > Worked in __Private EMS where I learned *thorough documentation*__. I also __responded to over *400* emergent 911 calls__.
+: > I __responded to over *400* emergent 911 calls__, where I learned the importance of *thorough documentation*__. 
 
 
 ## __Soft Skills__
