@@ -42,7 +42,7 @@
 
 : > 1. I am currently attending a __Machine Learning focused *Research* Program for the *Data Science and Information Technology department*__ at the University of North Texas.
 > 
-> 2. I am __participating in another *research project*__ focused on using __COVID-19 tweet data to preform *Natural Language Proccessing* with spaCy__.
+> 2. I am __collaborating in a different *research project*__ focused on using __COVID-19 tweet data to preform *Natural Language Proccessing* with *flair* and *spaCy*__.
 
 
 ----------------
