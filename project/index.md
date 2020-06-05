@@ -30,14 +30,14 @@
 &nbsp; &nbsp; _Data Analysis_ `March 14, 2020`
 : > This project is __my first data analysis__, which is __centered around the use of *Pearsons r*__, __and *r squared*__, to __find *correlations* in Happniness scores__ accross many Countries.
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![button](button-output.png)](happiness.html) &nbsp; &nbsp; &nbsp; [![button](button-github.png)](https://github.com/Alexander-Kahanek/World_Happiness)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="happiness.html" target="_blank"><img src="button-output.png" /></a> &nbsp; &nbsp; &nbsp; <a href="https://github.com/Alexander-Kahanek/World_Happiness" target="_blank"><img src="button-github.png" /></a>
+
 
 
 ### <a href="https://github.com/Alexander-Kahanek/Rubbish_Clustering" title="GitHub Repository" target="_blank">Trash Cans and Litter</a> &nbsp; ![image](/assets/icons/rsz_python-logo.png) &nbsp; ![image](/assets/icons/rsz_1rsz_1rsz_619px-r_logosvg.png)
 
 &nbsp; &nbsp; _Clustering Analysis_ `In Progress`
-: > This is __*a collaboration* with the [*Rubbish* IOS Application](https://www.rubbish.love/ "Rubbish Website")__ to evaluate the efficacy of trash collection objects collecting litter. Scripting is done in __Python using *Pandas* and *GeoPy*__, while __Data Analysis and Vizualisation is done in R with *Leaflet* and *Highcharter*__.
+: > This is __*a collaboration* with the <a href="https://www.rubbish.love/" title="Rubbish Website" target="_blank">*Rubbish* IOS Application</a>__ to evaluate the efficacy of trash collection objects collecting litter. Scripting is done in __Python using *Pandas* and *GeoPy*__, while __Data Analysis and Vizualisation is done in R with *Leaflet* and *Highcharter*__.
 
-&nbsp; &nbsp; &nbsp; [![button](button-github.png)](https://github.com/Alexander-Kahanek/Rubbish_Clustering)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://github.com/Alexander-Kahanek/Rubbish_Clustering" target="_blank"><img src="button-github.png" /></a>
 
-<a href="https://github.com/Alexander-Kahanek/Rubbish_Clustering" target="_blank"><img src="button-github.png" /></a>
