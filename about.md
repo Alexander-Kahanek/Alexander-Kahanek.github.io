@@ -59,7 +59,7 @@ __Currently__
 
 &nbsp; &nbsp; &nbsp; *University of North Texas*
 
-: > __Tutors fellow students in a multitude of *mathematics courses*__, learning how to __*illustrate* and *convey* complex concepts__ to others effectively. 
+: > __Tutored over 400 fellow students in a multitude of *mathematics courses*__, learning how to __*illustrate* and *convey* complex concepts__ to others effectively. 
 
 
 `2012-18` __United States Army, National Guard__
