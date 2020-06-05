@@ -79,7 +79,8 @@ __Currently__
 
 
 ## __Soft Skills__
-```
+
+```r
 1. Analytical Problem Solving
 2. Detail Oriented
 3. Stategic Planning and Leadership
