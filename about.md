@@ -16,12 +16,12 @@
 4. C/C++  # OOP
 ```
 
-| Area               | Expertise                                   |
-| ------------------ |--------------------------------------------:|
-| Machine Learning   | NLP, Trees, Regression, Clustering          |
-| Data Analysis      | EDA, Research, Predictive                   |
-| Data Visualisation | plotly, highcharters, leaflet, TBD. Tableau |
-| Mathematics        | Statistics, Probability                     |
+| __*Area*__             | __*Expertise*__                             |
+| ---------------------- |--------------------------------------------:|
+| __Machine Learning__   | NLP, Trees, Regression, Clustering          |
+| __Data Analysis__      | EDA, Research, Predictive                   |
+| __Data Visualisation__ | plotly, highcharters, leaflet, TBD. Tableau |
+| __Mathematics__        | Statistics, Probability                     |
 
 
 __Currently__
