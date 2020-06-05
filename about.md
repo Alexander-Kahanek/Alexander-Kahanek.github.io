@@ -16,8 +16,6 @@
 4. C/C++  # OOP
 ```
 
-## __Areas of expertise__
-
 | Area               | Expertise                                   |
 | ------------------ |:-------------------------------------------:|
 | Machine Learning   | NLP, Trees, Regression, Clustering          |
