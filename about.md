@@ -1,27 +1,26 @@
 # Alexander R. Kahanek
-__<a href="mailto:alexanderkahanek@gmail.com">alexanderkahanek@gmail.com</a>
+<span style="color:blue">__<a href="mailto:alexanderkahanek@gmail.com">alexanderkahanek@gmail.com</a>
 |
 <a href="https://alexander-kahanek.github.io">Personal Website</a>
 |
 <a href="https://github.com/alexander-kahanek">GitHub</a>
 |
-<a href="https://linkedin.com/in/alex-kah">LinkedIn</a>__
+<a href="https://linkedin.com/in/alex-kah">LinkedIn</a>__</span>
 
 ## __Technical skills__
 ```
-1. Python # pandas, flair
-2. R # tidyverse, caret
+1. Python  # pandas, flair
+2. R  # tidyverse, caret
 3. SQL
-4. C/C++ # OOP
+4. C/C++  # OOP
 ```
-<span style="color:blue">some *This is Blue italic.* text</span>
 
 ## __Areas of expertise__
 ```
-1. Machine Learning # NLP, Trees, Regression, Clustering
-2. Data Analysis # EDA, Research, Predictive
-3. Data Visualisation # plotly, highcharters, leaflet, TBD. Tableau
-3. Statistics and Probability # Applied and Theory
+1. Machine Learning  # NLP, Trees, Regression, Clustering
+2. Data Analysis  # EDA, Research, Predictive
+3. Data Visualisation  # plotly, highcharters, leaflet, TBD. Tableau
+3. Statistics and Probability  # Applied and Theory
 ```
 
 __Currently__
