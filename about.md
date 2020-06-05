@@ -9,20 +9,18 @@ __<a href="mailto:alexanderkahanek@gmail.com">alexanderkahanek@gmail.com</a>
 
 ## __Technical skills__
 ```
-1. R
-2. Python
+1. R # tidyverse, caret, plotly, highcharter
+2. Python # pandas, flair, plotly
 3. SQL
-4. C++
-5. LaTeX
+4. C/C++ # OOP
 ```
 
 
 ## __Areas of expertise__
 ```
-1. Machine Learning
-2. Data Analysis and Visualisation
-3. Statistics and Probability
-4. Object Oriented Programming
+1. Machine Learning # NLP, Trees, Clustering
+2. Data Analysis and Visualisation # EDA, Predictive, TBD. Tableau
+3. Statistics and Probability # Applied and Theory
 ```
 
 __Currently__
