@@ -1,11 +1,11 @@
 # Alexander R. Kahanek
 <span style="color:blue">__<a href="mailto:alexanderkahanek@gmail.com">alexanderkahanek@gmail.com</a>
 |
-<a href="https://alexander-kahanek.github.io">Personal Website</a>
+<a href="https://alexander-kahanek.github.io" target="_blank">Personal Website</a>
 |
-<a href="https://github.com/alexander-kahanek">GitHub</a>
+<a href="https://github.com/alexander-kahanek" target="_blank">GitHub</a>
 |
-<a href="https://linkedin.com/in/alex-kah">LinkedIn</a>__</span>
+<a href="https://linkedin.com/in/alex-kah" target="_blank">LinkedIn</a>__</span>
 
 ## __Technical skills__
 ```
@@ -85,8 +85,8 @@ __Currently__
 
 <span style="color:blue">__<a href="mailto:alexanderkahanek@gmail.com">alexanderkahanek@gmail.com</a>
 |
-<a href="https://alexander-kahanek.github.io">Personal Website</a>
+<a href="https://alexander-kahanek.github.io" target="_blank">Personal Website</a>
 |
-<a href="https://github.com/alexander-kahanek">GitHub</a>
+<a href="https://github.com/alexander-kahanek" target="_blank">GitHub</a>
 |
-<a href="https://linkedin.com/in/alex-kah">LinkedIn</a>__</span>
+<a href="https://linkedin.com/in/alex-kah" target="_blank">LinkedIn</a>__</span>
