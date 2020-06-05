@@ -36,6 +36,6 @@
 ### Trash Can Efficacy of Litter &nbsp; ![image](/assets/icons/rsz_python-logo.png) &nbsp; ![image](/assets/icons/rsz_1rsz_1rsz_619px-r_logosvg.png)
 
 &nbsp; &nbsp; _Predictive Analysis_ `In Progress`
-: > This is __an In Progress Project__ using litter collection data from Rubbish to evaluate the efficacy of trash collection objects collecting litter. Scripting is done in __Python using *Pandas* and *GeoPy*__, while __Data Analysis and Vizualisation is done in R with *Leaflet* and *Highcharter*__.
+: > This is __an *In Progress* Project and *a collaboration* with the *Rubbish* IOS Application__ to evaluate the efficacy of trash collection objects collecting litter. Scripting is done in __Python using *Pandas* and *GeoPy*__, while __Data Analysis and Vizualisation is done in R with *Leaflet* and *Highcharter*__.
 &nbsp; &nbsp; &nbsp; [![button](button-github.png)](https://github.com/Alexander-Kahanek/Rubbish_Clustering)
 
