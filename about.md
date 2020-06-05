@@ -32,7 +32,7 @@
 : > I am an __*Undergraduate student* at the University of North Texas__, pursuing a __Bachelors of Science in *Data Science* with a minor in *Mathematics*, focused in *statistics and probability*__. I plan to __gradute by *December of 2021*__. I am also spending my summer __participating in several *Data Science Research* Projects__ that the University of North Texas is involved in.
 
 
-&nbsp; &nbsp; __Projects__
+&nbsp; &nbsp; __My Projects__
 
 : > 1. __My <a href="https://alexander-kahanek.github.io/project" title="My Project Page" target="_blank">*personal webpage*</a>__ hosts the final product for most of __my more *interesting projects*__.
 > 
@@ -40,7 +40,7 @@
 
 &nbsp; &nbsp; __Research__
 
-: > 1. I am in the process of starting a __Summer *Research* Program for the *Data Science and Information Technology department*__ at the University of North Texas.
+: > 1. I am currently attending a __Machine Learning focused *Research* Program for the *Data Science and Information Technology department*__ at the University of North Texas.
 > 
 > 2. I am __participating in another *research project*__ focused on using __COVID-19 tweet data to preform *Natural Language Proccessing* with spaCy__.
 
