@@ -8,7 +8,8 @@
 <a href="https://linkedin.com/in/alex-kah" target="_blank">LinkedIn</a>__</span>
 
 ## __Technical skills__
-```
+
+```python
 1. Python  # pandas, flair
 2. R  # tidyverse, caret
 3. SQL
@@ -16,7 +17,8 @@
 ```
 
 ## __Areas of expertise__
-```
+
+```python
 1. Machine Learning  # NLP, Trees, Regression, Clustering
 2. Data Analysis  # EDA, Research, Predictive
 3. Data Visualisation  # plotly, highcharters, leaflet, TBD. Tableau
