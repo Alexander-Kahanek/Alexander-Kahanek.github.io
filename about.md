@@ -12,8 +12,8 @@
 ```python
 1. Python = ['pandas', 'flair']
 2. R <- c("tidyverse", "caret")
-3. SQL "INSERT INTO company (Fname) VALUES ('Alexander')"
-4. C/C++ p1 = new Object_Oriented[size];
+3. SQL "INSERT INTO company (fname) VALUES ('Alexander')"
+4. C/C++ *p = new Object_Oriented;
 ```
 
 | <span style="color:blue">__*Area*__</span> | <span style="color:blue">__*Expertise*__</span> |
