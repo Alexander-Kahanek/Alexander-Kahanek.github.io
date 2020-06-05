@@ -9,7 +9,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![button](button-output.png)](hotel.html) &nbsp; &nbsp; &nbsp; [![button](button-github.png)](https://github.com/Alexander-Kahanek/Trivago_Classification)
 
 
-### <a href="accidents.html">Team - Texas Accidents Exploratory Data Analysis</a> &nbsp; ![image](/assets/icons/rsz_1rsz_1rsz_619px-r_logosvg.png)
+### <a href="accidents.html">Texas Accidents Exploratory Data Analysis</a> &nbsp; ![image](/assets/icons/rsz_1rsz_1rsz_619px-r_logosvg.png)
 
 &nbsp; &nbsp; _Data Analysis_ `April 21, 2020`
 : > This project is a __team based *Exploratory Data Analysis*__, it is __focused on *finding patterns in accidents* across texas__, focusing on __*weekend* traffic vs. *weekday* traffic__, as well as creating an __*interactive map* to help visualize traffic accident patterns__.
@@ -36,6 +36,6 @@
 ### Trash Can Efficacy of Litter &nbsp; ![image](/assets/icons/rsz_python-logo.png) &nbsp; ![image](/assets/icons/rsz_1rsz_1rsz_619px-r_logosvg.png)
 
 &nbsp; &nbsp; _Predictive Analysis_ `In Progress`
-: > This is __an *In Progress* Project and *a collaboration* with the *Rubbish* IOS Application__ to evaluate the efficacy of trash collection objects collecting litter. Scripting is done in __Python using *Pandas* and *GeoPy*__, while __Data Analysis and Vizualisation is done in R with *Leaflet* and *Highcharter*__.
+: > This is __an *In Progress* Project and *a collaboration* with the [*Rubbish* IOS Application](https://www.rubbish.love/ "Rubbish Website")__ to evaluate the efficacy of trash collection objects collecting litter. Scripting is done in __Python using *Pandas* and *GeoPy*__, while __Data Analysis and Vizualisation is done in R with *Leaflet* and *Highcharter*__.
 &nbsp; &nbsp; &nbsp; [![button](button-github.png)](https://github.com/Alexander-Kahanek/Rubbish_Clustering)
 
