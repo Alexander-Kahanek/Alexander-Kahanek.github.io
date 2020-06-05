@@ -1,6 +1,5 @@
 # Projects
 
-## __R Code Projects__
 
 ### <a href="hotel.html">Hotel Booking Classification</a> &nbsp; ![image](/assets/icons/rsz_1rsz_1rsz_619px-r_logosvg.png)
 
@@ -8,6 +7,7 @@
 : > This project uses __*hotel booking data* from Trivago__, the project is focused on __creating multiple models with *Random Forest*__ to predict whether a booking will potentially be canceled or retained, as well as __an Exploratory Data Analysis__. This is done to __gain better *insight* into bookings__, as well as to __gain a *market advantage* through the potential use of *targeted advertising*__ with the help of the modeling.
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![button](button-output.png)](hotel.html) &nbsp; &nbsp; &nbsp; [![button](button-github.png)](https://github.com/Alexander-Kahanek/Trivago_Classification)
+
 
 ### <a href="accidents.html">Team - Texas Accidents Exploratory Data Analysis</a> &nbsp; ![image](/assets/icons/rsz_1rsz_1rsz_619px-r_logosvg.png)
 
@@ -24,11 +24,6 @@
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![button](button-output.png)](covid.html) &nbsp; &nbsp; &nbsp; [![button](button-github.png)](https://github.com/Alexander-Kahanek/COVID_19_Analysis)
 
-
------------------
-
-
-## __Python Code Projects__
 
 ### <a href="happiness.html">World Happiness Correlations</a> &nbsp; ![image](/assets/icons/rsz_python-logo.png)
 
