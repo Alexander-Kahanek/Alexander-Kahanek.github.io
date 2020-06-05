@@ -34,7 +34,7 @@
 
 
 
-### <a href="https://github.com/Alexander-Kahanek/Rubbish_Clustering" title="GitHub Repository" target="_blank">Trash Cans and Litter</a> &nbsp; ![image](/assets/icons/rsz_python-logo.png) &nbsp; ![image](/assets/icons/rsz_1rsz_1rsz_619px-r_logosvg.png)
+### <a href="https://github.com/Alexander-Kahanek/Rubbish_Clustering" title="GitHub Repository" target="_blank">Litter and Trash Cans</a> &nbsp; ![image](/assets/icons/rsz_python-logo.png) &nbsp; ![image](/assets/icons/rsz_1rsz_1rsz_619px-r_logosvg.png)
 
 &nbsp; &nbsp; _Clustering Analysis_ `In Progress`
 : > This is __*a collaboration* with the <a href="https://www.rubbish.love/" title="Rubbish Website" target="_blank">*Rubbish* IOS Application</a>__ to evaluate the efficacy of trash collection objects collecting litter. Scripting is done in __Python using *Pandas* and *GeoPy*__, while __Data Analysis and Vizualisation is done in R with *Leaflet* and *Highcharter*__.
