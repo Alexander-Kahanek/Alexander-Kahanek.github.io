@@ -60,7 +60,7 @@
 
 &nbsp; &nbsp; &nbsp; *University of North Texas*
 
-: > __Tutored over 400 fellow students in a multitude of *mathematics courses*__, learning how to __*illustrate* and *convey* complex concepts__ to others effectively. 
+: > I __Tutored over 400 fellow students in a multitude of *mathematics courses*__, learning how to __*illustrate* and *convey* complex concepts__ to others effectively. 
 
 
 `2012-18` __Health Care Specialist (68W)__
