@@ -16,15 +16,14 @@
 4. C/C++  # OOP
 ```
 
-| __*Area*__             | __*Expertise*__                             |
-| ---------------------- |--------------------------------------------:|
-| __Machine Learning__   | NLP, Trees, Regression, Clustering          |
-| __Data Analysis__      | EDA, Research, Predictive                   |
-| __Data Visualisation__ | plotly, highcharters, leaflet, TBD. Tableau |
-| __Mathematics__        | Statistics, Probability                     |
+| __*Area*__             | __*Expertise*__                    |
+| ---------------------- |-----------------------------------:|
+| __Machine Learning__   | NLP, Trees, Regression, Clustering |
+| __Data Analysis__      | EDA, Research, Predictive          |
+| __Data Visualisation__ | plotly, highcharters, leaflet      |
+| __Mathematics__        | Statistics, Probability            |
 
-
-__Currently__
+## __Currently__
 
 : > I am an __*Undergraduate student* at the University of North Texas__, pursuing a __Bachelors of Science in *Data Science* with a minor in *Mathematics*, focused in *statistics and probability*__. I plan to __gradute by *December of 2021*__. I am also spending my summer __participating in several *Data Science Research* Projects__ that the University of North Texas is involved in.
 
