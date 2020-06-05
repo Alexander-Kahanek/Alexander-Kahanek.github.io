@@ -32,7 +32,7 @@
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="happiness.html" target="_blank"><img src="button-output.png" /></a> &nbsp; &nbsp; &nbsp; <a href="https://github.com/Alexander-Kahanek/World_Happiness" target="_blank"><img src="button-github.png" /></a>
 
-
+----------------------
 
 ### <a href="https://github.com/Alexander-Kahanek/Rubbish_Clustering" title="GitHub Repository" target="_blank">Litter and Trash Cans</a> &nbsp; ![image](/assets/icons/rsz_python-logo.png) &nbsp; ![image](/assets/icons/rsz_1rsz_1rsz_619px-r_logosvg.png)
 
