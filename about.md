@@ -10,10 +10,10 @@
 ## __Technical skills__
 
 ```python
-1. Python  # pandas, flair
-2. R  # tidyverse, caret
-3. SQL  # python integration
-4. C/C++  # Object Oriented
+1. Python = [pandas, flair]
+2. R <- c(tidyverse, caret)
+3. SQL INSET INTO python integration
+4. C/C++ *p1 = new Object_Oriented[SIZE];
 ```
 
 | <span style="color:blue">__*Area*__</span> | <span style="color:blue">__*Expertise*__</span> |
