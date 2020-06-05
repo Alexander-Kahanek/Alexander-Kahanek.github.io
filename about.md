@@ -12,7 +12,7 @@
 ```python
 1. Python = ['pandas', 'flair']
 2. R <- c("tidyverse", "caret")
-3. SQL "INSERT INTO company (fname) VALUES ('Alexander')"
+3. SQL INSERT INTO company (fname) VALUES ('Alexander');
 4. C/C++ *p = new Object_Oriented;
 ```
 
