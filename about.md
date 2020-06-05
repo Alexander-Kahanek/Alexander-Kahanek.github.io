@@ -13,7 +13,7 @@
 1. Python = [pandas, flair]
 2. R <- c(tidyverse, caret)
 3. SQL INSET INTO python integration
-4. C/C++ *p1 = new Object_Oriented[SIZE];
+4. C/C++ = (OOP*)malloc(sizeof(OOP));
 ```
 
 | <span style="color:blue">__*Area*__</span> | <span style="color:blue">__*Expertise*__</span> |
