@@ -1,11 +1,11 @@
 # Alexander R. Kahanek
-<span style="color:blue">__<a href="mailto:alexanderkahanek@gmail.com">alexanderkahanek@gmail.com</a>
+<span style="color:blue">__|<a href="mailto:alexanderkahanek@gmail.com">alexanderkahanek@gmail.com</a>
 |
 <a href="https://alexander-kahanek.github.io">Personal Website</a>
 |
 <a href="https://github.com/alexander-kahanek">GitHub</a>
 |
-<a href="https://linkedin.com/in/alex-kah">LinkedIn</a>__</span>
+<a href="https://linkedin.com/in/alex-kah">LinkedIn</a>|__</span>
 
 ## __Technical skills__
 ```
@@ -84,10 +84,10 @@ __Currently__
 4. Effective Communication
 ```
 
-__<a href="mailto:alexanderkahanek@gmail.com">alexanderkahanek@gmail.com</a>
+<span style="color:blue">__|<a href="mailto:alexanderkahanek@gmail.com">alexanderkahanek@gmail.com</a>
 |
 <a href="https://alexander-kahanek.github.io">Personal Website</a>
 |
 <a href="https://github.com/alexander-kahanek">GitHub</a>
 |
-<a href="https://linkedin.com/in/alex-kah">LinkedIn</a>__
+<a href="https://linkedin.com/in/alex-kah">LinkedIn</a>|__</span>
