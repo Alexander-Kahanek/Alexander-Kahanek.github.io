@@ -79,7 +79,7 @@
 
 ## __Soft Skills__
 
-```r
+```python
 1. Analytical Problem Solving
 2. Detail Oriented
 3. Stategic Planning and Leadership
