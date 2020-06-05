@@ -18,12 +18,13 @@
 
 ## __Areas of expertise__
 
-```python
-1. Machine Learning  # NLP, Trees, Regression, Clustering
-2. Data Analysis  # EDA, Research, Predictive
-3. Data Visualisation  # plotly, highcharters, leaflet, TBD. Tableau
-3. Statistics and Probability  # Applied and Theory
-```
+| Area               | Expertise                                   |
+| ------------------ |:-------------------------------------------:|
+| Machine Learning   | NLP, Trees, Regression, Clustering          |
+| Data Analysis      | EDA, Research, Predictive                   |
+| Data Visualisation | plotly, highcharters, leaflet, TBD. Tableau |
+| Mathematics        | Statistics, Probability                     |
+
 
 __Currently__
 
