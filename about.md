@@ -11,7 +11,7 @@
 
 ```python
 1. R <- c("tidyverse", "caret")  *****
-2. Python = ['pandas', 'flair']  ****    
+2. Python = ['pandas', 'flair']  ****
 3. SQL                           **
 4. C/C++                         **
 ```
