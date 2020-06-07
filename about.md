@@ -7,7 +7,7 @@
 |
 <a href="https://linkedin.com/in/alex-kah" target="_blank">LinkedIn</a>__</span>
 
-## __Technical skills__
+## __Programming skills__
 
 ```python
 1. Python = ['pandas', 'flair']
@@ -40,9 +40,9 @@
 
 &nbsp; &nbsp; __Research__
 
-: > 1. I am currently attending a __*Machine Learning* focused *Research* Program for the *Data Science and Information Technology department*__ at the University of North Texas.
+: > 1. Currently attending a __*Machine Learning* focused *Research* Program for the *Data Science and Information Technology department*__ at the University of North Texas.
 > 
-> 2. I am __collaborating in a different *research project*__ focused on using __COVID-19 tweet data to preform *Natural Language Proccessing* with *flair* and *spaCy*__.
+> 2. Currently __collaborating in a different *research project*__ focused on using __COVID-19 tweet data to preform *Natural Language Proccessing* with *flair* and *spaCy*__.
 
 
 ----------------
@@ -60,30 +60,30 @@
 
 &nbsp; &nbsp; &nbsp; *University of North Texas*
 
-: > I __Tutored over 400 fellow students in a multitude of *mathematics courses*__, learning how to __*illustrate* and *convey* complex concepts__ to others effectively. 
+: > __Tutored over 400 fellow students in a multitude of *mathematics courses*__, learning how to __*illustrate* and *convey* complex concepts__ to others effectively. 
 
 
 `2012-18` __Health Care Specialist (68W)__
 
 &nbsp; &nbsp; &nbsp; *United States Army, National Guard (MA, TX)*
 
-: > I __spearheaded a team of *15 people*__, that __reduced response time by *50%*__, for the East African Response Force, while working in the medical sector learning how to __solve problems efficiently and quickly__. 
+: > __Spearheaded a team of *15 people*__, that __reduced response time by *50%*__, for the East African Response Force, while working in the medical sector learning how to __solve problems efficiently and quickly__. 
 
 
 `2015-17`__Emergency Medical Technician__
 
 &nbsp; &nbsp; &nbsp; *American Medical Respoonse (MA, TX)*
 
-: > I __responded to over *400* emergent 911 calls__, where I learned the importance of __*thorough documentation*__. 
+: > __Responded to over *400* emergent 911 calls__, where I learned the importance of __*thorough documentation*__. 
 
 
 ## __Soft Skills__
 
 ```python
-1. Analytical Problem Solving
-2. Detail Oriented
-3. Stategic Planning and Leadership
-4. Effective Communication
+1. Effective CommunicationA
+2. Stategic Planning and Leadership
+3. Detail Oriented
+4. nalytical Problem Solving
 ```
 
 <span style="color:blue">__<a href="mailto:alexanderkahanek@gmail.com">alexanderkahanek@gmail.com</a>
