@@ -40,7 +40,3 @@
 : > This is __*a collaboration* with the <a href="https://www.rubbish.love/" title="Rubbish Website" target="_blank">*Rubbish* IOS Application</a>__ to evaluate the efficacy of trash collection objects collecting litter. __Scripting__ is done in __Python using *Pandas* and *GeoPy*__, while __Data Analysis and Vizualisation__ is done in __R with *Leaflet* and *plotly*__.
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://github.com/Alexander-Kahanek/Rubbish_Clustering" target="_blank"><img src="button-github.png" /></a>
-
-<div class="sidebar-social">
-    {% include components/social.html author=author %}
-</div>
