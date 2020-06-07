@@ -41,3 +41,6 @@
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://github.com/Alexander-Kahanek/Rubbish_Clustering" target="_blank"><img src="button-github.png" /></a>
 
+<div class="sidebar-social">
+    {% include components/social.html author=author %}
+</div>

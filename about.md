@@ -93,3 +93,7 @@
 <a href="https://github.com/alexander-kahanek" target="_blank">GitHub</a>
 |
 <a href="https://linkedin.com/in/alex-kah" target="_blank">LinkedIn</a>__</span>
+
+<div class="sidebar-social">
+    {% include components/social.html author=author %}
+</div>
