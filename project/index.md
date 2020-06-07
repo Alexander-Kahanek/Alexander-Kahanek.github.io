@@ -11,7 +11,7 @@
 
 ### <a href="accidents.html" title="Finished Product" target="_blank">Texas Accidents Analysis</a> &nbsp; ![image](/assets/icons/rsz_1rsz_1rsz_619px-r_logosvg.png)
 
-&nbsp; &nbsp; _Data Analysis_ `April 21, 2020`
+&nbsp; &nbsp; _Exploratory Data Analysis_ `April 21, 2020`
 : > This project is a __team based *Exploratory Data Analysis*__, it is __focused on *finding patterns in accidents* across texas__, focusing on __*weekend* traffic vs. *weekday* traffic__, as well as creating an __*interactive map* to help visualize traffic accident patterns__.
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="accidents.html" target="_blank"><img src="button-output.png" /></a> &nbsp; &nbsp; &nbsp; <a href="https://github.com/Alexander-Kahanek/TX_Accidents" target="_blank"><img src="button-github.png" /></a>
@@ -27,7 +27,7 @@
 
 ### <a href="happiness.html" title="Finished Product" target="_blank">World Happiness Correlations</a> &nbsp; ![image](/assets/icons/rsz_python-logo.png)
 
-&nbsp; &nbsp; _Data Analysis_ `March 14, 2020`
+&nbsp; &nbsp; _Exploratory Data Analysis_ `March 14, 2020`
 : > This project is __my first data analysis__, which is __centered around the use of *Pearsons r*__, __and *r squared*__, to __find *correlations* in Happniness scores__ accross many Countries.
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="happiness.html" target="_blank"><img src="button-output.png" /></a> &nbsp; &nbsp; &nbsp; <a href="https://github.com/Alexander-Kahanek/World_Happiness" target="_blank"><img src="button-github.png" /></a>
