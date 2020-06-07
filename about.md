@@ -20,7 +20,7 @@
 |:-----------------------|-------------------------------------:|
 | __Machine Learning__   | *NLP, Trees, Regression, Clustering* |
 | __Data Analysis__      | *EDA, Research, Predictive*          |
-| __Data Visualisation__ | *plotly, highcharters*      |
+| __Data Visualisation__ | *plotly, highcharters*               |
 | __Mathematics__        | *Statistics, Probability, Theory*    |
 
 -----------------
