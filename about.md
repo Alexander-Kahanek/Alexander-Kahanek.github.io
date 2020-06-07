@@ -95,5 +95,5 @@
 <a href="https://linkedin.com/in/alex-kah" target="_blank">LinkedIn</a>__</span>
 
 <div class="sidebar-social">
-    {% include components/social.html author=author %}
+    {% include _includes/components/social.html author=author %}
 </div>
