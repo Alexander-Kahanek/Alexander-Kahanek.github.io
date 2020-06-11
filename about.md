@@ -80,7 +80,7 @@
 ## __Soft Skills__
 
 ```python
-1. Effective CommunicationA
+1. Effective Communication
 2. Stategic Planning and Leadership
 3. Detail Oriented
 4. nalytical Problem Solving
