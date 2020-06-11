@@ -10,10 +10,10 @@
 ## __Programming skills__
 
 ```python
-1. R <- c("tidyverse", "caret")  * * * * *
-2. Python = ['pandas', 'flair']  * * * *
-3. SQL                           * *
-4. C/C++                         * *
+1. R       *****
+2. Python  ****
+3. SQL     **
+4. C/C++   **
 ```
 
 | <span style="color:blue">__*Area*__</span> | <span style="color:blue">__*Expertise*__</span> |
