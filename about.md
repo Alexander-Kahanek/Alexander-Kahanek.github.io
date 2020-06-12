@@ -74,7 +74,7 @@
 
 &nbsp; &nbsp; &nbsp; *American Medical Respoonse (MA, TX)*
 
-: > __Responded to over *400* emergent 911 calls__, where I learned the importance of __*thorough documentation*__. 
+: > __Responded to over *600* emergent 911 calls__, where I learned the importance of __*thorough documentation*__. 
 
 
 ## __Soft Skills__
