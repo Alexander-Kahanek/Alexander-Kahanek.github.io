@@ -4,7 +4,7 @@
 ### <a href="hotel.html" title="Finished Product" target="_blank">Hotel Booking Canceled or Not?</a> &nbsp; ![image](/assets/icons/rsz_1rsz_1rsz_619px-r_logosvg.png)
 
 &nbsp; &nbsp; _Machine Learning_ `April 30, 2020`
-: > This project uses __*hotel booking data* from Trivago__, the project is focused on __predicting whether a booking will potentially be canceled or retained__ through the use of __creating multiple models with *Random Forest*__, as well as __an Exploratory Data Analysis__. This is done to __gain better *insight* into bookings__, as well as to __gain a *market advantage* through the potential use of *targeted advertising*__ with the help of __Machine Leanerning__.
+: > This project uses __*hotel booking data* from Trivago__, the project is focused on __predicting whether a booking will potentially be canceled or retained__ through the use of __creating multiple models with *Random Forest*__, as well as __an Exploratory Data Analysis__. This is done to __gain better *insight* into bookings__, as well as to __gain a *market advantage* through the potential use of *targeted advertising*__ with the help of __Machine Learning__.
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="hotel.html" target="_blank"><img src="button-output.png" /></a> &nbsp; &nbsp; &nbsp; <a href="https://github.com/Alexander-Kahanek/Trivago_Classification" target="_blank"><img src="button-github.png" /></a>
 
