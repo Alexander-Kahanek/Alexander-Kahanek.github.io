@@ -40,3 +40,10 @@
 : > This is __*a collaboration* with the <a href="https://www.rubbish.love/" title="Rubbish Website" target="_blank">*Rubbish, co.*</a>__ which is a company dedicated to __cleaning up litter__ across the USA. This project is __currently in progress__.
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://github.com/Alexander-Kahanek/Rubbish_Clustering" target="_blank"><img src="button-github.png" /></a>
+
+### <a href="https://github.com/Alexander-Kahanek/COVID_Research" title="GitHub Repository" target="_blank">Researching COVID-19 Tweets</a> &nbsp; ![image](/assets/icons/rsz_python-logo.png)
+
+&nbsp; &nbsp; _Natural Language Research_ `In Progress`
+: > This is __a research project that is currently in progress__. My current work is being updated in my GitHub Repository below.
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://github.com/Alexander-Kahanek/Rubbish_Clustering" target="_blank"><img src="button-github.png" /></a>
