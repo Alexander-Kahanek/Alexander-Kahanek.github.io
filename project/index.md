@@ -22,7 +22,7 @@
 &nbsp; &nbsp; _Predictive Analysis_ `March 24, 2020`
 : > This project uses the __*COVID-19 data* to create and implement a hand built Markov Chain type *Monte Carlo Algorithm*__ to predict the future number of Cumulative Deceased Cases in Italy, as well as take __an *in-depth analysis* of Italys' Deceased Cases__.
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="covid.html" target="_blank"><img src="button-output.png" /></a> &nbsp; &nbsp; &nbsp; <a href="https://github.com/Alexander-Kahanek/COVID_19_Analysis" target="_blank"><img src="button-github.png" /></a>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="covid.html" target="_blank"><img src="button-output.png" /></a> &nbsp; &nbsp; &nbsp; <a href="https://github.com/Alexander-Kahanek/COVID_Monte_Carlo" target="_blank"><img src="button-github.png" /></a>
 
 
 ### <a href="happiness.html" title="Finished Product" target="_blank">World Happiness Correlations</a> &nbsp; ![image](/assets/icons/rsz_python-logo.png)
@@ -43,7 +43,7 @@
 
 ### <a href="https://github.com/Alexander-Kahanek/COVID_Research" title="GitHub Repository" target="_blank">Researching COVID-19 Tweets</a> &nbsp; ![image](/assets/icons/rsz_python-logo.png)
 
-&nbsp; &nbsp; _Natural Language Research_ `In Progress`
+&nbsp; &nbsp; _Natural Language Processing Research_ `In Progress`
 : > This is __a research project that is currently in progress__. My current work is being updated in my GitHub Repository below.
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://github.com/Alexander-Kahanek/Rubbish_Clustering" target="_blank"><img src="button-github.png" /></a>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://github.com/Alexander-Kahanek/COVID_Research" target="_blank"><img src="button-github.png" /></a>
