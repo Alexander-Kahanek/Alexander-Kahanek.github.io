@@ -27,7 +27,9 @@
 &nbsp; &nbsp; _Predictive Analysis_ `March 24, 2020`
 : > This project uses the **_COVID-19 data_ to create and implement a hand built Markov Chain type _Monte Carlo Algorithm_** to predict the future number of Cumulative Deceased Cases in Italy, as well as take **an _in-depth analysis_ of Italys' Deceased Cases**.
 
+<!---
 <p align="center"><img src="https://alexander-kahanek.github.io/assets/img/italy-monte-carlo.png"></p>
+--->
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="covid.html" target="_blank"><img src="button-finished-product.png" /></a> &nbsp; &nbsp; <a href="https://github.com/Alexander-Kahanek/COVID_Monte_Carlo" target="_blank"><img src="button-github.png" /></a>
 
@@ -38,7 +40,9 @@
 &nbsp; &nbsp; _Exploratory Data Analysis_ `April 21, 2020`
 : > This project is a **team based _Exploratory Data Analysis_**, it is **focused on _finding patterns in accidents_ across texas**, focusing on **_weekend_ traffic vs. _weekday_ traffic**, as well as creating an **_interactive map_ to help visualize traffic accident patterns**.
 
+<!---
 <p align="center"><img src="https://alexander-kahanek.github.io/assets/img/texas-accidents.png"></p>
+--->
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="accidents.html" target="_blank"><img src="button-finished-product.png" /></a> &nbsp; &nbsp; <a href="https://github.com/Alexander-Kahanek/TX_Accidents" target="_blank"><img src="button-github.png" /></a>
 
