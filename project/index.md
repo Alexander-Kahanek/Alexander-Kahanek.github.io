@@ -7,6 +7,8 @@
 &nbsp; &nbsp; _Data Visualization_ `October 1, 2020`
 : > This is **_a collaboration_ with <a href="https://www.rubbish.love/" title="Rubbish Website" target="_blank">_Rubbish, co._</a>** which is a company dedicated to **cleaning up litter** across the USA. They **tracked over 25,000 points of litter and issues** in SoMa West, California, and I **created a Dashboard Web Application, _in RShiny and Python_, to display their data**!
 
+<p align="center"><img src="assests/img/dashboard-img.png"> </p>
+
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://rubbishlove.shinyapps.io/dashboard/" target="_blank"><img src="button-finished-product.png" /></a> &nbsp; &nbsp; <a href="https://github.com/Alexander-Kahanek/SoMa_Dashboard" target="_blank"><img src="button-github.png" /></a>
 
 <!--- trivago ML project --->
