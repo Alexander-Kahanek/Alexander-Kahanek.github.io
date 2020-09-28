@@ -38,6 +38,8 @@
 &nbsp; &nbsp; _Exploratory Data Analysis_ `April 21, 2020`
 : > This project is a **team based _Exploratory Data Analysis_**, it is **focused on _finding patterns in accidents_ across texas**, focusing on **_weekend_ traffic vs. _weekday_ traffic**, as well as creating an **_interactive map_ to help visualize traffic accident patterns**.
 
+<p align="center"><img src="https://alexander-kahanek.github.io/assets/img/texas-accidents.png"></p>
+
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="accidents.html" target="_blank"><img src="button-finished-product.png" /></a> &nbsp; &nbsp; <a href="https://github.com/Alexander-Kahanek/TX_Accidents" target="_blank"><img src="button-github.png" /></a>
 
 <!--- world happiness project
