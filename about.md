@@ -22,7 +22,7 @@
 | :----------------------------------------- | ----------------------------------------------: |
 | **Machine Learning**                       |                  _spaCy, PyTorch, RandomForest_ |
 | **Data Analysis**                          |                     _EDA, Research, Predictive_ |
-| **Data Visualisation**                     |                          _plotly, highcharters_ |
+| **Data Visualisation**                     |                 _Tableau, plotly, highcharters_ |
 | **Mathematics**                            |               _Statistics, Probability, Theory_ |
 
 ---
