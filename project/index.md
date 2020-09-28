@@ -5,7 +5,7 @@
 ### <a href="https://github.com/Alexander-Kahanek/Rubbish_Clustering" title="GitHub Repository" target="_blank">Rubbish Dashboard Application</a> &nbsp; ![image](/assets/icons/rsz_1rsz_1rsz_619px-r_logosvg.png) &nbsp; ![image](/assets/icons/rsz_python-logo.png)
 
 &nbsp; &nbsp; _Data Visualization_ `October 1, 2020`
-: > This is **_a collaboration_ with <a href="https://www.rubbish.love/" title="Rubbish Website" target="_blank">_Rubbish, co._</a>** which is a company dedicated to **cleaning up litter** across the USA. They **tracked over 25,000 points of litter and issues** in SoMa West, California, and I **created a Dashboard Web Application, in RShiny, to display their data**!
+: > This is **_a collaboration_ with <a href="https://www.rubbish.love/" title="Rubbish Website" target="_blank">_Rubbish, co._</a>** which is a company dedicated to **cleaning up litter** across the USA. They **tracked over 25,000 points of litter and issues** in SoMa West, California, and I **created a Dashboard Web Application, _in RShiny and Python_, to display their data**!
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://rubbishlove.shinyapps.io/dashboard/" target="_blank"><img src="button-finished-product.png" /></a> &nbsp; &nbsp; &nbsp; <a href="https://github.com/Alexander-Kahanek/SoMa_Dashboard" target="_blank"><img src="button-github.png" /></a>
 
