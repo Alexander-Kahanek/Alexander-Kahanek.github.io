@@ -31,19 +31,23 @@
 
 &nbsp; &nbsp; **What I'm Doing**
 
-: > I am an **_Undergraduate student_ at the University of North Texas**, pursuing a **Bachelors of Science in _Data Science_ with a minor in _Mathematics_, focused in _statistics and probability_**. I plan to **gradute by _December of 2021_**. I am also spending my summer **participating in several _Data Science Research_ Projects** that the University of North Texas is involved in.
+: > I am an **_Undergraduate student_ at the University of North Texas**, pursuing a **Bachelors of Science in _Data Science_ with a minor in _Mathematics_, focused in _statistics and probability_**, with a plan to **gradute by _December of 2021_**.
 
 &nbsp; &nbsp; **My Projects**
 
 : > 1. **<a href="https://alexander-kahanek.github.io/project" title="My Project Page" target="_blank">My _personal webpage_</a>** hosts the final product for most of **my more _interesting projects_**.
 
-> 2. **<a href="https://github.com/alexander-kahanek" title="My GitHub Page" target="_blank">My _github account_</a>** hosts all of **my _code_ and _documentation_**, which includes most of **my _school work_, as well as any projects**.
+: > 2. **<a href="https://github.com/alexander-kahanek" title="My GitHub Page" target="_blank">My _github account_</a>** hosts all of **my _code_ and _documentation_**, which includes most of **my _school work_, as well as any projects**.
+
+<!---
 
 &nbsp; &nbsp; **Research**
 
 : > 1. Currently attending a **_Machine Learning_ focused _Research_ Program for the _Data Science and Information Technology department_** at the University of North Texas.
 
 > 2. Currently **collaborating in a different _research project_** focused on using **COVID-19 tweet data to preform _Natural Language Proccessing_ with _flair_ and _spaCy_**.
+
+--->
 
 ---
 
@@ -57,7 +61,19 @@
 
 ## **Employment**
 
-`2019-Curr` **Mathematics Tutor**
+`2020-Curr` **Research Assistant**
+
+&nbsp; &nbsp; &nbsp; _University of North Texas_
+
+: > Currently **performing my own research into the sentiment and causal impacts of COVID-19 in Twitter**.
+
+`2020-2020` **NSF-REU Information Science Research**
+
+&nbsp; &nbsp; &nbsp; _University of North Texas_
+
+: > Worked with **Low-Resource Languages** and **Deep Learning Neural Networks** to develope generalized methods that \*\*improve _the accuracy of_ Morphological Inflection _by 5%_, without the need to change the NNs' architecture.
+
+`2019-2020` **Mathematics Tutor**
 
 &nbsp; &nbsp; &nbsp; _University of North Texas_
 
