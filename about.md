@@ -77,12 +77,16 @@
 
 ## **Soft Skills**
 
+<!--
+
 ```python
 1. Effective Communication
 2. Stategic Planning and Leadership
 3. Detail Oriented
 4. Analytical Problem Solving
 ```
+
+-->
 
 <span style="color:blue">**<a href="mailto:alexanderkahanek@gmail.com">alexanderkahanek@gmail.com</a>
 |
