@@ -37,7 +37,7 @@
 
 : > 1. **<a href="https://alexander-kahanek.github.io/project" title="My Project Page" target="_blank">My _personal webpage_</a>** hosts the final product for most of **my more _interesting projects_**.
 
-: > 2. **<a href="https://github.com/alexander-kahanek" title="My GitHub Page" target="_blank">My _github account_</a>** hosts all of **my _code_ and _documentation_**, which includes most of **my _school work_, as well as any projects**.
+2. **<a href="https://github.com/alexander-kahanek" title="My GitHub Page" target="_blank">My _github account_</a>** hosts all of **my _code_ and _documentation_**, which includes most of **my _school work_, as well as any projects**.
 
 <!---
 
@@ -71,7 +71,7 @@
 
 &nbsp; &nbsp; &nbsp; _University of North Texas_
 
-: > Worked with **Low-Resource Languages** and **Deep Learning Neural Networks** to develope generalized methods that \*\*improve _the accuracy of_ Morphological Inflection _by 5%_, without the need to change the NNs' architecture.
+: > Worked with **Low-Resource Languages** and **Deep Learning Neural Networks** to develop generalized methods that **improve _the accuracy of_ Morphological Inflection _by 5%_**, without the need to change the NNs' architecture.
 
 `2019-2020` **Mathematics Tutor**
 

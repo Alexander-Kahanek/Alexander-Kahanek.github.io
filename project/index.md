@@ -9,7 +9,7 @@
 
 <p align="center"><img src="https://alexander-kahanek.github.io/assets/img/dashboard-img.png"></p>
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://rubbishlove.shinyapps.io/dashboard/" target="_blank"><img src="button-finished-product.png" /></a> &nbsp; &nbsp; <a href="https://github.com/Alexander-Kahanek/SoMa_Dashboard" target="_blank"><img src="button-github.png" /></a>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://rubbishlove.shinyapps.io/dashboard/" target="_blank"><img src="button-finished-product.png" /></a> &nbsp; &nbsp; <a href="https://github.com/Alexander-Kahanek/SoMa_Dashboard" target="_blank"><img src="button-github.png" /></a>  &nbsp; &nbsp; <a href="https://medium.com/rubbish-love/a-litter-dashboard-for-soma-west-a18643b19d6a" target="_blank"><img src="button-medium.png" /></a> 
 
 <!--- trivago ML project --->
 
