@@ -43,9 +43,9 @@
 
 &nbsp; &nbsp; **Research**
 
-: > 1. Currently attending a **_Machine Learning_ focused _Research_ Program for the _Data Science and Information Technology department_** at the University of North Texas.
+: 1. Currently attending a **_Machine Learning_ focused _Research_ Program for the _Data Science and Information Technology department_** at the University of North Texas.
 
-> 2. Currently **collaborating in a different _research project_** focused on using **COVID-19 tweet data to preform _Natural Language Proccessing_ with _flair_ and _spaCy_**.
+: 2. Currently **collaborating in a different _research project_** focused on using **COVID-19 tweet data to preform _Natural Language Proccessing_ with _flair_ and _spaCy_**.
 
 --->
 
