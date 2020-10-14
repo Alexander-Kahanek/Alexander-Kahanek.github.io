@@ -105,6 +105,8 @@
 
 -->
 
+# Contact Links
+
 <span style="color:blue">**<a href="mailto:alexanderkahanek@gmail.com">alexanderkahanek@gmail.com</a>
 |
 <a href="https://alexander-kahanek.github.io" target="_blank">Personal Website</a>
