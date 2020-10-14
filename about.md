@@ -91,9 +91,10 @@
 
 : > **Responded to over _600_ emergent 911 calls**, where I learned the importance of **_thorough documentation_**.
 
+<!--
+
 ## **Soft Skills**
 
-<!--
 
 ```python
 1. Effective Communication
