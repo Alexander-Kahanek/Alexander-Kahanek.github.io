@@ -9,7 +9,7 @@
 
 <p align="center"><img src="https://alexander-kahanek.github.io/assets/img/dashboard-img.png"></p>
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://rubbishlove.shinyapps.io/dashboard/" target="_blank"><img src="button-finished-product.png" /></a> &nbsp; &nbsp; <a href="https://github.com/Alexander-Kahanek/SoMa_Dashboard" target="_blank"><img src="button-github.png" /></a>  &nbsp; &nbsp; <a href="https://medium.com/rubbish-love/a-litter-dashboard-for-soma-west-a18643b19d6a" target="_blank"><img src="button-medium.png" /></a> 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://rubbishlove.shinyapps.io/dashboard/" target="_blank"><img src="button-finished-product.png" /></a> &nbsp; &nbsp; <a href="https://github.com/Alexander-Kahanek/SoMa_Dashboard" target="_blank"><img src="button-github.png" /></a> &nbsp; &nbsp; <a href="https://medium.com/rubbish-love/a-litter-dashboard-for-soma-west-a18643b19d6a" target="_blank"><img src="button-medium2.png" /></a>
 
 <!--- trivago ML project --->
 
@@ -18,7 +18,7 @@
 &nbsp; &nbsp; _Machine Learning, Classification_ `April 30, 2020`
 : > This project uses **_hotel booking data_ from Trivago**, the project is focused on **predicting whether a booking will potentially be canceled or retained** through the use of **creating multiple models with _Random Forest_**, as well as **an Exploratory Data Analysis**. This is done to **gain better _insight_ into bookings**, as well as to **gain a _market advantage_ through the potential use of _targeted advertising_** with the help of **Machine Learning**.
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="hotel.html" target="_blank"><img src="button-finished-product.png" /></a> &nbsp; &nbsp; <a href="https://github.com/Alexander-Kahanek/Trivago_Classification" target="_blank"><img src="button-github.png" /></a>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="hotel.html" target="_blank"><img src="button-notebook.png" /></a> &nbsp; &nbsp; <a href="https://github.com/Alexander-Kahanek/Trivago_Classification" target="_blank"><img src="button-github.png" /></a>
 
 <!--- covid monte carlo project --->
 
@@ -31,7 +31,7 @@
 <p align="center"><img src="https://alexander-kahanek.github.io/assets/img/italy-monte-carlo.png"></p>
 --->
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="covid.html" target="_blank"><img src="button-finished-product.png" /></a> &nbsp; &nbsp; <a href="https://github.com/Alexander-Kahanek/COVID_Monte_Carlo" target="_blank"><img src="button-github.png" /></a>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="covid.html" target="_blank"><img src="button-notebook.png" /></a> &nbsp; &nbsp; <a href="https://github.com/Alexander-Kahanek/COVID_Monte_Carlo" target="_blank"><img src="button-github.png" /></a>
 
 <!--- traffic analysis project --->
 
@@ -44,7 +44,7 @@
 <p align="center"><img src="https://alexander-kahanek.github.io/assets/img/texas-accidents.png"></p>
 --->
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="accidents.html" target="_blank"><img src="button-finished-product.png" /></a> &nbsp; &nbsp; <a href="https://github.com/Alexander-Kahanek/TX_Accidents" target="_blank"><img src="button-github.png" /></a>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="accidents.html" target="_blank"><img src="button-notebook.png" /></a> &nbsp; &nbsp; <a href="https://github.com/Alexander-Kahanek/TX_Accidents" target="_blank"><img src="button-github.png" /></a>
 
 <!--- world happiness project
 
