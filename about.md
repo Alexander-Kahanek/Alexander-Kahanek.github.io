@@ -19,7 +19,7 @@
 ```
 
 
-<!-- {% include exp.html %} -->
+{% include exp.html %}
 
 <!-- | <span style="color:blue">**_Area_**</span> | <span style="color:blue">**_Expertise_**</span> |
 | :----------------------------------------- | ----------------------------------------------: |
@@ -28,9 +28,6 @@
 | **Data Visualisation**                     |                 _Tableau, plotly, highcharters_ |
 | **Mathematics**                            |               _Statistics, Probability, Theory_ | -->
 
-
-
----
 
 
 ## **Employment**
