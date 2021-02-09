@@ -19,7 +19,7 @@
 ```
 
 
-{% include exp.html %}
+<!-- {% include exp.html %} -->
 
 <!-- | <span style="color:blue">**_Area_**</span> | <span style="color:blue">**_Expertise_**</span> |
 | :----------------------------------------- | ----------------------------------------------: |
