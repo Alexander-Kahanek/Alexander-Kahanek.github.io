@@ -11,10 +11,11 @@
 ```python
 1. Python = [PyTorch, Keras, numPy, TensorFlow,Scikit-Learn,
 2.          Pandas, Matplotlib, GeoPandas, Flask]
-3. R <- c(Tidyverse, RandomForest, GGplot2
-4.        ,Plotly, Highcharters, Shiny, Caret)
-5. proficient = [C/C++, Elixir, Phoenix]
-6. know = [SQL, JS, CSS, HTML]
+3.
+4. R <- c(Tidyverse, RandomForest, GGplot2
+5.        ,Plotly, Highcharters, Shiny, Caret)
+6.
+7. others = [C/C++, Elixir, Phoenix, SQL, JS, CSS, HTML]
 ```
 
 
