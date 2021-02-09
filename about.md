@@ -11,11 +11,11 @@
 ## **Programming skills**
 
 ```python
-1. R
-2. Python
-3. SQL
-4. C/C++
-5. JS -- CSS -- HTML
+1. Python = [PyTorch, Keras, numPy, TensorFlow,Scikit-Learn,
+2.          Pandas, Matplotlib, GeoPandas, Flask]
+3. R <- c(Tidyverse, RandomForest, GGplot2, Plotly, Highcharters, Shiny, Caret)
+4. proficient = [C/C++, Elixir, Phoenix]
+5. know = [SQL, JS, CSS, HTML]
 ```
 
 | <span style="color:blue">**_Area_**</span> | <span style="color:blue">**_Expertise_**</span> |
