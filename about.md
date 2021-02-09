@@ -28,31 +28,7 @@
 | **Data Visualisation**                     |                 _Tableau, plotly, highcharters_ |
 | **Mathematics**                            |               _Statistics, Probability, Theory_ | -->
 
----
 
-<!--
-
-## **Currently**
-
-&nbsp; &nbsp; **What I'm Doing**
-
-: > I am an **_Undergraduate student_ at the University of North Texas**, pursuing a **Bachelors of Science in _Data Science_ with a minor in _Mathematics_, focused in _statistics and probability_**, with a plan to **gradute by _December of 2021_**.
-
-&nbsp; &nbsp; **My Projects**
-
-: > 1. **<a href="https://alexander-kahanek.github.io/project" title="My Project Page" target="_blank">My _personal webpage_</a>** hosts the final product for most of **my more _interesting projects_**.
-
-2. **<a href="https://github.com/alexander-kahanek" title="My GitHub Page" target="_blank">My _github account_</a>** hosts all of **my _code_ and _documentation_**, which includes most of **my _school work_, as well as any projects**.
-
-<!---
-
-&nbsp; &nbsp; **Research**
-
-: 1. Currently attending a **_Machine Learning_ focused _Research_ Program for the _Data Science and Information Technology department_** at the University of North Texas.
-
-: 2. Currently **collaborating in a different _research project_** focused on using **COVID-19 tweet data to preform _Natural Language Proccessing_ with _flair_ and _spaCy_**.
-
---->
 
 ---
 
@@ -97,21 +73,8 @@
 
 : B.S. Data Science, Minor in Mathematics, Statistics Certification
 
-: Current **_GPA_: 3.9**
+: Current **GPA: 3.9**
 
-<!--
-
-## **Soft Skills**
-
-
-```python
-1. Effective Communication
-2. Stategic Planning and Leadership
-3. Detail Oriented
-4. Analytical Problem Solving
-```
-
--->
 
 # **Contact Links**
 
