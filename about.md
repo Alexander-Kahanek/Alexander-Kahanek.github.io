@@ -63,40 +63,41 @@
 
 &nbsp; &nbsp; &nbsp; _University of North Texas_
 
-: > Currently **performing my own research into the sentiment and causal impacts of COVID-19 in Twitter**.
+: > Currently working on publishing my own research utilizing Natural Language Processing to analyze the sentiment of CDC guidelines for COVID-19 in Twitter.
 
 `2020-2020` **NSF-REU Information Science Research**
 
 &nbsp; &nbsp; &nbsp; _University of North Texas_
 
-: > Worked with **Low-Resource Languages** and **Deep Learning Neural Networks** to develop generalized methods that **improve _the accuracy of_ Morphological Inflection _by 5%_**, without the need to change the NNs' architecture.
+: > Developed generalized methods to improve Morphological Inflection in Low-Resource Languages utilizing data manipulation. These methods improved the accuracy of Neural Network training by 5%.
+
 
 `2019-2020` **Mathematics Tutor**
 
 &nbsp; &nbsp; &nbsp; _University of North Texas_
 
-: > **Tutored over 400 fellow students in a multitude of _mathematics courses_**, learning how to **_illustrate_ and _convey_ complex concepts** to others effectively.
+: > Tutored over 400 fellow students in a multitude of mathematics courses, learning how to *llustrate and convey complex concepts to others effectively.
 
 `2012-18` **Health Care Specialist (68W)**
 
 &nbsp; &nbsp; &nbsp; _United States Army, National Guard (MA, TX)_
 
-: > **Spearheaded a team of _15 people_**, that **reduced response time by _50%_**, for the East African Response Force, while working in the medical sector learning how to **solve problems efficiently and quickly**.
+: > Spearheaded a team of 15 people, that reduced response time by 50%, for the East African Response Force, while working in the medical sector learning how to solve problems efficiently and quickly.
 
 `2015-17`**Emergency Medical Technician**
 
 &nbsp; &nbsp; &nbsp; _American Medical Respoonse (MA, TX)_
 
-: > **Responded to over _600_ emergent 911 calls**, where I learned the importance of **_thorough documentation_**.
+: > Responded to over 600 emergent 911 calls, where I learned the importance of thorough documentation.
 
 
 ## **Education**
 
 `2018-21` **University of North Texas**
 
-: B.S. **_Data Science_**, Minor in **_Mathematics_**, **_Statistics_** Certification
+: B.S. Data Science, Minor in Mathematics, Statistics Certification
 
-: Current **_GPA_**: **3.9**
+: Current **_GPA_: 3.9**
 
 <!--
 
