@@ -21,6 +21,7 @@
 
 {% include exp.html %}
 
+
 <!-- | <span style="color:blue">**_Area_**</span> | <span style="color:blue">**_Expertise_**</span> |
 | :----------------------------------------- | ----------------------------------------------: |
 | **Machine Learning**                       |                  _spaCy, PyTorch, RandomForest_ |
