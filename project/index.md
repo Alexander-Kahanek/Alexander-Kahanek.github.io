@@ -9,7 +9,7 @@
 <!-- body text -->
 
 &nbsp; &nbsp; _Data Visualization_ `October 1, 2020`
-: > This is a collaboration_ with <a href="https://www.rubbish.love/" title="Rubbish Website" target="_blank">_Rubbish, co._</a>** which is a company dedicated to cleaning up litter across the USA. They **tracked over 25,000 points of litter and issues in SoMa West, California, and I created a Dashboard Web Application, in RShiny and Python, to display their data!
+: > This is a collaboration_ with <a href="https://www.rubbish.love/" title="Rubbish Website" target="_blank">_Rubbish, co._</a> which is a company dedicated to cleaning up litter across the USA. They tracked over 25,000 points of litter and issues in SoMa West, California, and I created a Dashboard Web Application, in RShiny and Python, to display their data!
 
 <!-- image -->
 <p align="center"><img src="https://alexander-kahanek.github.io/assets/img/dashboard-img.png"></p>
