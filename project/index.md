@@ -29,6 +29,17 @@
 &nbsp; &nbsp; _Machine Learning, Classification_ `April 30, 2020`
 : > This project uses hotel booking data from Trivago, the project is focused on predicting whether a booking will potentially be canceled or retained through the use of creating multiple models with Random Forest, as well as an Exploratory Data Analysis. This is done to gain better insight into bookings, as well as to gain a market advantage through the potential use of targeted advertising with the help of Machine Learning.
 
+
+<!-- Results Table -->
+
+| Field  | Model 1  | Model 2  | Model 3  |   |
+|---|---|---|---|---|
+| **Accuracy**  |   |   |   |   |
+| **Data Split**  |   |   |   |   |
+| **False Negative Rate**  |   |   |   |   |
+| **True Positive Rate**  |   |   |   |   |
+
+
 <!-- buttons -->
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="hotel.html" target="_blank"><img src="button-notebook.png" /></a> &nbsp; &nbsp; <a href="https://github.com/Alexander-Kahanek/Trivago_Classification" target="_blank"><img src="button-github.png" /></a>
