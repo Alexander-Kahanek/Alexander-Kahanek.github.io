@@ -4,12 +4,12 @@
 
 <!-- title -->
 
-### <a href="https://github.com/Alexander-Kahanek/Rubbish_Clustering" title="GitHub Repository" target="_blank">Rubbish Dashboard Application</a> &nbsp; ![image](/assets/icons/rsz_1rsz_1rsz_619px-r_logosvg.png) &nbsp; ![image](/assets/icons/rsz_python-logo.png)
+### <a href="https://github.com/Alexander-Kahanek/Rubbish_Clustering" title="GitHub Repository" target="_blank">Where's the Rubbish at?/a> &nbsp; ![image](/assets/icons/rsz_1rsz_1rsz_619px-r_logosvg.png) &nbsp; ![image](/assets/icons/rsz_python-logo.png)
 
 <!-- body text -->
 
 &nbsp; &nbsp; _Data Visualization_ `October 1, 2020`
-: > This is a collaboration_ with <a href="https://www.rubbish.love/" title="Rubbish Website" target="_blank">_Rubbish, co._</a> which is a company dedicated to cleaning up litter across the USA. They tracked over 25,000 points of litter and issues in SoMa West, California, and I created a Dashboard Web Application, in RShiny and Python, to display their data!
+: > This is a collaboration_ with <a href="https://www.rubbish.love/" title="Rubbish Website" target="_blank">_Rubbish, co._</a> which is a company dedicated to cleaning up litter across the USA. They tracked over 25,000 points of litter and issues in SoMa West, California, and I created a Dashboard Web Application, utilizing RShiny and Python, to display their data!
 
 <!-- image -->
 <p align="center"><img src="https://alexander-kahanek.github.io/assets/img/dashboard-img.png"></p>
@@ -37,17 +37,19 @@
 
 <!-- title -->
 
-### <a href="covid.html" title="Finished Product" target="_blank">Italys' COVID-19 Prediction Analysis</a> &nbsp; ![image](/assets/icons/rsz_1rsz_1rsz_619px-r_logosvg.png)
+### <a href="covid.html" title="Finished Product" target="_blank">Predicting COVID-19 in Italy</a> &nbsp; ![image](/assets/icons/rsz_1rsz_1rsz_619px-r_logosvg.png)
 
 <!-- body text -->
 
 &nbsp; &nbsp; _Predictive Analysis_ `March 24, 2020`
-: > This project uses the COVID-19 data to create and implement a hand built Markov Chain type Monte Carlo Algorithm to predict the future number of Cumulative Deceased Cases in Italy, as well as take an in-depth analysis of Italys' Deceased Cases.
+: > I walk you through the full process of manipulating the COVID-19 data, analyzing the data for patterns, and creating and implementing a hand built Markov Chain type Monte Carlo Algorithm to predict the future number of Cumulative Deceased Cases in Italy, and compare those prediictions to the actual numbers.
+
+<!-- : > This project uses the COVID-19 data to create and implement a hand built Markov Chain type Monte Carlo Algorithm to predict the future number of Cumulative Deceased Cases in Italy, as well as take an in-depth analysis of Italys' Deceased Cases. -->
 
 <!-- image -->
-<!---
-<p align="center"><img src="https://alexander-kahanek.github.io/assets/img/italy-monte-carlo.png"></p>
---->
+-
+<p align="center"><img src="https://alexander-kahanek.github.io/assets/img/italy_covid_graph.png"></p>
+-
 
 <!-- buttons -->
 
