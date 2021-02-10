@@ -9,8 +9,8 @@
 ## **Programming skills**
 
 ```python
-1. Python = [(PyTorch, Keras, TensorFlow, Scikit-Learn), 
-2.          (numPy, Pandas, Matplotlib), (GeoPandas), (Flask)]
+1. Python = [PyTorch, Keras, TensorFlow, Scikit-Learn, 
+2.          numPy, Pandas, Matplotlib, GeoPandas, Flask]
 3.
 4. R <- c(Tidyverse, RandomForest, GGplot2
 5.        ,Plotly, Highcharters, Shiny, Caret
