@@ -6,12 +6,12 @@
 
 <!-- title -->
 
-### <a href="https://github.com/foltaProject/folta/tree/master/morphology_training_gml-nno" title="GitHub Repository" target="_blank">What inflects this word?</a> &nbsp; ![image](/assets/icons/rsz_1rsz_1rsz_619px-r_logosvg.png) &nbsp; ![image](/assets/icons/rsz_python-logo.png)
+### <a href="https://github.com/foltaProject/folta/tree/master/morphology_training_gml-nno" title="GitHub Repository" target="_blank">Data Augmentation for imrpoving Inflection in Middle Low German and Norwegian Nynorsk</a> &nbsp; ![image](/assets/icons/rsz_1rsz_1rsz_619px-r_logosvg.png) &nbsp; ![image](/assets/icons/rsz_python-logo.png)
 
 <!-- body text -->
 
 &nbsp; &nbsp; _Deep Learning Neural Networks_ `August 25, 2020`
-: > Utilized the results and data from Sigmorphon 2020 Task 0 to improve the accuracy of Morphological Inflection in Low-Resouce Languages, namely Middle Low German (MLG) and Norwegian Nynorsk (NNO). We improved the accuracy of the Deep Learning Neural Network by 5% without the need to change the architecture of the neural network. In the analysis walk through identifying issues in language inflection, and the results of artificially inflating the volume of data, which resulted in increased accuracy for both languages and outperformed the baseline from the Sigmorphon 2020 Task 0.
+: > Utilized the results and data from Sigmorphon 2020 Task 0 to improve the accuracy of Morphological Inflection in Low-Resouce Languages, namely Middle Low German (MLG) and Norwegian Nynorsk (NNO). We improved the accuracy of the Deep Learning Neural Network by 5% without the need to change the architecture of the neural network. In the analysis walk through identifying issues in language inflection, and the results of artificially inflating the volume of data by utilizing high-resource languages, which resulted in increased accuracy for both languages and outperformed the baseline from the Sigmorphon 2020 Task 0.
 
 
 <!-- image -->
