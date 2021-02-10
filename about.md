@@ -18,8 +18,7 @@
 7. others = [C/C++, Elixir, Phoenix, SQL, JS, CSS, HTML]
 ```
 
-
-
+{% include exp.html %}
 
 |
 |
