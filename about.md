@@ -22,12 +22,11 @@
 
 ## **Areas of Expertise**
 
-<p align="center"><img src="https://alexander-kahanek.github.io/assets/img/expertise_graph.png"></p>
-
-
 |
 
+<p align="center"><img src="https://alexander-kahanek.github.io/assets/img/expertise_graph.png"></p>
 
+|
 
 ## **Employment**
 
