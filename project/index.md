@@ -57,7 +57,7 @@
 <!-- body text -->
 
 &nbsp; &nbsp; _Predictive Analysis_ `March 24, 2020`
-: > I walk you through the full process of manipulating the COVID-19 data, analyzing the data for patterns, and creating and implementing a hand built Markov Chain type Monte Carlo Algorithm to predict the future number of Cumulative Deceased Cases in Italy, and compare those prediictions to the actual numbers.
+: > I walk you through the full process of manipulating the COVID-19 data, analyzing the data for patterns, and creating and implementing a hand built Markov Chain type Monte Carlo Algorithm to predict the future number of Cumulative Deceased Cases in Italy, and compare those prediictions to the actual numbers, which had great results for only having about two months of data at the time.
 
 <!-- : > This project uses the COVID-19 data to create and implement a hand built Markov Chain type Monte Carlo Algorithm to predict the future number of Cumulative Deceased Cases in Italy, as well as take an in-depth analysis of Italys' Deceased Cases. -->
 
