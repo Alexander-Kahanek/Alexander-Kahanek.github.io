@@ -4,12 +4,12 @@
 
 <!-- title -->
 
-### <a href="https://github.com/Alexander-Kahanek/Rubbish_Clustering" title="GitHub Repository" target="_blank">Where's the Rubbish at?/a> &nbsp; ![image](/assets/icons/rsz_1rsz_1rsz_619px-r_logosvg.png) &nbsp; ![image](/assets/icons/rsz_python-logo.png)
+### <a href="https://github.com/Alexander-Kahanek/Rubbish_Clustering" title="GitHub Repository" target="_blank">Where's the Rubbish at? </a> &nbsp; ![image](/assets/icons/rsz_1rsz_1rsz_619px-r_logosvg.png) &nbsp; ![image](/assets/icons/rsz_python-logo.png)
 
 <!-- body text -->
 
 &nbsp; &nbsp; _Data Visualization_ `October 1, 2020`
-: > This is a collaboration_ with <a href="https://www.rubbish.love/" title="Rubbish Website" target="_blank">_Rubbish, co._</a> which is a company dedicated to cleaning up litter across the USA. They tracked over 25,000 points of litter and issues in SoMa West, California, and I created a Dashboard Web Application, utilizing RShiny and Python, to display their data!
+: > I collaborated with <a href="https://www.rubbish.love/" title="Rubbish Website" target="_blank">_Rubbish, co._</a> to visualize their community-led trash cleanup of SoMa West, CA, which contained over 25,000 points of litter and issues collected! This data dashboard was created using R Shiny and Python, and the dataset can even be downloaded for free!
 
 <!-- image -->
 <p align="center"><img src="https://alexander-kahanek.github.io/assets/img/dashboard-img.png"></p>
