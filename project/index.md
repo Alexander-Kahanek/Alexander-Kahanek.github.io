@@ -18,6 +18,9 @@
 
 <!-- buttons -->
 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://github.com/foltaProject/folta/blob/master/morphology_training_gml-nno/data_augmentation_paper.pdf" target="_blank"><img src="b.paper.png" /></a> &nbsp; &nbsp; <a href="https://github.com/foltaProject/folta/blob/master/morphology_training_gml-nno/neural-transducer_modifications/lemma.analysis.ipynb" target="_blank"><img src="b.notebook.png" /></a> &nbsp; &nbsp; <a href="https://github.com/foltaProject/folta/tree/master/morphology_training_gml-nno" target="_blank"><img src="b.github.png" /></a> &nbsp; &nbsp;
+
+
 <!-- paper | Notebook | GitHub -->
 
 <!--- Rubbish Dashboard project --->
