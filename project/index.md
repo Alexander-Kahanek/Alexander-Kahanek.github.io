@@ -36,7 +36,7 @@
 <!-- Results Table -->
 
 | Measurement  | Model 1  | Model 2  | Model 3  |
-|---|---|---|---|---|
+|---|:---:|:---:|:---:|---:|
 | **Accuracy**  | 0.7846  | 0.7683  | **0.7878**  |
 | **False Negative Rate**  | 0.05247  | **0.01623**  | 0.03687  |
 | **True Positive Rate**  | **0.36362**  | 0.19981  | 0.30815  |
