@@ -1,6 +1,27 @@
 # <span style="color:blue">Projects</span>
 
 
+<!--- Rubbish Dashboard project --->
+
+<!-- title -->
+
+### <a href="https://github.com/Alexander-Kahanek/Rubbish_Clustering" title="GitHub Repository" target="_blank">Where's the Rubbish at? </a> &nbsp; ![image](/assets/icons/rsz_1rsz_1rsz_619px-r_logosvg.png) &nbsp; ![image](/assets/icons/rsz_python-logo.png)
+
+<!-- body text -->
+
+&nbsp; &nbsp; _Data Visualization_ `October 1, 2020`
+: > I collaborated with <a href="https://www.rubbish.love/" title="Rubbish Website" target="_blank">_Rubbish, co._</a> to visualize their community-led trash cleanup of SoMa West, CA, which contained over 25,000 points of litter and issues collected! This data dashboard was created using R Shiny and Python, and the dataset can even be downloaded for free!
+
+<!-- image -->
+<p align="center"><img src="https://alexander-kahanek.github.io/assets/img/dashboard-img.png"></p>
+
+<!-- buttons -->
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://rubbishlove.shinyapps.io/dashboard/" target="_blank"><img src="b.dashboard.png" /></a> &nbsp; &nbsp; <a href="https://github.com/Alexander-Kahanek/SoMa_Dashboard" target="_blank"><img src="b.github.png" /></a> &nbsp; &nbsp; <a href="https://medium.com/rubbish-love/a-litter-dashboard-for-soma-west-a18643b19d6a" target="_blank"><img src="b.medium.png" /></a>
+
+
+
+
 
 <!-- Low-Resource Language Morphological Inflection -->
 
@@ -24,23 +45,7 @@
 
 
 
-<!--- Rubbish Dashboard project --->
 
-<!-- title -->
-
-### <a href="https://github.com/Alexander-Kahanek/Rubbish_Clustering" title="GitHub Repository" target="_blank">Where's the Rubbish at? </a> &nbsp; ![image](/assets/icons/rsz_1rsz_1rsz_619px-r_logosvg.png) &nbsp; ![image](/assets/icons/rsz_python-logo.png)
-
-<!-- body text -->
-
-&nbsp; &nbsp; _Data Visualization_ `October 1, 2020`
-: > I collaborated with <a href="https://www.rubbish.love/" title="Rubbish Website" target="_blank">_Rubbish, co._</a> to visualize their community-led trash cleanup of SoMa West, CA, which contained over 25,000 points of litter and issues collected! This data dashboard was created using R Shiny and Python, and the dataset can even be downloaded for free!
-
-<!-- image -->
-<p align="center"><img src="https://alexander-kahanek.github.io/assets/img/dashboard-img.png"></p>
-
-<!-- buttons -->
-
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://rubbishlove.shinyapps.io/dashboard/" target="_blank"><img src="b.dashboard.png" /></a> &nbsp; &nbsp; <a href="https://github.com/Alexander-Kahanek/SoMa_Dashboard" target="_blank"><img src="b.github.png" /></a> &nbsp; &nbsp; <a href="https://medium.com/rubbish-love/a-litter-dashboard-for-soma-west-a18643b19d6a" target="_blank"><img src="b.medium.png" /></a>
 
 <!--- trivago ML project --->
 
@@ -72,6 +77,13 @@
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="hotel.html" target="_blank"><img src="b.analysis.png" /></a> &nbsp; &nbsp; <a href="https://github.com/Alexander-Kahanek/Trivago_Classification" target="_blank"><img src="b.github.png" /></a>
 
+
+
+
+
+
+
+
 <!--- covid monte carlo project --->
 
 <!-- title -->
@@ -94,6 +106,16 @@
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="covid.html" target="_blank"><img src="b.analysis.png" /></a> &nbsp; &nbsp; <a href="https://github.com/Alexander-Kahanek/COVID_Monte_Carlo" target="_blank"><img src="b.github.png" /></a>
 
+
+
+
+
+
+
+
+
+
+
 <!--- traffic analysis project --->
 
 <!-- title -->
@@ -114,6 +136,8 @@
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="accidents.html" target="_blank"><img src="b.analysis2.png" /></a> &nbsp; &nbsp; <a href="https://github.com/Alexander-Kahanek/TX_Accidents" target="_blank"><img src="b.github.png" /></a>
 
+
+
 <!--- world happiness project
 
 ### <a href="happiness.html" title="Finished Product" target="_blank">World Happiness Correlations</a> &nbsp; ![image](/assets/icons/rsz_python-logo.png)
@@ -127,6 +151,10 @@
 
 ---
 # <span style="color:blue">In Progress Projects</span>
+
+
+
+
 
 
 <!--- covid twitter research project --->
