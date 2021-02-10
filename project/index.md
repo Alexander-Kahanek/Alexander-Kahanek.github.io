@@ -34,10 +34,10 @@
 
 | Field  | Model 1  | Model 2  | Model 3  |   |
 |---|---|---|---|---|
-| **Accuracy**  |   |   |   |   |
-| **Data Split**  |   |   |   |   |
-| **False Negative Rate**  |   |   |   |   |
-| **True Positive Rate**  |   |   |   |   |
+| **Accuracy**  | 0.7846  | 0.7683  | 0.7878  |   |
+| **Data Split**  | 60% train, 40% test  | 90% train, 10% test  | 80% train, 20% test  |   |
+| **False Negative Rate**  | 0.05247  | 0.01623  | 0.03687  |   |
+| **True Positive Rate**  | 0.36362  | 0.19981  | 0.30815  |   |
 
 
 <!-- buttons -->
