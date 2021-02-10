@@ -1,4 +1,4 @@
-# <span style="color:blue">Projects</span>
+# <span style="color:blue">Completed Projects</span>
 
 
 <!-- trump nickname generator -->
@@ -132,7 +132,7 @@
 
 <!-- title -->
 
-### <a href="accidents.html" title="Finished Product" target="_blank">Weekday vs Weekend Accident Analysis in Texas.</a> &nbsp; ![image](/assets/icons/rsz_1rsz_1rsz_619px-r_logosvg.png)
+### <a href="accidents.html" title="Finished Product" target="_blank">Weekday vs Weekend: Accident Analysis in Texas.</a> &nbsp; ![image](/assets/icons/rsz_1rsz_1rsz_619px-r_logosvg.png)
 
 <!-- body text -->
 
