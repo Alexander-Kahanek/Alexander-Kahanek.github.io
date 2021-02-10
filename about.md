@@ -28,14 +28,6 @@
 |
 
 
-<!-- | <span style="color:blue">**_Area_**</span> | <span style="color:blue">**_Expertise_**</span> |
-| :----------------------------------------- | ----------------------------------------------: |
-| **Machine Learning**                       |                  _spaCy, PyTorch, RandomForest_ |
-| **Data Analysis**                          |                     _EDA, Research, Predictive_ |
-| **Data Visualisation**                     |                 _Tableau, plotly, highcharters_ |
-| **Mathematics**                            |               _Statistics, Probability, Theory_ | -->
-
-
 
 ## **Employment**
 
