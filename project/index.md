@@ -1,6 +1,6 @@
 # <span style="color:blue">Completed Projects</span>
 
-These are only my favorite projects, many more can be found in my GitHub Repositories.
+These are only some of my favorite projects, many, many more can be found in my GitHub Repositories.
 
 <!-- trump nickname generator -->
 
