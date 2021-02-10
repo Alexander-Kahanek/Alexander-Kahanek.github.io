@@ -6,7 +6,7 @@
 
 <!-- title -->
 
-### <a href="https://github.com/foltaProject/folta/tree/master/morphology_training_gml-nno" title="GitHub Repository" target="_blank">Using high-resource languages to improve low-resource languages</a> &nbsp; ![image](/assets/icons/rsz_python-logo.png)
+### <a href="https://github.com/foltaProject/folta/tree/master/morphology_training_gml-nno" title="GitHub Repository" target="_blank">Using high-resource languages to improve low-resource languages.</a> &nbsp; ![image](/assets/icons/rsz_python-logo.png)
 
 <!-- body text -->
 
@@ -76,7 +76,7 @@
 
 <!-- title -->
 
-### <a href="covid.html" title="Finished Product" target="_blank">Predicting COVID-19 in Italy</a> &nbsp; ![image](/assets/icons/rsz_1rsz_1rsz_619px-r_logosvg.png)
+### <a href="covid.html" title="Finished Product" target="_blank">Predicting COVID-19 in Italy.</a> &nbsp; ![image](/assets/icons/rsz_1rsz_1rsz_619px-r_logosvg.png)
 
 <!-- body text -->
 
@@ -98,7 +98,7 @@
 
 <!-- title -->
 
-### <a href="accidents.html" title="Finished Product" target="_blank">Weekdays vs Weekend: Texas Accidents</a> &nbsp; ![image](/assets/icons/rsz_1rsz_1rsz_619px-r_logosvg.png)
+### <a href="accidents.html" title="Finished Product" target="_blank">Weekday vs Weekend Accident Analysis in Texas.</a> &nbsp; ![image](/assets/icons/rsz_1rsz_1rsz_619px-r_logosvg.png)
 
 <!-- body text -->
 
