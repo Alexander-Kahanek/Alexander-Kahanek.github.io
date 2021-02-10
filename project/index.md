@@ -1,5 +1,25 @@
 # <span style="color:blue">Projects</span>
 
+
+
+<!-- Low-Resource Language Morphological Inflection -->
+
+<!-- title -->
+
+### <a href="https://github.com/foltaProject/folta/tree/master/morphology_training_gml-nno" title="GitHub Repository" target="_blank">What inflects this word?</a> &nbsp; ![image](/assets/icons/rsz_1rsz_1rsz_619px-r_logosvg.png) &nbsp; ![image](/assets/icons/rsz_python-logo.png)
+
+<!-- body text -->
+
+&nbsp; &nbsp; _Deep Learning Neural Networks_ `August 25, 2020`
+: > 
+
+<!-- image -->
+
+
+<!-- buttons -->
+
+<!-- paper | Notebook | GitHub -->
+
 <!--- Rubbish Dashboard project --->
 
 <!-- title -->
@@ -16,7 +36,7 @@
 
 <!-- buttons -->
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://rubbishlove.shinyapps.io/dashboard/" target="_blank"><img src="button-finished-product.png" /></a> &nbsp; &nbsp; <a href="https://github.com/Alexander-Kahanek/SoMa_Dashboard" target="_blank"><img src="button-github.png" /></a> &nbsp; &nbsp; <a href="https://medium.com/rubbish-love/a-litter-dashboard-for-soma-west-a18643b19d6a" target="_blank"><img src="button-medium2.png" /></a>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://rubbishlove.shinyapps.io/dashboard/" target="_blank"><img src="b.dashboard.png" /></a> &nbsp; &nbsp; <a href="https://github.com/Alexander-Kahanek/SoMa_Dashboard" target="_blank"><img src="b.github.png" /></a> &nbsp; &nbsp; <a href="https://medium.com/rubbish-love/a-litter-dashboard-for-soma-west-a18643b19d6a" target="_blank"><img src="b.medium.png" /></a>
 
 <!--- trivago ML project --->
 
@@ -46,7 +66,7 @@
 
 <!-- buttons -->
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="hotel.html" target="_blank"><img src="button-notebook.png" /></a> &nbsp; &nbsp; <a href="https://github.com/Alexander-Kahanek/Trivago_Classification" target="_blank"><img src="button-github.png" /></a>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="hotel.html" target="_blank"><img src="b.analysis.png" /></a> &nbsp; &nbsp; <a href="https://github.com/Alexander-Kahanek/Trivago_Classification" target="_blank"><img src="b.github.png" /></a>
 
 <!--- covid monte carlo project --->
 
@@ -68,7 +88,7 @@
 
 <!-- buttons -->
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="covid.html" target="_blank"><img src="button-notebook.png" /></a> &nbsp; &nbsp; <a href="https://github.com/Alexander-Kahanek/COVID_Monte_Carlo" target="_blank"><img src="button-github.png" /></a>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="covid.html" target="_blank"><img src="b.analysis.png" /></a> &nbsp; &nbsp; <a href="https://github.com/Alexander-Kahanek/COVID_Monte_Carlo" target="_blank"><img src="b..png" /></a>
 
 <!--- traffic analysis project --->
 
@@ -88,7 +108,7 @@
 
 <!-- buttons -->
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="accidents.html" target="_blank"><img src="button-notebook.png" /></a> &nbsp; &nbsp; <a href="https://github.com/Alexander-Kahanek/TX_Accidents" target="_blank"><img src="button-github.png" /></a>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="accidents.html" target="_blank"><img src="b.analysis.png" /></a> &nbsp; &nbsp; <a href="https://github.com/Alexander-Kahanek/TX_Accidents" target="_blank"><img src="b.github.png" /></a>
 
 <!--- world happiness project
 
@@ -116,4 +136,4 @@
 
 <!-- buttons -->
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://github.com/Alexander-Kahanek/COVID_Research" target="_blank"><img src="button-github.png" /></a>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://github.com/Alexander-Kahanek/COVID_Research" target="_blank"><img src="b.github.png" /></a>
