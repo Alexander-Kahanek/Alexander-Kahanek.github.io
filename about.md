@@ -18,22 +18,9 @@
 7. others = [C/C++, Elixir, Phoenix, SQL, JS, CSS, HTML]
 ```
 
-{% include exp.html %}
+<p align="center"><img src="https://alexander-kahanek.github.io/assets/img/expertise_graph.png"></p>
 
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
+
 |
 
 
