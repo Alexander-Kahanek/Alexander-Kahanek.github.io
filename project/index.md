@@ -11,17 +11,18 @@
 <!-- body text -->
 
 &nbsp; &nbsp; _Deep Learning Neural Networks_ `August 25, 2020`
-: > 
+: > Utilized the results and data from Sigmorphon 2020 Task 0 to improve the accuracy of Morphological Inflection in Low-Resouce Languages, namely Middle Low German (MLG) and Norwegian Nynorsk (NNO). We improved the accuracy of the Deep Learning Neural Network by 5% without the need to change the architecture of the neural network. In the analysis walk through identifying issues in language inflection, and the results of artificially inflating the volume of data, which resulted in increased accuracy for both languages and outperformed the baseline from the Sigmorphon 2020 Task 0.
+
 
 <!-- image -->
 
+<p align="center"><img src="https://alexander-kahanek.github.io/assets/img/morphological_inflection.png"></p>
 
 <!-- buttons -->
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://github.com/foltaProject/folta/blob/master/morphology_training_gml-nno/data_augmentation_paper.pdf" target="_blank"><img src="b.paper.png" /></a> &nbsp; &nbsp; <a href="https://github.com/foltaProject/folta/blob/master/morphology_training_gml-nno/neural-transducer_modifications/lemma.analysis.ipynb" target="_blank"><img src="b.notebook.png" /></a> &nbsp; &nbsp; <a href="https://github.com/foltaProject/folta/tree/master/morphology_training_gml-nno" target="_blank"><img src="b.github.png" /></a> &nbsp; &nbsp;
 
 
-<!-- paper | Notebook | GitHub -->
 
 <!--- Rubbish Dashboard project --->
 
