@@ -11,7 +11,7 @@
 <!-- body text -->
 
 &nbsp; &nbsp; _Deep Learning Neural Networks_ `August 25, 2020`
-: > Utilized the results and data from Sigmorphon 2020 Task 0 to improve the accuracy of Morphological Inflection in Low-Resouce Languages, namely Middle Low German (MLG) and Norwegian Nynorsk (NNO). We improved the accuracy of the Deep Learning Neural Network by 5% without the need to change the architecture of the neural network. In the analysis walk through identifying issues in language inflection, and the results of artificially inflating the volume of data by utilizing high-resource languages, which resulted in increased accuracy for both languages and outperformed the baseline from the Sigmorphon 2020 Task 0.
+: > Utilized the results and data from Sigmorphon 2020 Task 0 to improve the accuracy of Morphological Inflection in Low-Resouce Languages, namely Middle Low German (MLG) and Norwegian Nynorsk (NNO). We improved the accuracy of the Deep Learning Neural Network by 5% without the need to change the architecture of the neural network, instead we combined other targeted High-Resource Languages, such as English and German, to artificially add data to imrpove inflection predictions.
 
 
 <!-- image -->
