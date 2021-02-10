@@ -62,9 +62,9 @@
 <!-- : > This project uses the COVID-19 data to create and implement a hand built Markov Chain type Monte Carlo Algorithm to predict the future number of Cumulative Deceased Cases in Italy, as well as take an in-depth analysis of Italys' Deceased Cases. -->
 
 <!-- image -->
--
+
 <p align="center"><img src="https://alexander-kahanek.github.io/assets/img/italy_covid_graphs.png"></p>
--
+
 
 <!-- buttons -->
 
