@@ -56,7 +56,7 @@
 
 &nbsp; &nbsp; &nbsp; _University of North Texas_
 
-: > Tutored over 400 fellow students in a multitude of mathematics courses, learning how to *llustrate and convey complex concepts to others effectively.
+: > Tutored over 400 fellow students in a multitude of mathematics courses, learning how to llustrate and convey complex concepts to others effectively.
 
 `2012-18` **Health Care Specialist (68W)**
 
@@ -68,7 +68,7 @@
 
 &nbsp; &nbsp; &nbsp; _American Medical Respoonse (MA, TX)_
 
-: > Responded to over 600 emergent 911 calls, where I learned the importance of thorough documentation.
+: > Responded to over 600 9-1-1 emergencies, where I learned the importance of thorough documentation.
 
 
 ## **Education**
