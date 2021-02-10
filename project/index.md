@@ -1,6 +1,18 @@
 # <span style="color:blue">Projects</span>
 
 
+<!-- trump nickname generator -->
+
+<!-- title -->
+
+<!-- body text -->
+
+<!-- image -->
+
+<!-- buttons -->
+
+
+
 <!--- Rubbish Dashboard project --->
 
 <!-- title -->
