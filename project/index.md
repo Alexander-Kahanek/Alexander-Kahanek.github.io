@@ -6,7 +6,7 @@
 
 <!-- title -->
 
-### <a href="https://github.com/foltaProject/folta/tree/master/morphology_training_gml-nno" title="GitHub Repository" target="_blank">Data Augmentation for imrpoving Inflection in Middle Low German and Norwegian Nynorsk</a> &nbsp; ![image](/assets/icons/rsz_python-logo.png)
+### <a href="https://github.com/foltaProject/folta/tree/master/morphology_training_gml-nno" title="GitHub Repository" target="_blank">Using high-resource languages to improve low-resource languages</a> &nbsp; ![image](/assets/icons/rsz_python-logo.png)
 
 <!-- body text -->
 
