@@ -41,7 +41,6 @@
 | **False Negative Rate**  | 0.05247  | **0.01623**  | 0.03687  |
 | **True Positive Rate**  | **0.36362**  | 0.19981  | 0.30815  |
 | **ROC**  | 0.91189  | **0.92109**  | 0.91513  |
-| **Data Split**  | 60% train, 40% test  | 90% train, 10% test  | 80% train, 20% test  |
 | **Confidence Threshold**  | 0.63  | 0.8  | 0.7  |
 
 
