@@ -48,7 +48,7 @@
 
 <!-- image -->
 -
-<p align="center"><img src="https://alexander-kahanek.github.io/assets/img/italy_covid_graph.png"></p>
+<p align="center"><img src="https://alexander-kahanek.github.io/assets/img/italy_covid_graphs.png"></p>
 -
 
 <!-- buttons -->
