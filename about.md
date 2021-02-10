@@ -9,13 +9,15 @@
 ## **Programming skills**
 
 ```python
-1. Python = [PyTorch, Keras, numPy, TensorFlow,Scikit-Learn,
-2.          Pandas, Matplotlib, GeoPandas, Flask]
+1. Python = [(PyTorch, Keras, TensorFlow, Scikit-Learn), 
+2.          (numPy, Pandas, Matplotlib), (GeoPandas), (Flask)]
 3.
 4. R <- c(Tidyverse, RandomForest, GGplot2
-5.        ,Plotly, Highcharters, Shiny, Caret)
-6.
-7. others = [C/C++, Elixir, Phoenix, SQL, JS, CSS, HTML]
+5.        ,Plotly, Highcharters, Shiny, Caret
+6.     )
+7.
+8. std::string others[8] = {"C", "C++", "Elixir", "Phoenix",
+9.                          "SQL", "JS", "CSS", "HTML"};
 ```
 
 <p align="center"><img src="https://alexander-kahanek.github.io/assets/img/expertise_graph.png"></p>
