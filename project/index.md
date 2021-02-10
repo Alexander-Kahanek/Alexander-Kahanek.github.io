@@ -112,7 +112,7 @@
 
 <!-- buttons -->
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="accidents.html" target="_blank"><img src="b.analysis.png" /></a> &nbsp; &nbsp; <a href="https://github.com/Alexander-Kahanek/TX_Accidents" target="_blank"><img src="b.github.png" /></a>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="accidents.html" target="_blank"><img src="b.analysis2.png" /></a> &nbsp; &nbsp; <a href="https://github.com/Alexander-Kahanek/TX_Accidents" target="_blank"><img src="b.github.png" /></a>
 
 <!--- world happiness project
 
