@@ -77,13 +77,21 @@ These are only some of my favorite projects, many, many more can be found in my 
 
 <!-- Results Table -->
 
-| Measurement   | Model 1  | Model 2  | Model 3  |
+| Model Proposed | **_Accuracy_** | **False Negative Rate** | **True Positive Rate** | **ROC** | **Confidence Threshold** |
+|---|:---:|:---:|:---:|:---:|:---:|
+| Model 1   | 0.7846      | 0.05247  | **0.36362**  | 0.91189     | 0.63 |
+| Model 2   | 0.7683      | 0.05247  | 0.19981      | **0.92109** | 0.8  |
+| Model 3   | **0.7878**  | 0.03687  | 0.30815      | 0.91513     | 0.7  |
+
+
+
+<!-- | Measurement   | Model 1  | Model 2  | Model 3  |
 |---|:---:|:---:|:---:|:---:|:---:|
 | **_Accuracy_**  |0.7846  | 0.7683  | **0.7878**  |
 | **False Negative Rate**  | 0.05247  | **0.01623**  | 0.03687  |
 | **True Positive Rate**   | **0.36362**  | 0.19981  | 0.30815  |
 | **ROC**  |  0.91189   | **0.92109**  | 0.91513  |
-| **Confidence Threshold**  |  0.63  | 0.8  | 0.7  |
+| **Confidence Threshold**  |  0.63  | 0.8  | 0.7  | -->
 
 
 <!-- buttons -->
