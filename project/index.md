@@ -77,7 +77,7 @@ These are only some of my favorite projects, many, many more can be found in my 
 
 <!-- Results Table -->
 
-| Model Proposed | **_Accuracy_** | **False Negative Rate** | **True Positive Rate** | **ROC** | **Confidence Threshold** |
+| Proposed Model | **_Accuracy_** | **False Negative Rate** | **True Positive Rate** | **ROC** | **Confidence Threshold** |
 |---|:---:|:---:|:---:|:---:|:---:|
 | Model 1   | 0.7846      | 0.05247  | **0.36362**  | 0.91189     | 0.63 |
 | Model 2   | 0.7683      | 0.05247  | 0.19981      | **0.92109** | 0.8  |
