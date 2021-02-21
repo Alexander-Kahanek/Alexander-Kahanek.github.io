@@ -80,9 +80,10 @@ These are only some of my favorite projects; many, many more can be found in my 
 
 &nbsp; &nbsp; _Machine Learning, Classification_ `April 30, 2020`
 
-: > Using Trivago's hotel booking data, I walk you through an in-depth feature analysis to find important fields that could be used to improve customer retention. I walk through the implementation of the three presented models for predicting whether a customer will cancel their booking prior to arrival, each with their own benefits of reducing incorrectly predicted cancelations (False Negative Rate) and improving the correctly guessed cancelations (True Positive Rate).
+: > Using <a href="https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-02-11/readme.md" title="Dataset Repository" target="_blank">Trivago's hotel booking data</a>, I walk you through an in-depth feature analysis to find important fields that could be used to improve customer retention. I walk through the implementation of the three presented models for predicting whether a customer will cancel their booking prior to arrival, each with their own benefits of reducing incorrectly predicted cancelations (False Negative Rate) and improving the correctly guessed cancelations (True Positive Rate).
 
-<!-- : > This project uses hotel booking data from Trivago, the project is focused on predicting whether a booking will potentially be canceled or retained through the use of creating multiple models with Random Forest, as well as an Exploratory Data Analysis. This is done to gain better insight into bookings, as well as to gain a market advantage through the potential use of targeted advertising with the help of Machine Learning. -->
+
+
 
 
 <!-- Results Table -->
