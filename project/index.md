@@ -114,7 +114,7 @@ These are only some of my favorite projects, many, many more can be found in my 
 <!-- body text -->
 
 &nbsp; &nbsp; _Predictive Analysis_ `March 24, 2020`
-: > I walk you through the full process of manipulating the COVID-19 data, analyzing the data for patterns, and creating and implementing a hand built Markov Chain type Monte Carlo Algorithm to predict the future number of Cumulative Deceased Cases in Italy. The predictions had great accuracy to the actual reported cases, especially as only 2 months of data was used. However, this accuracy tends to drop off over time, showing this is a better short-term predictor.
+: > I walk you through the full process of manipulating the raw COVID-19 data <a href="https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases" title="the data source" target="_blank">from a compilation of John Hopkins' dataset</a>, analyzing the data for patterns, and creating and implementing a hand built Markov Chain type Monte Carlo Algorithm to predict the future number of Cumulative Deceased Cases in Italy. The predictions had great accuracy to the actual reported cases, especially as only 2 months of data was used. However, this accuracy tends to drop off over time, showing this is a better short-term predictor.
 
 <!-- : > This project uses the COVID-19 data to create and implement a hand built Markov Chain type Monte Carlo Algorithm to predict the future number of Cumulative Deceased Cases in Italy, as well as take an in-depth analysis of Italys' Deceased Cases. -->
 
