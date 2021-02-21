@@ -103,8 +103,6 @@ These are only some of my favorite projects, many, many more can be found in my 
 
 
 
-
-
 <!--- covid monte carlo project --->
 
 <!-- title -->
@@ -187,7 +185,7 @@ These are only some of my favorite projects, many, many more can be found in my 
 <!-- body text -->
 
 &nbsp; &nbsp; _Natural Language Processing, Research_ `In Progress`
-: > This is a research project that is currently in progress. My current work is being updated in my GitHub Repository below.
+: > This is a research project that is currently in progress. My current work is being updated in my GitHub Repository below. In short, the research is using state-of-the-art pre-trained Natural Language Processing models to analyze the temporal and geospatial sentiment of COVID-19 and CDC guidelines across Twitter in the United States.
 
 <!-- buttons -->
 
