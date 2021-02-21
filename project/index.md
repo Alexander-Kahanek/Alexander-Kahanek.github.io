@@ -190,8 +190,8 @@ These are only some of my favorite projects, many, many more can be found in my 
 
 --->
 
----
-# <span style="color:blue">In Progress Projects</span>
+<!-- ---
+# <span style="color:blue">In Progress Projects</span> -->
 
 
 
