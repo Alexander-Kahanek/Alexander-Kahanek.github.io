@@ -23,7 +23,7 @@ These are only some of my favorite projects; many, many more can be found in my 
 <!-- body text -->
 
 &nbsp; &nbsp; _Data Visualization_ `October 1, 2020`
-: > I collaborated with <a href="https://www.rubbish.love/" title="Rubbish Website" target="_blank">_Rubbish, co._</a> to visualize their community-led trash cleanup of SoMa West, CA, which contained over 25,000 points of litter and issues collected! This data dashboard was created using R Shiny and Python, and the dataset can even be downloaded for public use!
+: > I collaborated with <a href="https://www.rubbish.love/" title="Rubbish Website" target="_blank">_Rubbish, co._</a> to visualize their community-led trash cleanup of SoMa West, CA, which contained over 25,000 points of litter and issues collected! This data dashboard was created using R Shiny and Python, and the original dataset can even be downloaded for public use!
 
 <!-- image -->
 <p align="center"><img src="https://alexander-kahanek.github.io/assets/img/dashboard-img.png"></p>
