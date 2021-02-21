@@ -114,7 +114,7 @@ These are only some of my favorite projects, many, many more can be found in my 
 <!-- body text -->
 
 &nbsp; &nbsp; _Predictive Analysis_ `March 24, 2020`
-: > I walk you through the full process of manipulating the COVID-19 data, analyzing the data for patterns, and creating and implementing a hand built Markov Chain type Monte Carlo Algorithm to predict the future number of Cumulative Deceased Cases in Italy. The predictions had great accuracy to the actual reported cases, especially as only 2 months of data was used.
+: > I walk you through the full process of manipulating the COVID-19 data, analyzing the data for patterns, and creating and implementing a hand built Markov Chain type Monte Carlo Algorithm to predict the future number of Cumulative Deceased Cases in Italy. The predictions had great accuracy to the actual reported cases, especially as only 2 months of data was used. However, this accuracy tends to drop off over time, showing this is a better short-term predictor.
 
 <!-- : > This project uses the COVID-19 data to create and implement a hand built Markov Chain type Monte Carlo Algorithm to predict the future number of Cumulative Deceased Cases in Italy, as well as take an in-depth analysis of Italys' Deceased Cases. -->
 
@@ -146,12 +146,12 @@ These are only some of my favorite projects, many, many more can be found in my 
 <!-- body text -->
 
 &nbsp; &nbsp; _Exploratory Data Analysis_ `April 21, 2020`
-: > This project is a team based Exploratory Data Analysis, it is focused on finding patterns in accidents across texas, focusing on weekend traffic vs. weekday traffic, as well as creating an interactive map to help visualize traffic accident patterns.
+: > In this group Data Analysis we dive into exploring the patterns in Texas Accidents from the middle of 2014 to the end of 2019. Along with a general analysis of the dataset, we 
 
 <!-- image -->
-<!---
-<p align="center"><img src="https://alexander-kahanek.github.io/assets/img/texas-accidents.png"></p>
---->
+
+<p align="center"><img src="https://alexander-kahanek.github.io/assets/img/accidents-day-week.png"></p>
+
 
 <!-- buttons -->
 
