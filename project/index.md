@@ -146,7 +146,7 @@ These are only some of my favorite projects, many, many more can be found in my 
 <!-- body text -->
 
 &nbsp; &nbsp; _Exploratory Data Analysis_ `April 21, 2020`
-: > In this group Data Analysis we dive into exploring the patterns in Texas Accidents from the middle of 2014 to the end of 2019. Along with a general analysis of the dataset, we found patterns that showed the patterns of accidents across the days of the week. We also ranked the highways and intersates to show which are the worst for Weekdays and Weekends respectively. Finally we created an interactive graph that can be used to visually explore all the data across texas. 
+: > In this group Data Analysis we dive into exploring the patterns in Texas Accidents from the middle of 2014 to the end of 2019. Along with a general analysis of the dataset, we found patterns that showed the number of accidents drop significantly during the weekend (as expected). We also ranked the highways and intersates to show which are the worst for Weekdays and Weekends respectively. Finally, we created an interactive graph that can be used to visually explore all the data across texas. 
 
 <!-- image -->
 
