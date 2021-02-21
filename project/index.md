@@ -6,7 +6,12 @@ These are only some of my favorite projects; many, many more can be found in my 
 
 <!-- title -->
 
+### <a href="https://github.com/Alexander-Kahanek/trump_nickname_gen" title="GitHub Repository" target="_blank">What would Trump call you?</a> &nbsp; ![image](/assets/icons/rsz_1rsz_1rsz_619px-r_logosvg.png) &nbsp; ![image](/assets/icons/rsz_python-logo.png) &nbsp; ![image](/assets/icons/phoenix-logo.png)
+
 <!-- body text -->
+
+&nbsp; &nbsp; _Deep Learning Language Generation_ `January 1, 2021`
+: > I analyzed the patterns of <a href="https://en.wikipedia.org/wiki/List_of_nicknames_used_by_Donald_Trump" title="trump nickname data source" target="_blank">_Donald Trump's nicknames using data scraped directly from Wikipedia_</a>. This analysis was used to train a Deep Learning LSTM to predict the most likely nickname a given name would have, based solely on Trump's nickname vocabulary. It walks through dealing with the immensely low volume of data _(n=162)_ as well as all the steps from data manipulation to encoding, training, decoding, and using the probability distributions to extract information. I also implemented the Keras model to a Phoenix based Web Application, using Elixir and Javascript. _(currently orking on displaying this in a good format.)_
 
 <!-- image -->
 
