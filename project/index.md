@@ -36,6 +36,8 @@ These are only some of my favorite projects, many, many more can be found in my 
 
 
 
+
+
 <!-- Low-Resource Language Morphological Inflection -->
 
 <!-- title -->
@@ -55,6 +57,11 @@ These are only some of my favorite projects, many, many more can be found in my 
 <!-- buttons -->
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://github.com/foltaProject/folta/blob/master/morphology_training_gml-nno/data_augmentation_paper.pdf" target="_blank"><img src="b.paper.png" /></a> &nbsp; &nbsp; <a href="https://github.com/foltaProject/folta/blob/master/morphology_training_gml-nno/neural-transducer_modifications/lemma.analysis.ipynb" target="_blank"><img src="b.notebook.png" /></a> &nbsp; &nbsp; <a href="https://github.com/foltaProject/folta/tree/master/morphology_training_gml-nno" target="_blank"><img src="b.github.png" /></a> &nbsp; &nbsp;
+
+
+
+
+
 
 
 
@@ -103,6 +110,11 @@ These are only some of my favorite projects, many, many more can be found in my 
 
 
 
+
+
+
+
+
 <!--- covid monte carlo project --->
 
 <!-- title -->
@@ -124,6 +136,7 @@ These are only some of my favorite projects, many, many more can be found in my 
 <!-- buttons -->
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="covid.html" target="_blank"><img src="b.analysis.png" /></a> &nbsp; &nbsp; <a href="https://github.com/Alexander-Kahanek/COVID_Monte_Carlo" target="_blank"><img src="b.github.png" /></a>
+
 
 
 
@@ -157,6 +170,15 @@ These are only some of my favorite projects, many, many more can be found in my 
 
 
 
+
+
+
+
+
+
+
+
+
 <!--- world happiness project
 
 ### <a href="happiness.html" title="Finished Product" target="_blank">World Happiness Correlations</a> &nbsp; ![image](/assets/icons/rsz_python-logo.png)
@@ -170,6 +192,11 @@ These are only some of my favorite projects, many, many more can be found in my 
 
 ---
 # <span style="color:blue">In Progress Projects</span>
+
+
+
+
+
 
 
 
