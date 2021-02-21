@@ -6,7 +6,7 @@ These are only some of my favorite projects; many, many more can be found in my 
 
 <!-- title -->
 
-### <a href="https://github.com/Alexander-Kahanek/trump_nickname_gen" title="GitHub Repository" target="_blank">What would Trump call you?</a> &nbsp; ![image](/assets/icons/rsz_1rsz_1rsz_619px-r_logosvg.png) &nbsp; ![image](/assets/icons/rsz_python-logo.png) &nbsp; ![image](/assets/icons/phoenix-logo.png)
+### <a href="https://github.com/Alexander-Kahanek/trump_nickname_gen" title="GitHub Repository" target="_blank">What would Trump call you?</a> &nbsp; ![image](/assets/icons/rsz_1rsz_1rsz_619px-r_logosvg.png) &nbsp; ![image](/assets/icons/rsz_python-logo.png) &nbsp; ![image](/assets/icons/phoenix-logo.png) &nbsp; ![image](/assets/icons/elixir-logo.png)
 
 <!-- body text -->
 
@@ -17,7 +17,7 @@ These are only some of my favorite projects; many, many more can be found in my 
 
 <!-- buttons -->
 
-
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://github.com/Alexander-Kahanek/trump_nickname_gen" target="_blank"><img src="b.github.png" /></a> &nbsp; &nbsp; <a href="https://github.com/Alexander-Kahanek/trump_nickname_gen/blob/main/intial_analysis.ipynb" target="_blank"><img src="b.analysis.png" /></a> &nbsp; &nbsp; <a href="https://github.com/Alexander-Kahanek/trump_nickname_gen/blob/main/word.nn.gen.ipynb" target="_blank"><img src="b.notebook.png" /></a> 
 
 <!--- Rubbish Dashboard project --->
 
