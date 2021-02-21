@@ -203,17 +203,17 @@ These are only some of my favorite projects, many, many more can be found in my 
 
 
 
-<!--- covid twitter research project --->
+<!--- covid twitter research project ---!>
 
 <!-- title -->
 
-### <a href="https://github.com/Alexander-Kahanek/COVID_Research" title="GitHub Repository" target="_blank">Researching COVID-19 Tweets</a> &nbsp; ![image](/assets/icons/rsz_python-logo.png)
+<!-- ### <a href="https://github.com/Alexander-Kahanek/COVID_Research" title="GitHub Repository" target="_blank">Researching COVID-19 Tweets</a> &nbsp; ![image](/assets/icons/rsz_python-logo.png) -->
 
 <!-- body text -->
 
-&nbsp; &nbsp; _Natural Language Processing, Research_ `In Progress`
-: > This is a research project that is currently in progress. My current work is being updated in my GitHub Repository below. In short, the research is using state-of-the-art pre-trained Natural Language Processing models to analyze the temporal and geospatial sentiment of COVID-19 and CDC guidelines across Twitter in the United States.
+<!-- &nbsp; &nbsp; _Natural Language Processing, Research_ `In Progress`
+: > This is a research project that is currently in progress. The current work is being constantly updated in my GitHub Repository below. In short, the research is using state-of-the-art pre-trained Natural Language Processing models to analyze the temporal and geospatial sentiment of COVID-19 and CDC guidelines across Twitter in the United States. -->
 
 <!-- buttons -->
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://github.com/Alexander-Kahanek/COVID_Research" target="_blank"><img src="b.github.png" /></a>
+<!-- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://github.com/Alexander-Kahanek/COVID_Research" target="_blank"><img src="b.github.png" /></a> -->
