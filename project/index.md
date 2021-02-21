@@ -17,7 +17,7 @@ These are only some of my favorite projects; many, many more can be found in my 
 
 <!-- buttons -->
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://github.com/Alexander-Kahanek/trump_nickname_gen" target="_blank"><img src="b.github.png" /></a> &nbsp; &nbsp; <a href="https://github.com/Alexander-Kahanek/trump_nickname_gen/blob/main/intial_analysis.ipynb" target="_blank"><img src="b.analysis.png" /></a> &nbsp; &nbsp; <a href="https://github.com/Alexander-Kahanek/trump_nickname_gen/blob/main/word.nn.gen.ipynb" target="_blank"><img src="b.notebook.png" /></a> 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://github.com/Alexander-Kahanek/trump_nickname_gen" target="_blank"><img src="b.github.png" /></a> &nbsp; &nbsp; <a href="https://github.com/Alexander-Kahanek/trump_nickname_gen/blob/main/1_intial_analysis.ipynb" target="_blank"><img src="b.analysis.png" /></a> &nbsp; &nbsp; <a href="https://github.com/Alexander-Kahanek/trump_nickname_gen/blob/main/3_word.nn.gen.ipynb" target="_blank"><img src="b.notebook.png" /></a> 
 
 <!--- Rubbish Dashboard project --->
 
