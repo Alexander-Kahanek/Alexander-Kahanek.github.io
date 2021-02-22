@@ -85,7 +85,7 @@ These are only some of my favorite projects; many, many more can be found in my 
 
 &nbsp; &nbsp; _Machine Learning, Classification_ `April 30, 2020`
 
-: > Using <a href="https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-02-11/readme.md" title="Dataset Repository" target="_blank">_Trivago's hotel booking data_</a>, I walk you through an in-depth feature analysis to find important fields that could be used to improve customer retention. I walk through the implementation of the three presented models for predicting whether a customer will cancel their booking prior to arrival, each with their own benefits of reducing incorrectly predicted cancelations (False Negative Rate) and improving the correctly guessed cancelations (True Positive Rate).
+: > Using <a href="https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-02-11/readme.md" title="Dataset Repository" target="_blank">_Trivago's hotel booking data_</a>, I walk through an in-depth feature analysis to find important fields that could be used to improve customer retention. I also walk through the implementation of the three presented Random Forest models for predicting whether a customer will cancel their booking prior to arrival, each with their own benefits of reducing incorrectly predicted cancelations (False Negative Rate) and improving the correctly guessed cancelations (True Positive Rate).
 
 
 
@@ -133,7 +133,7 @@ These are only some of my favorite projects; many, many more can be found in my 
 <!-- body text -->
 
 &nbsp; &nbsp; _Predictive Analysis_ `March 24, 2020`
-: > I walk you through the full process of manipulating the raw COVID-19 data <a href="https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases" title="the data source" target="_blank">_from a compilation of John Hopkins' dataset_</a>, analyzing the data for patterns, and creating and implementing a hand built Markov Chain type Monte Carlo Algorithm to predict the future number of Cumulative Deceased Cases in Italy. The predictions had great accuracy to the actual reported cases, especially as only 2 months of data was used. However, this accuracy tends to drop off over time, showing this is a better short-term predictor.
+: > I walk through the full process of manipulating the raw COVID-19 data <a href="https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases" title="the data source" target="_blank">_from a compilation of John Hopkins' dataset_</a>, analyzing the data for patterns, and creating and implementing a hand built Markov Chain type Monte Carlo Algorithm to predict the future number of Cumulative Deceased Cases in Italy. The predictions had great accuracy to the actual reported cases, especially as only 2 months of data was used. However, this accuracy tends to drop off over time, showing this is a better short-term predictor.
 
 <!-- : > This project uses the COVID-19 data to create and implement a hand built Markov Chain type Monte Carlo Algorithm to predict the future number of Cumulative Deceased Cases in Italy, as well as take an in-depth analysis of Italys' Deceased Cases. -->
 
