@@ -9,15 +9,16 @@
 ## **Programming skills**
 
 ```python
-1. Python = [PyTorch, Keras, TensorFlow, Scikit-Learn, spaCy,
-2.          numPy, Pandas, Matplotlib, GeoPandas, Flask]
-3.
-4. R <- c(Tidyverse, RandomForest, GGplot2
-5.        ,Plotly, Highcharters, Shiny, Caret
-6.     )
-7.
-8. std::string others[8] = {"C", "C++", "Elixir", "Phoenix",
-9.                          "SQL", "JS", "CSS", "HTML"};
+Python = [PyTorch, Keras, TensorFlow, Scikit-Learn, spaCy,
+          numPy, Pandas, Matplotlib, GeoPandas, Flask]
+
+R <- c(
+        Tidyverse, RandomForest, GGplot2
+        ,Plotly, Highcharters, Shiny, Caret
+    )
+
+ std::string others[8] = {"C", "C++", "Elixir", "Phoenix",
+                         "SQL", "JS", "CSS", "HTML"};
 ```
 
 ## **Areas of Expertise**
