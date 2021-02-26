@@ -181,7 +181,7 @@ These are only some of my favorite projects; many, many more can be found in my 
 
 
 
-
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="rubbish_analysis.html" target="_blank"><img src="b.analysis.png" /></a>
 
 
 
