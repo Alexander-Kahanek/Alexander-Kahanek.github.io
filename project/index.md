@@ -6,7 +6,7 @@ These are only some of my favorite projects; many, many more can be found in my 
 
 <!-- title -->
 
-### <a href="https://github.com/Alexander-Kahanek/trump_nickname_gen" title="GitHub Repository" target="_blank">TrumpGen: What nickname would trump give you?</a> &nbsp; ![image](/assets/icons/rsz_python-logo.png) &nbsp; ![image](/assets/icons/elixir-phoenix-logo.png)
+### <a href="https://github.com/Alexander-Kahanek/trump_nickname_gen" title="GitHub Repository" target="_blank">TrumpGen: What nickname would Trump give you?</a> &nbsp; ![image](/assets/icons/rsz_python-logo.png) &nbsp; ![image](/assets/icons/elixir-phoenix-logo.png)
 
 <!-- body text -->
 
