@@ -52,7 +52,7 @@ Kahanek, A., Yu, X., Cleveland, A., Philbrick, J., & Hong, L. _Temporal variatio
 
 ```python
 Python = [PyTorch, Keras, TensorFlow, Scikit-Learn, spaCy,
-          numPy, Pandas, Matplotlib, GeoPandas, Flask]
+          numPy, Pandas, Matplotlib, GeoPandas, Gym]
 
 R <- c(
         Tidyverse, RandomForest, GGplot2
