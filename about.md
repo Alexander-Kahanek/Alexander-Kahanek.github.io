@@ -37,14 +37,6 @@ government to restructure their cleanup procedures.
 
 
 
-`2019-2020` **Mathematics Tutor**
-
-&nbsp; &nbsp; &nbsp; _University of North Texas_
-
-: > Tutored over 400 fellow students in a multitude of mathematics courses, learning how to llustrate and convey complex concepts to others effectively.
-
-
-
 `2012-18` **Health Care Specialist (68W)**
 
 &nbsp; &nbsp; &nbsp; _United States Army, National Guard (MA, TX)_
@@ -53,12 +45,6 @@ government to restructure their cleanup procedures.
 
 : > Worked in trauma-based and clinical medicine, treating thousands of patients, and defining medical procedures.
 
-
-`2015-17`**Emergency Medical Technician**
-
-&nbsp; &nbsp; &nbsp; _American Medical Respoonse (MA, TX)_
-
-: > Responded to over 600 9-1-1 emergencies.
 
 
 
