@@ -11,7 +11,7 @@
 ## **Employment**
 
 
-`Always Open` **Data Scieence Consulting**
+`Always Open` **Data Science Consulting**
 
 &nbsp; &nbsp; &nbsp; _Rubbish, co._
 
