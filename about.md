@@ -8,19 +8,6 @@
 
 ## **Programming skills**
 
-```python
-Python = [PyTorch, Keras, TensorFlow, Scikit-Learn, spaCy,
-          numPy, Pandas, Matplotlib, GeoPandas, Flask]
-
-R <- c(
-        Tidyverse, RandomForest, GGplot2
-        ,Plotly, Highcharters, Shiny, Caret
-    )
-
- std::string others[8] = {"C", "C++", "Elixir", "Phoenix",
-                         "SQL", "JS", "CSS", "HTML"};
-```
-
 
 ## **Publications**
 
@@ -71,6 +58,20 @@ government to restructure their cleanup procedures.
 &nbsp; &nbsp; &nbsp; _American Medical Respoonse (MA, TX)_
 
 : > Responded to over 600 9-1-1 emergencies.
+
+
+```python
+Python = [PyTorch, Keras, TensorFlow, Scikit-Learn, spaCy,
+          numPy, Pandas, Matplotlib, GeoPandas, Flask]
+
+R <- c(
+        Tidyverse, RandomForest, GGplot2
+        ,Plotly, Highcharters, Shiny, Caret
+    )
+
+ std::string others[8] = {"C", "C++", "Elixir", "Phoenix",
+                         "SQL", "JS", "CSS", "HTML"};
+```
 
 
 ## **Areas of Expertise**
