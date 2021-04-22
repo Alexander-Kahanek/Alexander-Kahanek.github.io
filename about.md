@@ -21,16 +21,15 @@ R <- c(
                          "SQL", "JS", "CSS", "HTML"};
 ```
 
-## **Areas of Expertise**
 
-|
+## **Publications**
 
-<p align="center"><img src="https://alexander-kahanek.github.io/assets/img/expertise_graph.png"></p>
+: > Kahanek, A., Yu, X., Cleveland, A., Philbrick, J., & Hong, L. Temporal variations and spatial disparities in public reaction towards COVID-19 and CDC guidelines in the United States. (Submitted to Journal of Information Science)
 
 
 ## **Employment**
 
-`2020-Curr` **Data Scieence Consulting**
+`Always Open` **Data Scieence Consulting**
 
 &nbsp; &nbsp; &nbsp; _Rubbish, co._
 
@@ -62,20 +61,28 @@ government to restructure their cleanup procedures.
 
 &nbsp; &nbsp; &nbsp; _United States Army, National Guard (MA, TX)_
 
-: > Spearheaded a team of 15 people, that reduced response time by 50%, for the East African Response Force, while working in the medical sector learning how to solve problems efficiently and quickly.
+: > Spearheaded a team of 15 people, that reduced response time by 50%, for the East African Response Force.
 
+: > Worked in trauma-based and clinical medicine, treating thousands of patients, and defining medical procedures.
 
 
 `2015-17`**Emergency Medical Technician**
 
 &nbsp; &nbsp; &nbsp; _American Medical Respoonse (MA, TX)_
 
-: > Responded to over 600 9-1-1 emergencies, where I learned the importance of thorough documentation.
+: > Responded to over 600 9-1-1 emergencies.
+
+
+## **Areas of Expertise**
+
+|
+
+<p align="center"><img src="https://alexander-kahanek.github.io/assets/img/expertise_graph.png"></p>
 
 
 ## **Education**
 
-`2018-21` **University of North Texas**
+`2018- December 21` **University of North Texas**
 
 : B.S. Data Science, Minor in Mathematics, Statistics Certification
 
