@@ -24,7 +24,7 @@ R <- c(
 
 ## **Publications**
 
-: > Kahanek, A., Yu, X., Cleveland, A., Philbrick, J., & Hong, L. Temporal variations and spatial disparities in public reaction towards COVID-19 and CDC guidelines in the United States. (Submitted to Journal of Information Science)
+Kahanek, A., Yu, X., Cleveland, A., Philbrick, J., & Hong, L. Temporal variations and spatial disparities in public reaction towards COVID-19 and CDC guidelines in the United States. <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Submitted to Journal of Information Science)
 
 
 ## **Employment**
