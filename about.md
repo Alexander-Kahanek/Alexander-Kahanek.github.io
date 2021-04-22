@@ -6,15 +6,15 @@
 |
 <a href="https://linkedin.com/in/alex-kah" target="_blank">LinkedIn</a>**</span>
 
-## **Programming skills**
-
 
 ## **Publications**
 
-Kahanek, A., Yu, X., Cleveland, A., Philbrick, J., & Hong, L. Temporal variations and spatial disparities in public reaction towards COVID-19 and CDC guidelines in the United States. <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Submitted to Journal of Information Science)
+
+Kahanek, A., Yu, X., Cleveland, A., Philbrick, J., & Hong, L. Temporal variations and <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; spatial disparities in public reaction towards COVID-19 and CDC guidelines in the United States. (Submitted to Journal of Information Science)
 
 
 ## **Employment**
+
 
 `Always Open` **Data Scieence Consulting**
 
@@ -24,6 +24,7 @@ Kahanek, A., Yu, X., Cleveland, A., Philbrick, J., & Hong, L. Temporal variation
 
 : > Built a data-oriented dashboard, as a R Shiny Web Application, to display a community led trash cleanup of SoMa West, CA. The dashboard was used by the city 
 government to restructure their cleanup procedures.
+
 
 
 `2020-Curr` **Machine Learning Researcher**
@@ -59,6 +60,9 @@ government to restructure their cleanup procedures.
 
 : > Responded to over 600 9-1-1 emergencies.
 
+
+
+## **Programming skills**
 
 ```python
 Python = [PyTorch, Keras, TensorFlow, Scikit-Learn, spaCy,
