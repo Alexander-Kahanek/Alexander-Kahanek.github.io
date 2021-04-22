@@ -30,17 +30,24 @@ R <- c(
 
 ## **Employment**
 
-`2020-Curr` **Research Assistant**
+`2020-Curr` **Data Scieence Consulting**
+
+&nbsp; &nbsp; &nbsp; _Rubbish, co._
+
+: > Utilized Clustering Analysis to find insights into littering during events (Startup Grind 2020) and provided feedback on data-collection methods to improve data quality for future Machine Learning and Business ventures.
+
+: > Built a data-oriented dashboard, as a R Shiny Web Application, to display a community led trash cleanup of SoMa West, CA. The dashboard was used by the city 
+government to restructure their cleanup procedures.
+
+
+`2020-Curr` **Machine Learning Researcher**
 
 &nbsp; &nbsp; &nbsp; _University of North Texas_
 
-: > Currently working on publishing my own research utilizing Natural Language Processing to analyze the sentiment of CDC guidelines for COVID-19 in Twitter.
+: > Currently working with Twitter data to analyze sentiment and topics of racists tweets revolving around COVID-19, utilizing state-of-the-art Natural Language Processing techniques and models.
 
-`2020-2020` **NSF-REU Information Science Research**
+: > Developed generalized methods to improve Morphological Inflection in Low-Resource Languages, utilizing data manipulation. These methods improved the accuracy of Deep Learning Neural Network predictions by 5%.
 
-&nbsp; &nbsp; &nbsp; _University of North Texas_
-
-: > Developed generalized methods to improve Morphological Inflection in Low-Resource Languages utilizing data manipulation. These methods improved the accuracy of Neural Network training by 5%.
 
 
 `2019-2020` **Mathematics Tutor**
@@ -49,11 +56,15 @@ R <- c(
 
 : > Tutored over 400 fellow students in a multitude of mathematics courses, learning how to llustrate and convey complex concepts to others effectively.
 
+
+
 `2012-18` **Health Care Specialist (68W)**
 
 &nbsp; &nbsp; &nbsp; _United States Army, National Guard (MA, TX)_
 
 : > Spearheaded a team of 15 people, that reduced response time by 50%, for the East African Response Force, while working in the medical sector learning how to solve problems efficiently and quickly.
+
+
 
 `2015-17`**Emergency Medical Technician**
 
