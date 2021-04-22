@@ -7,13 +7,6 @@
 <a href="https://linkedin.com/in/alex-kah" target="_blank">LinkedIn</a>**</span>
 
 
-## **Publications**
-
-
-Kahanek, A., Yu, X., Cleveland, A., Philbrick, J., & Hong, L. _Temporal variations and <br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; spatial disparities in <br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; public reaction towards COVID-19 and CDC guidelines in the United States._ (Submitted to Journal of Information Science)
-
 
 ## **Employment**
 
@@ -47,6 +40,11 @@ government to restructure their cleanup procedures.
 
 : > Worked in trauma-based and clinical medicine, treating thousands of patients, and defining medical procedures.
 
+
+## **Publications**
+
+
+Kahanek, A., Yu, X., Cleveland, A., Philbrick, J., & Hong, L. _Temporal variations and spatial disparities in public reaction towards COVID-19 and CDC guidelines in the United States._ (Submitted to Journal of Information Science)
 
 
 
