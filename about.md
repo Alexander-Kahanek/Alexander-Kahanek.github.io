@@ -46,7 +46,7 @@ government to restructure their cleanup procedures.
 
 Kahanek, A., Yu, X., Cleveland, A., Philbrick, J., & Hong, L. _Temporal variations and spatial disparities in public reaction towards COVID-19 and CDC guidelines in the United States._ (Submitted to Journal of Information Science)
 
-
+---------------------------------------------------------------------------------
 
 ## **Programming skills**
 
