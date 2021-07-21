@@ -6,15 +6,15 @@ These are only some of my favorite projects; many, many more can be found in my 
 
 <!-- title -->
 
-### <a href="https://github.com/Alexander-Kahanek/Rubbish_Clustering" title="GitHub Repository" target="_blank">Understanding Litter Patterns at Large Events, With Data Science and Clustering.</a> &nbsp; ![image](/assets/icons/rsz_1rsz_1rsz_619px-r_logosvg.png) &nbsp; ![image](/assets/icons/rsz_python-logo.png)
+### <a href="https://github.com/Alexander-Kahanek/Rubbish_Clustering" title="GitHub Repository" target="_blank">Understanding Litter Patterns at Large Events.</a> &nbsp; ![image](/assets/icons/rsz_1rsz_1rsz_619px-r_logosvg.png) &nbsp; ![image](/assets/icons/rsz_python-logo.png)
 
 <!-- body text -->
 
 &nbsp; &nbsp; _Clustering Analysis_ `July 21, 2021`
-: > In collaboration with <a href="https://www.rubbish.love/" title="Rubbish Website" target="_blank">_Rubbish, co._</a> we measured the efficacy of waste bins, finding that placing bins no more than 40 feet apart should help minimize the litter impact at large events. <a href="https://alexander-kahanek.github.io/project/rubbish_analysis.html" title="analysis R notebook" target="_blank">_The Analysis_</a> walks through the entire process to measure the efficacy of waste bins, as well as my reccomendations for future litter collection initiatives for large events. While <a href="https://medium.com/rubbish-love/understanding-litter-patterns-at-large-events-with-data-science-and-clustering-b2c0e1ddfa8c" title="medium article" target="_blank">_the Medium article_</a> displays a high-level overview of the insights and impacts gained from this analysis. The data itself contains 2,437 points of litter collected from the <a href="https://www.startupgrind.com/" title="startup grind event" target="_blank">_Startup Grind 2020 event_</a> in San Francisco, California. The litter itself was collected by the Rubbish team.
+: > In collaboration with <a href="https://www.rubbish.love/" title="Rubbish Website" target="_blank">_Rubbish, co._</a> we measured the efficacy of waste bins utilizing Clustering Analysis techniques, finding that placing bins no more than 40 feet apart should help minimize the litter impact at large events. <a href="https://alexander-kahanek.github.io/project/rubbish_analysis.html" title="analysis R notebook" target="_blank">_The Analysis_</a> walks through the entire process to measure the efficacy of waste bins, as well as my reccomendations for future litter collection initiatives for large events. While <a href="https://medium.com/rubbish-love/understanding-litter-patterns-at-large-events-with-data-science-and-clustering-b2c0e1ddfa8c" title="medium article" target="_blank">_the Medium article_</a> displays a high-level overview of the insights and impacts gained from this analysis. The data contains 2,437 points of litter collected from the <a href="https://www.startupgrind.com/" title="startup grind event" target="_blank">_Startup Grind 2020 event_</a> in San Francisco, California. While the litter itself was collected by the Rubbish team.
 
 <!-- image -->
-<p align="center"><img src="https://github.com/Alexander-Kahanek/Rubbish_Clustering/blob/master/viz/Rubbish_Dashboard_fast.gif"></p>
+<p align="center"><img src="https://alexander-kahanek.github.io/assets/img/Rubbish_Dashboard_fast.gif"></p>
 
 <!-- buttons -->
 
