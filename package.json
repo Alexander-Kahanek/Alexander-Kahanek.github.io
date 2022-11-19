@@ -38,7 +38,7 @@
     "prettier": "^1.18.2",
     "re-template-tag": "^2.0.1",
     "webpack": "^4.38.0",
-    "webpack-cli": "^3.3.6",
+    "webpack-cli": "^3.3.12",
     "webpack-merge": "^4.2.1",
     "yargs": "^13.3.0"
   },
